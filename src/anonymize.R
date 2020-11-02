@@ -31,5 +31,11 @@ hist(private_data$age) ## normally distributed around 40-45
 
 private_sdc <- createSdcObj(private_data, keyVars = c("name", "sex", 
                                                       "evote", "citizenship",
-                                                      "zip", "age", "marital_status",
-                                                      "education"), sensibleVar = c("party"))
+                                                      "zip", "marital_status",
+                                                      "education"), 
+                            sensibleVar = c("party"), numVars = c("age"))
+
+# check some naive stuff
+
+private_sdc
+
