@@ -1,0 +1,201 @@
+,name,sex,evote,dob,zip,education,citizenship,marital_status,party
+0,"Donner, Brittany",Female,0,1919-01-09,2300,Vocational bachelors educations,Denmark,Widowed,Red
+1,"Wilkerson, Allison",Female,0,1930-09-22,2200,Vocational Education and Training (VET),Denmark,Widowed,Red
+2,"al-Sayed, Tameema",Female,1,1985-10-04,2100,Vocational Education and Training (VET),Denmark,Married/separated,Green
+3,"Rowe, Nathan",Male,0,1967-05-01,2400,Vocational Education and Training (VET),Denmark,Widowed,Green
+4,"Ambriz-Mendez, Andrew",Male,0,1992-04-01,2200,Masters programmes,Denmark,Never married,Green
+5,"Brenner, Elias",Male,0,1989-04-11,2300,Vocational bachelors educations,Denmark,Married/separated,Red
+6,"Matthew, Jyansea",Female,0,1962-02-28,2300,Masters programmes,Denmark,Married/separated,Red
+7,"Elliott, Ashley",Female,0,1963-09-22,2200,Masters programmes,Denmark,Divorced,Red
+8,"Inks, Shomari",Male,1,1961-12-26,2300,Vocational Education and Training (VET),Denmark,Never married,Red
+9,"Nguyen, Chloe",Female,0,1934-09-10,2200,Vocational bachelors educations,Denmark,Widowed,Red
+10,"Williams, Wesley",Male,0,1956-06-29,2400,Masters programmes,Denmark,Married/separated,Red
+11,"Huynh, Kin-Lino",Male,1,1962-03-21,2400,Vocational Education and Training (VET),Denmark,Never married,Green
+12,"Knowles, Dvaris",Male,0,1975-10-04,2300,Vocational Education and Training (VET),Denmark,Divorced,Green
+13,"Bigthumb, Luisa",Female,0,1954-12-04,2400,Vocational bachelors educations,Denmark,Divorced,Red
+14,"al-Ghani, Qaaida",Female,0,1943-12-02,2400,Vocational Education and Training (VET),Denmark,Widowed,Red
+15,"al-Gaber, Raita",Female,1,1976-07-08,2300,Primary education,Denmark,Never married,Red
+16,"el-Kaleel, Haamida",Female,0,1966-04-14,2300,Primary education,Denmark,Divorced,Green
+17,"Wang, Caleb",Male,1,1996-04-23,2200,Vocational Education and Training (VET),Denmark,Never married,Green
+18,"Gonzalez, Adriana",Female,0,1981-10-30,2400,Vocational Education and Training (VET),Denmark,Never married,Invalid vote
+19,"Ruybal, Rito",Male,0,1958-03-30,2400,Vocational Education and Training (VET),Denmark,Married/separated,Green
+20,"Hernandez, Esmeralda",Female,0,1965-12-17,2200,PhD programmes,Denmark,Married/separated,Red
+21,"Running Rabbit, Joseph",Male,1,1984-07-12,2100,Masters programmes,Denmark,Married/separated,Green
+22,"al-Nasir, Nawwaara",Female,0,1985-10-13,2400,Not stated,Denmark,Married/separated,Green
+23,"Mcclain, Alexandra",Female,0,1983-08-10,2100,Masters programmes,Denmark,Married/separated,Red
+24,"Taylor, Anameca",Female,1,1964-03-17,2100,Vocational Education and Training (VET),Denmark,Married/separated,Green
+25,"Gadd, Bailey",Female,0,1995-09-18,2100,Upper secondary education,Denmark,Never married,Green
+26,"Spoon, Rashiah",Female,0,1998-05-28,2400,Vocational Education and Training (VET),Denmark,Never married,Invalid vote
+27,"Yong, Jacky",Male,0,1938-04-22,2200,Primary education,Denmark,Married/separated,Green
+28,"Kim, Pa Houa",Female,0,1982-09-04,2300,Vocational Education and Training (VET),Denmark,Married/separated,Green
+29,"Carlos, Caleb",Male,0,1961-10-25,2400,Vocational Education and Training (VET),Italy,Married/separated,Green
+30,"Walker, Remington",Male,0,1954-08-27,2300,Masters programmes,Poland,Married/separated,Red
+31,"Redhorse, Victoria",Female,0,1974-07-27,2200,Vocational bachelors educations,Denmark,Married/separated,Red
+32,"al-Rahman, Raaid",Male,0,1977-12-25,2400,Upper secondary education,Denmark,Divorced,Green
+33,"Lee, Shavawn",Female,0,1986-02-16,2400,Primary education,Denmark,Never married,Red
+34,"Hernandez Gonzalez, Blanca",Female,1,1975-11-09,2300,Vocational Education and Training (VET),Denmark,Married/separated,Green
+35,"Musselman, Morgan",Male,1,1993-03-23,2100,Upper secondary education,Denmark,Never married,Green
+36,"Allee, Jordan",Female,1,1955-12-05,2100,Vocational Education and Training (VET),Denmark,Married/separated,Green
+37,"Whiteskunk, Darrell",Male,0,1952-06-08,2100,Primary education,Denmark,Married/separated,Green
+38,"Montalvo, Jessica",Female,1,1982-01-21,2200,Primary education,Denmark,Married/separated,Green
+39,"Mosley, Caleb",Male,1,1983-06-26,2300,Masters programmes,Denmark,Never married,Green
+40,"Hasan, Tahjneke",Male,1,1985-06-17,2100,Primary education,Denmark,Married/separated,Green
+41,"Jung, Tobby",Male,0,1935-04-20,2300,Vocational Education and Training (VET),Denmark,Widowed,Red
+42,"Hoang, Robert",Male,0,1969-03-14,2300,Upper secondary education,Denmark,Divorced,Green
+43,"el-Muhammad, Maazin",Male,0,1972-08-15,2400,Vocational Education and Training (VET),Denmark,Married/separated,Green
+44,"Gonzales, Edward",Male,1,2000-05-13,2100,Primary education,Denmark,Never married,Green
+45,"Ryan, Mikayla",Female,0,1962-02-23,2200,Vocational Education and Training (VET),Denmark,Divorced,Green
+46,"Vang, Jeffrey",Male,0,1944-01-24,2400,Primary education,Denmark,Married/separated,Green
+47,"Olivares, Jasmine",Female,0,1969-05-29,2300,PhD programmes,Denmark,Married/separated,Red
+48,"Smith, Tara",Female,0,1960-10-09,2300,Masters programmes,Denmark,Married/separated,Red
+49,"Johnson, Carmela",Female,0,1957-03-24,2200,Vocational Education and Training (VET),Denmark,Divorced,Green
+50,"al-Mian, Inaaya",Female,0,1974-12-06,2400,Vocational bachelors educations,Denmark,Married/separated,Red
+51,"Collins, Camille",Female,0,1985-09-30,2400,Vocational Education and Training (VET),Denmark,Married/separated,Red
+52,"Campbell, Cody",Male,0,1973-02-05,2300,Short cycle higher education,Denmark,Married/separated,Red
+53,"Gossett, Kara",Female,0,1970-10-15,2200,Primary education,Denmark,Never married,Green
+54,"Guist, Michael",Male,0,1974-11-02,2200,Vocational Education and Training (VET),Denmark,Divorced,Green
+55,"Bramble, Matthew",Male,0,1973-09-09,2400,Vocational Education and Training (VET),Denmark,Never married,Green
+56,"Varela, Maria",Female,0,1995-08-09,2200,Primary education,Denmark,Never married,Green
+57,"Amore, Joshua",Male,0,1923-03-13,2200,Vocational Education and Training (VET),Denmark,Widowed,Green
+58,"Xiong, Christopher",Male,0,1952-02-06,2200,Vocational Education and Training (VET),Denmark,Never married,Green
+59,"Sawyers, Dakota",Female,0,1965-09-19,2300,Primary education,Denmark,Divorced,Red
+60,"Kirschenmann, Andrew",Male,0,1999-02-22,2200,Upper secondary education,Denmark,Never married,Green
+61,"al-Abdou, Naqiyya",Female,1,1969-05-24,2300,Vocational Education and Training (VET),Denmark,Divorced,Red
+62,"Moore, Allen-Dean",Male,0,1957-03-01,2200,Vocational Education and Training (VET),Denmark,Married/separated,Green
+63,"French, Joshua",Male,0,1977-09-01,2300,Masters programmes,Denmark,Never married,Green
+64,"Lucero, Sonia",Female,0,1986-10-17,2200,Primary education,Denmark,Never married,Green
+65,"Rohrkaste, Zachary",Male,1,1982-06-09,2200,Vocational Education and Training (VET),Denmark,Married/separated,Green
+66,"Conley Mishaw, Tre",Male,1,1971-04-23,2300,Primary education,Denmark,Married/separated,Green
+67,"Hammer, Veronica",Female,1,1968-01-29,2400,Vocational Education and Training (VET),Denmark,Married/separated,Green
+68,"Zahn, Jasmine",Female,0,1972-12-25,2300,Vocational bachelors educations,Denmark,Never married,Red
+69,"Houghton, Aubrey",Female,0,1921-09-15,2100,Masters programmes,Denmark,Widowed,Red
+70,"Chang, Phurba",Male,0,1987-05-11,2100,Primary education,Brazil,Never married,Green
+71,"Denardo, Jordain",Male,1,1984-04-24,2100,Primary education,Denmark,Never married,Green
+72,"Abeyta, Kristy",Female,0,1944-08-25,2400,Primary education,Denmark,Married/separated,Red
+73,"Rae, Phillip",Male,0,1971-05-19,2400,Vocational Education and Training (VET),Turkey,Never married,Green
+74,"Tran, Monghuyen",Female,0,1963-11-19,2400,Vocational Education and Training (VET),Denmark,Married/separated,Green
+75,"Quick, Heaven",Female,0,1984-09-03,2400,Vocational bachelors educations,Denmark,Married/separated,Red
+76,"Hunt, Quinn",Female,0,1930-08-18,2400,Vocational Education and Training (VET),Denmark,Married/separated,Green
+77,"Mace, Louis",Male,1,1991-07-06,2300,Vocational bachelors educations,Denmark,Married/separated,Green
+78,"Lobban, Shannon",Female,0,1989-07-07,2100,Vocational Education and Training (VET),Denmark,Never married,Green
+79,"Trujillo, Christian",Male,0,1974-07-04,2200,Primary education,Denmark,Never married,Green
+80,"Reeves, Mikaela",Female,1,1977-07-17,2300,Vocational Education and Training (VET),Denmark,Never married,Green
+81,"Newson, Jasmine",Female,0,1950-02-09,2300,Primary education,Pakistan,Never married,Green
+82,"Olguin, Makari",Male,0,1955-08-18,2400,Vocational Education and Training (VET),Denmark,Widowed,Green
+83,"Godinez, David",Male,1,1980-08-14,2100,Masters programmes,Denmark,Never married,Green
+84,"Ahsan, Samuel",Male,1,1977-04-10,2300,Vocational Education and Training (VET),Denmark,Married/separated,Green
+85,"Mitchell, Silvano",Male,0,1971-02-15,2300,Masters programmes,Armenia,Never married,Green
+86,"el-Habeeb, Saamiqa",Female,1,1964-10-17,2200,Primary education,Denmark,Married/separated,Green
+87,"al-Zaher, Saadiq",Male,0,1976-08-26,2200,Primary education,Denmark,Never married,Green
+88,"Watson, Maya",Female,1,1997-02-18,2200,Vocational Education and Training (VET),Denmark,Never married,Green
+89,"Mcgee, Miya",Female,0,1955-12-01,2200,Vocational Education and Training (VET),Denmark,Never married,Red
+90,"Khabir, David",Male,0,1956-03-31,2300,Short cycle higher education,Denmark,Married/separated,Green
+91,"Motlong, Timothy",Male,0,1993-07-13,2200,Masters programmes,Denmark,Never married,Red
+92,"Little, Donovan",Male,0,1989-01-30,2400,Masters programmes,Denmark,Married/separated,Green
+93,"Green, Braylee",Female,1,1987-09-05,2200,Masters programmes,Denmark,Married/separated,Green
+94,"Nguyen, Amy",Female,1,1977-11-11,2400,Vocational bachelors educations,Denmark,Married/separated,Red
+95,"el-Majid, Khawla",Female,0,1972-07-10,2300,Vocational bachelors educations,Denmark,Never married,Red
+96,"Liam, Kelsey",Female,0,1947-07-13,2400,Vocational bachelors educations,Denmark,Married/separated,Red
+97,"San, Seung",Female,0,1960-09-18,2200,Vocational Education and Training (VET),Denmark,Married/separated,Green
+98,"Solongo, Cameron",Male,0,1989-06-29,2400,Bachelors programmes,China,Never married,Green
+99,"Gillespie, Hanna",Female,1,1981-06-20,2100,Primary education,Denmark,Married/separated,Green
+100,"Doss, Kiearra",Female,0,1999-07-16,2100,Primary education,Denmark,Never married,Green
+101,"Talain, Sarah",Female,0,1972-08-16,2300,Vocational bachelors educations,Denmark,Married/separated,Red
+102,"Richardson, Talia",Female,0,1984-02-29,2300,Bachelors programmes,Denmark,Never married,Red
+103,"al-Can, Hilmiyya",Female,0,1954-08-09,2400,Primary education,Denmark,Married/separated,Green
+104,"Salmon, Annie",Female,0,1976-06-23,2400,Vocational Education and Training (VET),Denmark,Married/separated,Green
+105,"Mercado Espinosa, Alondra",Female,0,1971-02-16,2200,Short cycle higher education,Denmark,Never married,Red
+106,"Song, Austin",Male,0,1993-08-27,2300,Vocational Education and Training (VET),Denmark,Never married,Green
+107,"Mcfarland, Jaylen",Male,0,1956-12-05,2400,Primary education,Denmark,Married/separated,Green
+108,"Bosch, Taylor",Female,0,1957-04-07,2200,Masters programmes,Denmark,Never married,Red
+109,"al-Samra, Zulfa",Female,0,1989-11-07,2300,Vocational bachelors educations,Denmark,Never married,Green
+110,"Hall, Casimer",Male,1,1971-02-08,2400,Vocational Education and Training (VET),Denmark,Married/separated,Green
+111,"Klocker, Derrick",Male,1,1994-07-15,2100,Primary education,Denmark,Never married,Green
+112,"Green, De'Jah",Female,0,2001-02-12,2100,Primary education,Denmark,Never married,Green
+113,"Youtman, Taylor",Female,0,1958-10-26,2300,Vocational Education and Training (VET),Denmark,Married/separated,Green
+114,"Jones, Quanisha",Female,0,1962-01-21,2200,Primary education,Denmark,Divorced,Green
+115,"Hansen, Christian",Male,1,1963-02-19,2200,Short cycle higher education,Denmark,Never married,Green
+116,"Kunimune, Tony",Male,0,1965-03-18,2400,Vocational Education and Training (VET),Denmark,Married/separated,Green
+117,"Cooper, Myla",Female,1,1977-11-04,2300,Vocational Education and Training (VET),Denmark,Married/separated,Red
+118,"Davis, Logan",Male,0,1967-01-20,2300,Upper secondary education,Denmark,Married/separated,Green
+119,"Bacon-Maldonado, Shamika",Female,0,1961-03-03,2400,Vocational bachelors educations,Denmark,Widowed,Green
+120,"Pierce, Chase",Male,0,1989-09-01,2300,Masters programmes,Poland,Married/separated,Green
+121,"Vorwald, Dylan",Male,0,1957-08-30,2400,Vocational bachelors educations,Denmark,Married/separated,Red
+122,"Jaramillo, Amber",Female,1,1987-07-22,2300,Vocational bachelors educations,Denmark,Divorced,Green
+123,"Brittmon, Joshua",Male,1,1967-09-23,2400,Vocational Education and Training (VET),Denmark,Never married,Green
+124,"Cooter, Kelly",Female,0,1951-10-15,2200,Vocational Education and Training (VET),Denmark,Widowed,Green
+125,"Graham, Meaghan",Female,0,2000-08-11,2300,Primary education,Denmark,Never married,Green
+126,"el-Darwish, Nazmiyya",Female,0,1991-04-16,2300,Vocational Education and Training (VET),Denmark,Never married,Green
+127,"el-Bilal, Ghazaala",Female,0,1975-12-27,2100,Bachelors programmes,Stateless,Divorced,Green
+128,"Duong, Heassam",Male,1,1991-08-04,2200,Vocational Education and Training (VET),Afghanistan,Married/separated,Invalid vote
+129,"Macias, Jeanette",Female,0,1972-02-06,2100,Vocational Education and Training (VET),Denmark,Widowed,Red
+130,"al-Masih, Zumruda",Female,1,1963-06-04,2400,Primary education,Denmark,Married/separated,Red
+131,"Miera, Taya",Female,1,1991-05-25,2200,Vocational Education and Training (VET),Denmark,Never married,Green
+132,"Hicks, Devin",Male,0,1971-08-24,2400,Bachelors programmes,Denmark,Married/separated,Green
+133,"Hoskins, Cora",Female,0,1954-07-23,2200,Primary education,Denmark,Widowed,Red
+134,"Rubio, Michaela",Female,0,1971-03-08,2300,Vocational bachelors educations,Denmark,Married/separated,Red
+135,"Cheatle, Carlos",Male,0,1992-05-15,2200,Vocational Education and Training (VET),Denmark,Never married,Invalid vote
+136,"Hunt, Meghann",Female,0,1969-04-04,2400,Masters programmes,Denmark,Divorced,Red
+137,"Milender, Jacqueline",Female,1,1979-12-16,2400,PhD programmes,Denmark,Never married,Red
+138,"Stone, Caleb",Male,0,1974-06-13,2100,Vocational Education and Training (VET),Denmark,Never married,Green
+139,"Yee, Alex",Male,0,1991-03-16,2100,Upper secondary education,Denmark,Married/separated,Green
+140,"George, Sarah",Female,1,1992-10-14,2100,Bachelors programmes,Denmark,Never married,Green
+141,"Anderson, Abdullah",Male,0,1936-12-17,2200,Vocational Education and Training (VET),Denmark,Widowed,Red
+142,"Baker, R'Mond",Male,1,1998-11-01,2200,Upper secondary education,Denmark,Never married,Green
+143,"Moran, Cassiopeia",Female,0,1973-04-10,2200,Short cycle higher education,Denmark,Divorced,Red
+144,"Cordova, Brianca",Female,0,1962-10-26,2200,Vocational Education and Training (VET),Denmark,Married/separated,Green
+145,"Ordunez, John",Male,0,1958-01-24,2200,Vocational Education and Training (VET),Denmark,Married/separated,Green
+146,"Zamora, Brandon",Male,0,1962-03-06,2300,Primary education,Denmark,Never married,Green
+147,"Gay, Senayit",Female,0,1950-09-11,2300,Vocational bachelors educations,Denmark,Married/separated,Red
+148,"Smith, Adjoa",Female,0,1988-09-29,2200,Vocational Education and Training (VET),Romania,Never married,Green
+149,"Sanchez-Garcia, Bernardino",Male,0,1938-03-09,2300,Vocational bachelors educations,Denmark,Married/separated,Red
+150,"Zeller, Nicholas",Male,0,1964-12-04,2300,Vocational Education and Training (VET),Denmark,Never married,Green
+151,"Mohebi, James",Male,1,1980-06-12,2400,Vocational Education and Training (VET),Denmark,Never married,Green
+152,"Cotonuts, Christopher",Male,0,1983-09-15,2400,Vocational bachelors educations,Denmark,Never married,Green
+153,"Gutierrez, Luis",Male,0,1961-10-29,2300,Vocational bachelors educations,Denmark,Never married,Red
+154,"el-Rehman, Taiseer",Male,0,1955-06-16,2200,Not stated,Denmark,Married/separated,Red
+155,"el-Sadri, Awda",Female,1,1994-07-21,2100,Not stated,Denmark,Never married,Green
+156,"Padilla-Scott, Eduardo",Male,0,1984-11-28,2200,Vocational Education and Training (VET),Denmark,Never married,Green
+157,"Le, Whitney",Female,0,1956-10-16,2400,Primary education,Sweden,Married/separated,Red
+158,"Moore, Evangelia",Female,1,1993-02-19,2400,Masters programmes,Denmark,Never married,Green
+159,"Ramirez, Horacio",Male,0,1954-07-24,2300,Primary education,Denmark,Married/separated,Red
+160,"Montano, Kyle",Male,1,1969-01-29,2400,Primary education,Denmark,Never married,Green
+161,"el-Hoque, Shabeeba",Female,0,1987-02-17,2200,Masters programmes,Denmark,Never married,Red
+162,"Palmerino, Nicole",Female,0,1983-05-11,2200,Vocational bachelors educations,Denmark,Never married,Red
+163,"Lor, Julius",Male,1,1994-10-15,2100,Bachelors programmes,Denmark,Never married,Green
+164,"Orr, Vaughn",Male,0,1980-12-14,2400,Vocational bachelors educations,Denmark,Married/separated,Red
+165,"San, Rebecca",Female,0,1947-11-15,2300,Vocational Education and Training (VET),Denmark,Married/separated,Red
+166,"Moselina, Kevin",Male,0,1945-04-22,2400,Vocational Education and Training (VET),Denmark,Married/separated,Green
+167,"al-Jaffer, Manaahil",Female,0,1995-12-01,2300,Upper secondary education,Denmark,Never married,Green
+168,"Sutherburg, Abdul",Male,0,1982-05-20,2400,Vocational Education and Training (VET),Denmark,Divorced,Green
+169,"Borbon, Joshua",Male,0,1971-08-02,2300,Primary education,Denmark,Married/separated,Red
+170,"John, Andrew",Male,0,1946-03-27,2100,Vocational Education and Training (VET),Denmark,Married/separated,Green
+171,"el-Hammoud, Rafeeq",Male,0,1971-02-06,2400,Vocational Education and Training (VET),Denmark,Divorced,Green
+172,"Franklin, Melanie",Female,0,1973-09-05,2200,Vocational Education and Training (VET),Denmark,Never married,Red
+173,"Todd, Alexander",Male,1,1952-01-25,2300,Masters programmes,Denmark,Married/separated,Red
+174,"Caughey, Patrick",Male,0,1960-02-19,2300,Vocational bachelors educations,Denmark,Married/separated,Red
+175,"Ortega-Jacobo, Erika",Female,1,1975-09-05,2400,Vocational Education and Training (VET),Denmark,Married/separated,Green
+176,"Spicely, Treyvon",Male,0,2000-06-06,2100,Primary education,China,Never married,Green
+177,"Brady, Haley",Female,1,1979-02-13,2400,Vocational bachelors educations,Denmark,Married/separated,Red
+178,"Ballard, Elberta",Female,0,1962-02-10,2200,Vocational Education and Training (VET),Denmark,Married/separated,Red
+179,"Luevano, Joshua",Male,0,1961-10-22,2200,Primary education,Denmark,Divorced,Green
+180,"Chen, Lisa",Female,0,1965-10-21,2400,Vocational bachelors educations,Denmark,Never married,Red
+181,"Gary, Maria Liza",Female,0,1958-01-26,2200,Vocational bachelors educations,Denmark,Married/separated,Red
+182,"Pensoneau, Sullivan",Male,0,1979-03-01,2200,Primary education,Denmark,Divorced,Green
+183,"Smith, Haley",Female,0,1949-05-08,2200,Vocational bachelors educations,Poland,Married/separated,Red
+184,"Buffone, Robert",Male,0,1967-09-21,2300,Short cycle higher education,Denmark,Never married,Green
+185,"Kolar, Alesha",Female,1,1998-12-11,2100,Primary education,Denmark,Never married,Green
+186,"Wright, Ariel",Female,0,1918-06-16,2300,Vocational Education and Training (VET),Denmark,Widowed,Green
+187,"Stapleton, Samantha",Female,0,1935-02-06,2400,Primary education,Denmark,Married/separated,Green
+188,"Bell, Timothy",Male,0,1981-05-25,2100,Primary education,Denmark,Married/separated,Green
+189,"Simpson, Justin",Male,0,1966-05-26,2100,Vocational Education and Training (VET),Denmark,Never married,Green
+190,"Ruiz, Akelah",Female,0,1978-12-26,2100,Vocational Education and Training (VET),Denmark,Married/separated,Green
+191,"el-Salloum, Naazil",Male,1,1976-11-27,2200,Upper secondary education,Denmark,Divorced,Green
+192,"Baker, Sara",Female,0,1920-05-15,2400,Primary education,Turkey,Widowed,Red
+193,"Khalidov, Grace",Female,0,1991-01-09,2200,Vocational bachelors educations,Denmark,Never married,Red
+194,"Heflin, Kendall",Female,1,1994-06-16,2100,Vocational Education and Training (VET),Denmark,Never married,Green
+195,"Ordonez, Gloria",Female,0,1941-02-24,2400,Vocational Education and Training (VET),Denmark,Married/separated,Green
+196,"Grover, Mathew",Male,0,1954-04-22,2300,Vocational bachelors educations,Denmark,Married/separated,Red
+197,"Garcia, Ricardo",Male,1,1989-10-28,2200,Masters programmes,Denmark,Never married,Green
+198,"Cortese, Alissa",Female,0,1984-07-11,2300,Short cycle higher education,Denmark,Married/separated,Red
+199,"Orwig, Mcmanus",Male,0,1958-09-28,2400,Vocational Education and Training (VET),Denmark,Divorced,Green

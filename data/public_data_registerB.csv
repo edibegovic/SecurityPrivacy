@@ -1,0 +1,1516 @@
+,name,sex,dob,zip,citizenship,marital_status,last_voted
+0,"Le, Ian",Male,1998-08-30,2300,Denmark,Never married,1
+1,"Wang, Caleb",Male,1996-04-23,2200,Denmark,Never married,1
+2,"Carranco, Raquel",Female,1994-08-06,2200,Denmark,Never married,1
+3,"Williams, Geona",Female,1995-04-22,2100,Sweden,Never married,2
+4,"Gonzales, Edward",Male,2000-05-13,2100,Denmark,Never married,1
+5,"Friesen, Mark",Male,1999-03-12,2100,Denmark,Never married,1
+6,"Landeros, Janae",Female,1999-05-08,2200,Denmark,Never married,1
+7,"Garrett, Alejandro",Male,2000-04-22,2300,Denmark,Never married,2
+8,"Smeal, Cuauhtemoc",Male,1998-10-03,2100,Denmark,Never married,2
+9,"Hernandez, Alfonso",Male,1998-11-14,2400,Denmark,Never married,2
+10,"Rosen, Perla",Female,1997-12-26,2300,Denmark,Never married,1
+11,"Mckeon, Kelsey",Female,1997-12-03,2100,Denmark,Never married,2
+12,"Klocker, Derrick",Male,1994-07-15,2100,Denmark,Never married,1
+13,"Session, Christian",Male,1995-06-16,2200,Denmark,Never married,1
+14,"Ronnebaum, Kelia",Female,1994-09-20,2100,Denmark,Never married,2
+15,"Shin, Zamir",Male,1998-11-06,2300,Denmark,Never married,2
+16,"Watkins, Khalia",Female,1994-08-29,2200,Denmark,Divorced,2
+17,"Ho, Brandon",Male,1995-06-17,2100,Denmark,Never married,1
+18,"Lucero, Daniel",Male,1996-06-17,2200,Denmark,Never married,1
+19,"el-Noori, Amniyya",Female,1996-02-24,2300,Denmark,Never married,1
+20,"Holt, Bryan",Male,1996-10-31,2300,Denmark,Never married,1
+21,"Holmes, Shiloh",Male,1995-09-05,2100,Denmark,Never married,2
+22,"Badback, Kameron",Male,1994-12-19,2300,Denmark,Never married,2
+23,"Currin, Wyatt",Male,2001-01-02,2300,Denmark,Never married,2
+24,"Flores, Ian",Male,1995-02-21,2100,Denmark,Never married,2
+25,"Abeyta, Ivan",Male,1996-05-16,2300,Denmark,Never married,2
+26,"el-Sadri, Awda",Female,1994-07-21,2100,Denmark,Never married,1
+27,"Lara, Filiberto",Male,1995-09-18,2100,Denmark,Never married,1
+28,"Zhang, Matthew",Male,1999-03-06,2300,Denmark,Never married,2
+29,"Aweida, Kaili",Female,1996-02-02,2200,Denmark,Never married,2
+30,"Marin, Marco",Male,2000-02-12,2300,Denmark,Never married,2
+31,"Lor, Julius",Male,1994-10-15,2100,Denmark,Never married,1
+32,"al-Ayoub, Kifaaya",Female,2000-10-08,2100,Denmark,Never married,1
+33,"Heflin, Kendall",Female,1994-06-16,2100,Denmark,Never married,1
+34,"Romero, Bryan",Male,1996-02-12,2400,Denmark,Never married,1
+35,"Olarte, Yeng",Male,2000-03-27,2100,Denmark,Never married,1
+36,"Reweti, Katie",Female,1999-03-05,2400,Denmark,Never married,1
+37,"Baker, R'Mond",Male,1998-11-01,2200,Denmark,Never married,1
+38,"Kolar, Alesha",Female,1998-12-11,2100,Denmark,Never married,1
+39,"Williams, Isaiah",Male,1995-05-08,2300,Denmark,Never married,1
+40,"Wellington, Tory",Female,1996-03-02,2300,Denmark,Never married,1
+41,"Gallegos-Aguirre, Alfredo",Male,1999-01-08,2100,Germany,Never married,2
+42,"Watson, Maya",Female,1997-02-18,2200,Denmark,Never married,1
+43,"Gabriel, August",Male,1995-04-29,2200,Denmark,Never married,2
+44,"al-Mansouri, Asmar",Male,2000-09-16,2100,Denmark,Never married,1
+45,"Lott, Michael",Male,1995-07-01,2200,Denmark,Never married,2
+46,"Munoz, Alejandro",Male,2000-03-03,2100,Netherlands,Never married,1
+47,"Begay, William",Male,1999-11-29,2300,Denmark,Never married,1
+48,"Ordanza, Bo",Male,2000-07-14,2200,Denmark,Never married,2
+49,"Wonnell, Parker",Male,1999-04-07,2100,Denmark,Never married,1
+50,"el-Ghattas, Qamraaa",Female,1996-06-09,2200,Denmark,Never married,2
+51,"al-Amir, Aaida",Female,1985-04-07,2100,Denmark,Never married,1
+52,"el-Yassin, Yaasmeen",Female,1990-08-19,2100,Denmark,Married/separated,2
+53,"Baca, Jorge",Male,1990-02-28,2300,Denmark,Never married,2
+54,"al-Sayed, Tameema",Female,1985-10-04,2100,Denmark,Married/separated,1
+55,"al-Ramadan, Abdul Noor",Male,1986-09-09,2100,Denmark,Never married,1
+56,"Wright, Selena",Female,1984-07-13,2200,Denmark,Married/separated,1
+57,"Kasten, Dylan",Male,1984-12-22,2400,Denmark,Never married,1
+58,"Hill, Tiffany",Female,1991-08-21,2100,Denmark,Never married,2
+59,"Wright, Antonio",Male,1986-08-25,2200,Denmark,Married/separated,1
+60,"Singal, Jonel",Male,1987-04-08,2300,Denmark,Never married,1
+61,"Makaiwi, Angelique",Female,1991-03-23,2200,Denmark,Married/separated,2
+62,"Hasan, Tahjneke",Male,1985-06-17,2100,Denmark,Married/separated,1
+63,"Granados, Aaran",Male,1986-01-16,2200,Denmark,Never married,1
+64,"Jaramillo, Amber",Female,1987-07-22,2300,Denmark,Divorced,1
+65,"Bedford, Jeffrey",Male,1985-10-22,2200,Latvia,Never married,1
+66,"Mace, Louis",Male,1991-07-06,2300,Denmark,Married/separated,1
+67,"Baca, Kateri",Female,1985-02-01,2300,Denmark,Married/separated,1
+68,"Hicks, Quyncc",Male,1986-04-17,2400,Denmark,Never married,2
+69,"Pham, Tyler",Male,1991-06-25,2100,Denmark,Married/separated,1
+70,"Jackson, Vileasha",Female,1991-10-07,2300,Denmark,Never married,1
+71,"Dvornak, Alexander",Male,1986-03-21,2200,Denmark,Married/separated,1
+72,"Moore, Evangelia",Female,1993-02-19,2400,Denmark,Never married,1
+73,"al-Dajani, Suhaa",Female,1991-10-26,2300,Greece,Never married,1
+74,"Running Rabbit, Joseph",Male,1984-07-12,2100,Denmark,Married/separated,1
+75,"Nelson, Shawn",Male,1985-08-08,2300,Denmark,Never married,1
+76,"el-Noorani, Faalih",Male,1989-03-08,2100,Denmark,Never married,1
+77,"Nguyen, Priya",Female,1984-04-08,2300,Denmark,Married/separated,1
+78,"Duong, Heassam",Male,1991-08-04,2200,Afghanistan,Married/separated,1
+79,"Oberly, Robert",Male,1987-02-02,2100,Philippines,Never married,1
+80,"Ferreri, Ethan",Male,1987-06-02,2200,Denmark,Married/separated,1
+81,"el-Suleiman, Salmaan",Male,1992-11-14,2400,Denmark,Never married,2
+82,"Butler, Tamerik",Male,1987-02-23,2400,Greece,Married/separated,2
+83,"Anderson, Hunter",Male,1987-11-28,2400,Denmark,Never married,1
+84,"al-Saladin, Umair",Male,1993-12-17,2100,Denmark,Never married,1
+85,"Miera, Taya",Female,1991-05-25,2200,Denmark,Never married,1
+86,"al-Hosein, Nawaar",Male,1992-11-19,2100,Denmark,Married/separated,2
+87,"Laulu, Kitanna",Female,1992-12-06,2300,Denmark,Never married,1
+88,"Fuller, Breydon",Male,1986-01-07,2400,Denmark,Married/separated,2
+89,"al-Kassem, Numair",Male,1986-07-24,2200,Denmark,Married/separated,1
+90,"Grady, Concetta",Female,1992-01-03,2200,Comoros,Never married,1
+91,"Jaramillo, Soraya",Female,1985-02-02,2200,Denmark,Never married,1
+92,"Hannon, April",Female,1990-04-22,2300,Denmark,Never married,1
+93,"Annalora, Ashley",Female,1984-12-19,2300,Denmark,Married/separated,2
+94,"Dunn, John",Male,1992-07-11,2300,Denmark,Never married,1
+95,"Oyama, Chandan",Male,1986-09-24,2200,Denmark,Married/separated,2
+96,"Brown, Mariesha",Female,1993-08-23,2400,Denmark,Never married,2
+97,"Le, Christina",Female,1991-06-24,2100,Denmark,Married/separated,2
+98,"Barger, Kaitlyn",Female,1990-12-17,2100,Denmark,Never married,1
+99,"Ortiz, Milton",Male,1986-11-06,2200,Denmark,Divorced,1
+100,"Abeln, Kevin",Male,1990-06-14,2100,Denmark,Never married,2
+101,"Garcia, Ricardo",Male,1989-10-28,2200,Denmark,Never married,1
+102,"Surrage, Elizabeth",Female,1991-04-16,2200,Turkey,Never married,2
+103,"Richardson, Sunnique",Female,1988-05-10,2100,Denmark,Never married,2
+104,"Campos, Charlotte",Female,1986-02-18,2400,China,Married/separated,1
+105,"Neil, Alexandria",Female,1989-08-30,2300,Denmark,Never married,2
+106,"Martinez, Alejandra",Female,1989-12-22,2200,Denmark,Never married,1
+107,"Martinez, Julia",Female,1993-09-01,2100,Denmark,Never married,1
+108,"Jackson, Quentin",Male,1993-08-05,2200,Denmark,Never married,1
+109,"Mommandi, Wahida",Female,1993-12-06,2300,Denmark,Never married,2
+110,"Green, Braylee",Female,1987-09-05,2200,Denmark,Married/separated,1
+111,"Morales, Frankie",Male,1985-12-08,2300,Denmark,Divorced,1
+112,"Cole, Stephanie",Female,1985-12-28,2100,Denmark,Never married,1
+113,"Sasse, Elizabeth",Female,1984-11-05,2400,Denmark,Married/separated,2
+114,"Brant, Kayla",Female,1992-06-23,2200,Denmark,Never married,1
+115,"el-Mohamed, Taalib",Male,1992-08-24,2100,Denmark,Never married,2
+116,"Teasdale, Ludmyla",Female,1988-05-28,2300,Romania,Never married,1
+117,"Canada, Anthony",Male,1985-04-17,2400,Denmark,Never married,2
+118,"al-Harroun, Fateena",Female,1988-04-04,2400,Denmark,Married/separated,1
+119,"Mcgee, Tamikah",Female,1991-08-20,2100,Denmark,Never married,1
+120,"Kuestersteffen, Houston",Male,1993-08-20,2200,Denmark,Never married,1
+121,"Moran, Wendy",Female,1988-07-04,2300,Denmark,Never married,2
+122,"Lim, Justin",Male,1989-08-08,2400,Denmark,Never married,2
+123,"Torres Olmos, Peyton",Female,1984-05-21,2400,Denmark,Never married,1
+124,"Musselman, Morgan",Male,1993-03-23,2100,Denmark,Never married,1
+125,"al-Rehmann, Tawfeeq",Male,1992-01-15,2200,Denmark,Never married,1
+126,"Strebig, Mykina",Female,1992-09-09,2100,Denmark,Married/separated,1
+127,"Leon Fajardo, Adam",Male,1988-01-04,2200,Denmark,Married/separated,1
+128,"Garrett-Mills, Rajae",Female,1992-08-05,2100,Denmark,Never married,2
+129,"el-Hannan, Mufeed",Male,1986-11-09,2200,Denmark,Never married,1
+130,"Lawson, Marissa",Female,1989-08-08,2100,Denmark,Never married,2
+131,"Jackson, Andra",Female,1991-05-13,2100,Denmark,Never married,2
+132,"al-Javed, Jamaal",Male,1987-08-23,2100,Denmark,Never married,1
+133,"Maguire III, Lana",Female,1991-12-31,2100,Denmark,Never married,1
+134,"Mohan, Ruo",Female,1988-12-19,2300,Denmark,Never married,2
+135,"Pham, Sang",Male,1989-04-27,2300,Denmark,Never married,1
+136,"Ladd, Cameron",Male,1989-03-30,2100,Denmark,Never married,2
+137,"Packard, Kaylynn",Female,1993-12-03,2200,Denmark,Never married,1
+138,"Commerford, Justin",Male,1987-02-16,2200,Denmark,Married/separated,1
+139,"Kapule, Elsa",Female,1988-09-15,2300,Denmark,Never married,1
+140,"Lara, Eugene",Male,1984-09-06,2300,Denmark,Divorced,1
+141,"Ombadykow, Kitty",Female,1985-07-14,2300,Denmark,Married/separated,1
+142,"Mercer, Adriano",Male,1992-11-14,2200,Denmark,Never married,2
+143,"Merrell, Devin",Male,1991-06-14,2200,Denmark,Never married,1
+144,"Jenkins, Aaron",Male,1990-03-22,2300,Denmark,Never married,2
+145,"Bakas, Elisabeth",Female,1985-04-22,2300,Afghanistan,Married/separated,1
+146,"George, Sarah",Female,1992-10-14,2100,Denmark,Never married,1
+147,"Bell Jr, Taishayna",Female,1984-12-24,2200,Denmark,Never married,2
+148,"Devera, Beauregard",Male,1987-05-03,2300,Denmark,Married/separated,2
+149,"Blalock, Alaura",Female,1992-11-24,2200,Denmark,Never married,1
+150,"Cruz, Adrian",Male,1984-03-02,2400,Denmark,Never married,1
+151,"Gore, Alissa",Female,1991-03-01,2300,Denmark,Married/separated,2
+152,"Richard, Adrick",Male,1984-06-15,2300,Denmark,Married/separated,1
+153,"Nguyen, Brandon",Male,1991-02-13,2100,Denmark,Married/separated,1
+154,"el-Shah, Waail",Male,1987-07-06,2200,Denmark,Never married,2
+155,"Denardo, Jordain",Male,1984-04-24,2100,Denmark,Never married,1
+156,"Lowe, Alan",Male,1993-02-18,2100,Denmark,Never married,1
+157,"Coffey, Jaycee",Female,1988-11-08,2200,Denmark,Divorced,1
+158,"Allred, Connor",Male,1988-05-19,2100,Denmark,Never married,1
+159,"Miller, Tristin",Male,1987-04-18,2300,Denmark,Never married,1
+160,"Romero, Jesse",Male,1990-10-26,2300,Denmark,Never married,1
+161,"Elliott, Amanda",Female,1990-05-16,2100,Denmark,Never married,1
+162,"Heathcock, Corin",Female,1984-08-09,2200,Denmark,Never married,1
+163,"Yazzie, Alysia",Female,1991-12-22,2300,Burundi,Never married,1
+164,"el-Mustafa, Shaamil",Male,1986-02-24,2300,Denmark,Never married,1
+165,"Welch, Matthew",Male,1987-04-20,2400,Denmark,Never married,2
+166,"Loneeagle, Jesus",Male,1990-06-06,2100,Denmark,Married/separated,1
+167,"Rocha, Casady",Female,1992-10-20,2100,Denmark,Never married,1
+168,"Frazier, Emily",Female,1989-12-01,2200,Denmark,Never married,1
+169,"Mcgillivary, Tommaso",Male,1990-04-16,2100,Denmark,Never married,1
+170,"Folsom, Michelle",Female,1986-12-09,2300,China,Never married,1
+171,"Pingle, Caleb",Male,1976-11-07,2300,Denmark,Married/separated,1
+172,"Mancilla, Mikaela",Female,1975-08-16,2400,Denmark,Divorced,2
+173,"Baasch, Steven",Male,1982-04-29,2100,Denmark,Married/separated,1
+174,"Rohrkaste, Zachary",Male,1982-06-09,2200,Denmark,Married/separated,1
+175,"Lo, Erin",Female,1976-12-14,2400,Denmark,Married/separated,2
+176,"el-Husain, Lubaaba",Female,1978-05-05,2100,Denmark,Married/separated,2
+177,"Burke, Karissa",Female,1979-06-05,2100,Denmark,Married/separated,2
+178,"Machal, Logan",Male,1982-03-26,2100,New Zealand,Married/separated,2
+179,"Sameshima, Franco",Male,1981-07-07,2300,Denmark,Married/separated,2
+180,"Garza, Marisa",Female,1982-01-09,2300,Denmark,Never married,2
+181,"Steveson, Adam",Male,1981-09-08,2200,Denmark,Married/separated,2
+182,"Combs, Nyang",Male,1981-08-10,2100,Denmark,Married/separated,2
+183,"Gober, Orion",Male,1975-02-23,2400,Denmark,Married/separated,1
+184,"Patterson, Sharif",Male,1983-08-29,2100,Denmark,Never married,1
+185,"Ruiz, Kanani",Female,1983-03-05,2200,Romania,Married/separated,1
+186,"Green, Jasmine",Female,1982-03-24,2300,Lithuania,Married/separated,1
+187,"Zheng, Brianne",Female,1974-07-27,2200,Denmark,Never married,1
+188,"Templeton, Noah",Male,1980-05-10,2400,Czech Republic,Never married,1
+189,"Patterson, Dennis",Male,1975-03-10,2400,Denmark,Married/separated,1
+190,"Jones, Christopher",Male,1975-04-09,2400,Denmark,Married/separated,1
+191,"Broadway, Orevaoghene",Male,1983-02-20,2100,Denmark,Never married,1
+192,"Jones Hofmann, Daryn",Female,1983-05-10,2200,Denmark,Married/separated,2
+193,"al-Gaber, Raita",Female,1976-07-08,2300,Denmark,Never married,1
+194,"el-Abdella, Mukhtaar",Male,1975-07-05,2300,Denmark,Married/separated,1
+195,"Rohrbach, Daniel",Male,1981-11-13,2200,Denmark,Never married,2
+196,"Gonzalez, Joshua",Male,1983-05-31,2200,Denmark,Never married,1
+197,"Joe, David",Male,1980-04-06,2200,Denmark,Married/separated,2
+198,"Nguyen, Schuyler",Male,1980-08-23,2400,Denmark,Married/separated,1
+199,"Miller, Tyreece",Male,1978-01-03,2400,Denmark,Never married,2
+200,"Forbis, Nancy",Female,1975-05-04,2300,Denmark,Never married,1
+201,"el-Yassin, Naseer",Male,1978-02-03,2100,Denmark,Never married,1
+202,"Cayou, Davier",Male,1980-06-24,2300,Denmark,Never married,1
+203,"Britton, Jasmine",Female,1975-10-26,2400,Denmark,Divorced,2
+204,"Ellis, Elizabeth",Female,1976-06-05,2400,Denmark,Never married,2
+205,"Tamayo, Prisma",Female,1977-05-22,2300,Denmark,Never married,1
+206,"Valdez, Geralee",Female,1979-05-31,2200,Denmark,Never married,1
+207,"Gillespie, Hanna",Female,1981-06-20,2100,Denmark,Married/separated,1
+208,"Wan, Nilofar",Female,1976-07-23,2200,Denmark,Never married,2
+209,"Hintz, Davidray",Male,1980-08-21,2400,Denmark,Married/separated,1
+210,"Conner, Teig",Male,1976-07-06,2200,Denmark,Never married,2
+211,"Vardas, Jennifer",Female,1974-04-01,2400,Denmark,Married/separated,1
+212,"Jacquez, Natasha",Female,1978-04-08,2200,Germany,Divorced,2
+213,"el-Youssef, Aqeel",Male,1975-10-23,2200,Denmark,Married/separated,2
+214,"Campa, Kaitlyn",Female,1980-04-09,2100,Denmark,Never married,2
+215,"Sullivan, Vanya",Female,1979-12-12,2100,Denmark,Never married,1
+216,"Mcconnell, Christopher",Male,1983-11-27,2200,Denmark,Married/separated,1
+217,"Espinoza, Shanda",Female,1977-01-30,2400,Denmark,Married/separated,1
+218,"al-Khalifa, Maahir",Male,1978-06-07,2300,Bulgaria,Married/separated,1
+219,"Smith, Dylin",Male,1975-12-24,2400,Denmark,Married/separated,2
+220,"Godinez, David",Male,1980-08-14,2100,Denmark,Never married,1
+221,"Mohebi, James",Male,1980-06-12,2400,Denmark,Never married,1
+222,"Reeves, Mikaela",Female,1977-07-17,2300,Denmark,Never married,1
+223,"el-Salloum, Naazil",Male,1976-11-27,2200,Denmark,Divorced,1
+224,"Hernandez Gonzalez, Blanca",Female,1975-11-09,2300,Denmark,Married/separated,1
+225,"Mead, Jessica",Female,1977-04-08,2400,Denmark,Married/separated,1
+226,"Chavez, Jakoby",Male,1978-07-10,2300,Denmark,Married/separated,2
+227,"el-Demian, Aseel",Male,1981-08-29,2400,Denmark,Divorced,2
+228,"Cooper, Myla",Female,1977-11-04,2300,Denmark,Married/separated,1
+229,"Abastta, Ashton",Female,1982-07-05,2400,Indonesia,Never married,1
+230,"Abdalla, Ali",Female,1974-06-18,2100,Denmark,Divorced,1
+231,"Hvambsal, Caitlin",Female,1979-06-20,2400,Denmark,Married/separated,1
+232,"Moore, Simone",Female,1981-03-07,2200,Denmark,Married/separated,1
+233,"el-Fadel, Ashqar",Male,1978-09-12,2400,Denmark,Never married,2
+234,"Rohde, Kevin",Male,1975-10-31,2200,Denmark,Never married,1
+235,"Kim, Alec",Male,1983-10-02,2200,Sweden,Never married,1
+236,"Mosley, Caleb",Male,1983-06-26,2300,Denmark,Never married,1
+237,"Mayes, Samuel",Male,1978-04-03,2400,Denmark,Married/separated,2
+238,"Bowman, Noah",Male,1975-10-26,2400,Denmark,Married/separated,1
+239,"Aguayo Dominguez, Jennifer",Female,1982-12-20,2300,Denmark,Married/separated,2
+240,"Siewiyumptewa, Anthony",Male,1976-05-08,2200,United Kingdom,Divorced,1
+241,"Jones, Jonathan",Male,1982-10-17,2400,Denmark,Married/separated,1
+242,"el-Farha, Badr",Male,1980-03-12,2300,Denmark,Divorced,2
+243,"Cardiel, Zachary",Male,1980-04-12,2100,Denmark,Never married,2
+244,"Hertz, Deion",Male,1982-03-01,2300,Denmark,Never married,1
+245,"Muniz, Aaron",Male,1983-01-16,2200,Mexico,Never married,1
+246,"Nguyen, Thuvan",Female,1977-08-12,2400,Denmark,Never married,1
+247,"Yoshida, Mia",Female,1976-10-30,2400,Syria,Married/separated,1
+248,"Sherer, Alonis",Female,1982-09-22,2200,Denmark,Never married,1
+249,"Hedin, Christopher",Male,1982-11-01,2300,Germany,Never married,2
+250,"Jones, Jia",Female,1983-02-08,2300,Denmark,Divorced,1
+251,"Casados, Rachel",Female,1975-04-06,2400,Denmark,Married/separated,1
+252,"Elwood, Sidney",Female,1974-06-15,2300,Denmark,Never married,1
+253,"Riley, Angelica",Female,1975-06-09,2200,China,Married/separated,2
+254,"Conover, Angelique",Female,1977-07-15,2300,Denmark,Married/separated,2
+255,"Niemoth, Corrinne",Female,1980-10-24,2200,Sweden,Married/separated,1
+256,"Tate, Jessica",Female,1983-02-26,2300,Denmark,Never married,2
+257,"Ramos Varela, Nedy",Female,1977-01-20,2400,Pakistan,Married/separated,1
+258,"el-Khan, Bassil",Male,1981-12-15,2400,Denmark,Married/separated,1
+259,"al-Burki, Annnees",Male,1976-07-09,2200,Denmark,Married/separated,1
+260,"el-Sahli, Aatifa",Female,1975-06-10,2200,Denmark,Married/separated,1
+261,"Balili, Anthony",Male,1981-03-04,2100,Denmark,Married/separated,2
+262,"Nguyen, Amy",Female,1977-11-11,2400,Denmark,Married/separated,1
+263,"Milender, Jacqueline",Female,1979-12-16,2400,Denmark,Never married,1
+264,"Morgan, Niya",Female,1979-07-19,2400,Denmark,Married/separated,1
+265,"Prieto, Nikki",Female,1976-01-23,2400,Egypt,Divorced,2
+266,"Ahsan, Samuel",Male,1977-04-10,2300,Denmark,Married/separated,1
+267,"Schwendemann, Jeremy",Male,1982-08-22,2100,Denmark,Divorced,2
+268,"Tuttle, Cynthia Chaye",Female,1976-11-24,2400,Denmark,Married/separated,1
+269,"Hesse, Shelby",Female,1974-12-13,2200,Denmark,Married/separated,2
+270,"Lucero, Angelo",Male,1983-07-13,2300,Denmark,Never married,2
+271,"Chavez, John",Male,1978-10-11,2400,Denmark,Divorced,1
+272,"Mcclaskey, Deja",Female,1978-11-08,2200,Denmark,Married/separated,1
+273,"al-Saleh, Hamna",Female,1974-06-16,2400,Denmark,Never married,2
+274,"Howell, Nikita",Female,1976-01-18,2200,Denmark,Married/separated,1
+275,"Ortega-Jacobo, Erika",Female,1975-09-05,2400,Denmark,Married/separated,1
+276,"Bustamante, Nicholas",Male,1982-11-19,2100,Denmark,Married/separated,1
+277,"Macaranas, Dollee",Female,1974-03-08,2200,Denmark,Divorced,1
+278,"Zhang, Jacob",Male,1978-10-30,2400,Denmark,Married/separated,1
+279,"Lopez, Christian",Male,1978-10-25,2100,Denmark,Married/separated,1
+280,"Jones, Janae",Female,1974-10-27,2400,Denmark,Never married,2
+281,"Jimenez, Jesus",Male,1976-07-02,2300,Denmark,Never married,1
+282,"Haile, Seekret",Female,1977-08-30,2400,Denmark,Married/separated,2
+283,"Merchant, Bethany",Female,1978-12-24,2300,Denmark,Married/separated,2
+284,"Brady, Haley",Female,1979-02-13,2400,Denmark,Married/separated,1
+285,"Pedford, Andre",Male,1975-07-12,2300,Spain,Never married,1
+286,"Montalvo, Jessica",Female,1982-01-21,2200,Denmark,Married/separated,1
+287,"al-Gad, Kulthum",Female,1974-06-11,2400,Denmark,Married/separated,2
+288,"Ector, Kiyani",Female,1976-07-29,2200,Denmark,Married/separated,2
+289,"el-Irani, Izzat",Male,1981-09-24,2400,Denmark,Never married,1
+290,"Tiburcio, Alice",Female,1978-01-20,2200,Denmark,Divorced,1
+291,"Disney, Valerie",Female,1980-04-14,2100,Denmark,Never married,2
+292,"Martinez, Kayla",Female,1974-11-08,2200,Bosnia and Herzegovina,Never married,2
+293,"Lopez, Amelia",Female,1972-09-10,2400,Denmark,Married/separated,1
+294,"Montano, Kyle",Male,1969-01-29,2400,Denmark,Never married,1
+295,"Kamanawa, Stephanie",Female,1972-12-16,2400,Denmark,Married/separated,1
+296,"Jones, Jordan",Female,1971-03-12,2200,Denmark,Divorced,1
+297,"Boykin, Davonte",Male,1972-10-06,2100,Denmark,Married/separated,2
+298,"al-Abdou, Naqiyya",Female,1969-05-24,2300,Denmark,Divorced,1
+299,"Bell, Brendan",Male,1965-08-22,2300,Romania,Married/separated,2
+300,"Monie, T'Shinae",Male,1973-02-25,2200,Denmark,Married/separated,1
+301,"Brittmon, Joshua",Male,1967-09-23,2400,Denmark,Never married,1
+302,"Glaspie, Diamond",Female,1969-09-27,2100,Denmark,Never married,2
+303,"Cha, Prasanna",Male,1966-08-08,2200,Denmark,Married/separated,1
+304,"Chandonnet, Emily",Female,1968-09-06,2300,Denmark,Married/separated,1
+305,"el-Shakoor, Nawfa",Female,1967-05-19,2400,Denmark,Never married,1
+306,"Slechter, Jamice",Female,1971-06-28,2400,Denmark,Divorced,1
+307,"Haulman, Nathaniel",Male,1972-08-19,2200,Denmark,Never married,1
+308,"Caballero, Amanda",Female,1966-12-11,2100,Denmark,Married/separated,1
+309,"Rios, Lucia",Female,1972-06-07,2200,Denmark,Married/separated,1
+310,"Wu, Michael",Male,1972-08-15,2400,Denmark,Divorced,1
+311,"Busak, Tina",Female,1971-03-04,2400,United Kingdom,Never married,2
+312,"Shields, Connor",Male,1966-12-20,2200,Denmark,Married/separated,2
+313,"Rogers, Timothy",Male,1972-03-09,2200,Denmark,Married/separated,1
+314,"Cardella, Madison",Female,1972-10-29,2400,Canada,Never married,1
+315,"el-Habeeb, Saamiqa",Female,1964-10-17,2200,Denmark,Married/separated,1
+316,"Macneilly, Kelly",Male,1970-02-28,2400,Denmark,Married/separated,1
+317,"Lewis, Shyheim",Male,1967-11-08,2400,Denmark,Never married,1
+318,"Lewis, Bradley",Male,1969-09-13,2400,Denmark,Never married,2
+319,"Her, Karthik",Male,1969-02-16,2300,Denmark,Married/separated,1
+320,"Lesmeister, Grace",Female,1972-02-29,2200,Denmark,Married/separated,1
+321,"Charboneau-Carl, Ashley",Female,1967-03-25,2400,Denmark,Never married,1
+322,"al-Fadel, Fikra",Female,1966-05-02,2300,Denmark,Married/separated,2
+323,"Kim, Angel",Female,1973-03-07,2200,Denmark,Married/separated,1
+324,"Leyva, Michael",Male,1966-10-04,2200,Denmark,Married/separated,1
+325,"Goode, Cheyenne",Female,1967-08-09,2300,Denmark,Divorced,1
+326,"Ramos, Danielle",Female,1969-12-12,2400,Denmark,Married/separated,1
+327,"el-Salem, Taaliba",Female,1965-02-25,2200,Denmark,Never married,1
+328,"Taylor, Anameca",Female,1964-03-17,2100,Denmark,Married/separated,1
+329,"Duran, Luis",Male,1971-12-31,2400,Denmark,Divorced,2
+330,"Cole, Daisha",Female,1967-04-29,2200,Denmark,Married/separated,2
+331,"Morgan, Kevin",Male,1971-06-30,2300,Denmark,Married/separated,1
+332,"Nagashima, Lijie",Male,1970-10-19,2100,Denmark,Married/separated,2
+333,"Maestas, Anthony",Male,1970-09-02,2300,Denmark,Married/separated,1
+334,"Merysca, Alexander",Male,1966-06-16,2400,Denmark,Married/separated,1
+335,"el-Sadiq, Marzooq",Male,1973-03-03,2100,Denmark,Married/separated,1
+336,"el-Rahman, Faraah",Female,1970-01-14,2200,Denmark,Married/separated,2
+337,"Keelick, Pablo",Male,1968-07-19,2300,Denmark,Divorced,1
+338,"Siagian, Brittney",Female,1966-03-10,2300,Denmark,Divorced,2
+339,"Hammer, Veronica",Female,1968-01-29,2400,Denmark,Married/separated,1
+340,"Conley Mishaw, Tre",Male,1971-04-23,2300,Denmark,Married/separated,1
+341,"al-Salameh, Burhaan",Male,1972-03-25,2300,China,Divorced,1
+342,"Hall, Casimer",Male,1971-02-08,2400,Denmark,Married/separated,1
+343,"Hazard, Mi'Kel",Female,1972-02-05,2400,Denmark,Never married,1
+344,"el-Chahine, Nabeeha",Female,1972-03-13,2400,Denmark,Married/separated,1
+345,"Plumley, Preston",Male,1965-06-20,2100,Denmark,Married/separated,1
+346,"Ram, Loan",Female,1970-03-28,2200,Denmark,Never married,1
+347,"Jones, Michael",Male,1968-11-23,2300,Denmark,Married/separated,1
+348,"Ruiz, Alejandro",Male,1965-02-14,2200,Denmark,Married/separated,1
+349,"al-Baluch, Kawthar",Female,1969-05-28,2400,Denmark,Never married,1
+350,"Fernandez, Paola",Female,1969-02-22,2400,Iran,Married/separated,1
+351,"al-Odeh, Abbaas",Male,1969-03-13,2100,Denmark,Never married,2
+352,"Kumar, Seher",Male,1964-08-19,2300,Denmark,Divorced,1
+353,"Verde, Larae",Female,1967-01-23,2200,Denmark,Married/separated,1
+354,"Evans-Looney, Prennis",Male,1966-02-07,2400,Denmark,Married/separated,1
+355,"Lujan, Angela",Female,1967-02-04,2300,Denmark,Married/separated,2
+356,"el-Aslam, Shabaan",Male,1966-03-31,2300,Denmark,Married/separated,1
+357,"Johnson-Newborn, Randy",Male,1964-08-23,2300,Romania,Married/separated,2
+358,"Pamplin, Michael",Male,1971-10-15,2400,Denmark,Married/separated,1
+359,"Martin, Jacob",Male,1971-10-23,2200,Denmark,Married/separated,1
+360,"Flores Andrade, Damian",Male,1973-12-26,2200,Denmark,Divorced,2
+361,"Nguyen, Charles",Male,1971-11-02,2300,Denmark,Married/separated,2
+362,"el-Jama, Sadoon",Male,1968-09-19,2400,Denmark,Married/separated,2
+363,"Cook, Michael",Male,1971-10-25,2400,Denmark,Married/separated,1
+364,"Slaughter, Denise",Female,1967-12-10,2300,Denmark,Divorced,1
+365,"Feather, Shashankh",Male,1959-02-10,2200,Denmark,Married/separated,1
+366,"Sanders, Wanya",Male,1963-03-30,2400,Denmark,Married/separated,1
+367,"Baker, Erin",Female,1961-01-15,2400,Denmark,Married/separated,1
+368,"Reed, Randal",Male,1959-10-23,2300,India,Married/separated,2
+369,"el-Ghanem, Intisaar",Female,1959-12-07,2300,Denmark,Married/separated,1
+370,"Linderman, Noemi",Female,1956-02-19,2200,Poland,Married/separated,2
+371,"Gurreri, Aaron",Male,1956-09-26,2400,China,Married/separated,1
+372,"Khabir, Lark",Male,1962-03-01,2300,Denmark,Married/separated,1
+373,"Huynh, Kin-Lino",Male,1962-03-21,2400,Denmark,Never married,1
+374,"Anderson, Steven",Male,1957-04-02,2400,Denmark,Never married,2
+375,"Mccall, Kelsey",Female,1963-12-18,2100,Denmark,Never married,2
+376,"al-Harroun, Tawheeda",Female,1958-03-30,2200,Denmark,Never married,2
+377,"Perez, Monserrat",Female,1960-09-09,2400,Denmark,Married/separated,1
+378,"Dhillon, Cody",Male,1960-04-11,2300,Denmark,Divorced,2
+379,"Kazemi, Joaquinignacio",Male,1962-11-04,2400,Denmark,Divorced,2
+380,"el-Younis, Nawfa",Female,1955-05-10,2300,Denmark,Married/separated,1
+381,"Morales, Celina",Female,1957-10-27,2400,Denmark,Never married,2
+382,"Huffman, Lauren",Female,1958-07-10,2200,Denmark,Married/separated,2
+383,"al-Masih, Zumruda",Female,1963-06-04,2400,Denmark,Married/separated,1
+384,"el-Kaleel, Mahaa",Female,1956-02-02,2400,Denmark,Married/separated,1
+385,"Sodbinow, Jonathan",Male,1959-04-27,2400,Denmark,Divorced,1
+386,"Willow, Marie",Female,1960-03-19,2300,Denmark,Married/separated,2
+387,"Runyan, Katherine",Female,1962-04-26,2400,Denmark,Married/separated,1
+388,"Reyes Sanchez, Timothy",Male,1962-12-09,2200,Denmark,Married/separated,1
+389,"Coutu, Henry",Male,1955-10-23,2400,Denmark,Divorced,1
+390,"Simpson, Lynn",Male,1962-12-11,2200,Turkey,Married/separated,2
+391,"Kane, Derrick",Male,1958-07-23,2300,Denmark,Married/separated,2
+392,"al-Salim, Annnees",Male,1956-05-15,2200,Denmark,Married/separated,2
+393,"Shibre, Amanuel",Male,1962-06-24,2400,Denmark,Divorced,2
+394,"el-Ullah, Mumtaaza",Female,1964-01-14,2400,Denmark,Married/separated,2
+395,"Kacprowicz, Patricia",Female,1955-08-25,2200,Denmark,Married/separated,2
+396,"Carey, Andrew",Male,1963-09-23,2300,Denmark,Married/separated,2
+397,"Lor, Phitina",Female,1963-03-07,2100,Denmark,Married/separated,1
+398,"Wells, Courtney",Female,1958-03-18,2400,Denmark,Married/separated,1
+399,"Roberts, Kyle",Male,1958-04-20,2400,Denmark,Married/separated,2
+400,"Massie, Amanda",Female,1958-11-06,2400,Denmark,Married/separated,1
+401,"Worrell, Asia",Female,1956-09-09,2300,Denmark,Married/separated,2
+402,"Dance, Natelle Rae",Female,1963-03-27,2400,Denmark,Married/separated,1
+403,"York, Logan",Male,1959-07-07,2200,Denmark,Divorced,2
+404,"Huh, Michael",Male,1960-05-01,2200,Denmark,Married/separated,2
+405,"Garcia, Leticia",Female,1959-02-04,2400,Nepal,Married/separated,1
+406,"Inks, Shomari",Male,1961-12-26,2300,Denmark,Never married,1
+407,"Reed, Kile",Male,1955-12-26,2200,Denmark,Married/separated,2
+408,"al-Kaleel, Zayyaan",Male,1955-09-03,2300,Denmark,Never married,1
+409,"Heffernan, Shelby",Female,1955-05-15,2400,Denmark,Married/separated,2
+410,"Ro, Jessica",Female,1960-08-03,2300,Denmark,Widowed,1
+411,"Pogue, Meredith",Female,1954-05-16,2400,Denmark,Married/separated,2
+412,"Hong, Tia",Female,1956-03-13,2100,Denmark,Married/separated,1
+413,"Whitman, Evan",Male,1959-10-23,2400,Denmark,Married/separated,2
+414,"Bean, Benjamin",Male,1954-10-03,2300,Denmark,Divorced,1
+415,"Andrade, Kendra",Female,1959-04-13,2200,Denmark,Married/separated,2
+416,"Lawrence, Tyrin",Male,1960-01-09,2300,Denmark,Divorced,2
+417,"el-Qasim, Muneera",Female,1959-12-18,2200,Denmark,Married/separated,2
+418,"Lacrue, Erik",Male,1956-03-01,2400,Denmark,Divorced,2
+419,"Nteza, Merhawie",Male,1957-03-14,2300,Denmark,Married/separated,1
+420,"Allee, Jordan",Female,1955-12-05,2100,Denmark,Married/separated,1
+421,"Turner, Xavier",Male,1958-06-30,2400,Denmark,Never married,1
+422,"al-Adel, Najiyya",Female,1963-03-17,2100,Denmark,Never married,1
+423,"al-Farman, Haakima",Female,1956-03-04,2300,Denmark,Married/separated,1
+424,"Richards III, Christopher",Male,1964-02-20,2400,Romania,Never married,2
+425,"Kubit, Jehanzeb",Male,1957-06-05,2200,Denmark,Married/separated,1
+426,"Chargualaf, Esther",Female,1962-10-15,2200,Denmark,Never married,1
+427,"Mendez, Vanessa",Female,1961-06-25,2400,Denmark,Never married,1
+428,"Castaneda, Geoffrey",Male,1959-03-24,2400,Denmark,Married/separated,2
+429,"Chiang, Jenny",Female,1962-11-23,2400,Denmark,Married/separated,1
+430,"Fitzgerald, Sydnie",Female,1954-03-22,2400,France,Married/separated,2
+431,"Garcia, Jordan",Male,1960-10-08,2400,Denmark,Never married,1
+432,"el-Ishmael, Zaghlool",Male,1954-12-24,2200,Denmark,Married/separated,2
+433,"Kendrick, Emily",Female,1962-12-09,2400,Denmark,Married/separated,1
+434,"Hadnott, Ammanuel",Male,1963-07-08,2100,Denmark,Married/separated,2
+435,"Morgan, Malcolm",Male,1963-01-26,2300,Denmark,Never married,2
+436,"Baldes, Amber",Female,1963-08-24,2300,Denmark,Married/separated,1
+437,"Makaiwi, Haley",Female,1954-04-25,2400,Denmark,Married/separated,2
+438,"Hansen, Christian",Male,1963-02-19,2200,Denmark,Never married,1
+439,"Ortiz, Unique",Female,1959-09-15,2200,Denmark,Never married,1
+440,"Horton, Latesha",Female,1951-07-27,2400,Denmark,Married/separated,1
+441,"Stacks, Rosaline",Female,1954-02-12,2400,Denmark,Married/separated,1
+442,"Wright, Kayla",Female,1945-11-12,2100,Denmark,Married/separated,1
+443,"Manning, Suhad",Female,1946-05-28,2400,Denmark,Married/separated,1
+444,"Gaddipati, Tyler",Male,1948-09-11,2200,Denmark,Married/separated,1
+445,"Creech, Halie",Female,1946-06-05,2300,Romania,Married/separated,1
+446,"Harris, Jesse",Female,1949-11-15,2300,Denmark,Married/separated,1
+447,"Hewlett, Felicia",Female,1945-02-17,2300,Bulgaria,Divorced,1
+448,"Mathews, Gabriella",Female,1947-06-15,2100,Denmark,Divorced,2
+449,"el-Awan, Nooriyya",Female,1950-05-04,2400,Denmark,Married/separated,1
+450,"Getz, Aaron",Male,1953-11-02,2300,Denmark,Married/separated,1
+451,"el-Hussein, Masroora",Female,1952-11-21,2200,Denmark,Widowed,2
+452,"Cooper, Eric",Male,1954-02-07,2100,Poland,Married/separated,1
+453,"Falor, Diane",Female,1951-02-09,2100,Denmark,Divorced,1
+454,"Schlose, Amy",Female,1953-07-01,2300,Denmark,Never married,1
+455,"Westerberg, Jonathan",Male,1951-01-02,2300,Denmark,Never married,1
+456,"Thulson, Rachel",Female,1948-12-27,2400,Denmark,Married/separated,1
+457,"Vang, Kimiko",Female,1947-06-16,2400,Denmark,Married/separated,2
+458,"Jablonski, Parker",Male,1949-12-10,2400,Denmark,Widowed,2
+459,"Zyzda, Georgia",Female,1950-01-20,2200,Denmark,Married/separated,1
+460,"Sawicki, Shelly",Female,1947-01-28,2400,Denmark,Married/separated,1
+461,"Nguyen, Chi-Thong",Male,1946-07-12,2400,Denmark,Widowed,1
+462,"Miller, Simonita",Female,1953-04-26,2300,Denmark,Married/separated,1
+463,"Shahan, Lamar",Male,1948-02-07,2300,Denmark,Married/separated,2
+464,"Calderon, Leopoldo",Male,1952-11-02,2300,Denmark,Married/separated,2
+465,"Vo, Julien",Male,1951-06-06,2200,Denmark,Widowed,1
+466,"Donnellan, August",Male,1949-08-25,2200,Denmark,Married/separated,1
+467,"Nelson, Kendall",Female,1947-09-28,2200,Denmark,Never married,1
+468,"Patterson, Jacey",Female,1945-11-25,2300,Denmark,Widowed,1
+469,"Sowell, London",Female,1949-09-25,2300,Denmark,Married/separated,1
+470,"Riley, Kimuraamor",Female,1952-02-17,2400,Denmark,Married/separated,1
+471,"Payne, Daniele",Female,1944-09-02,2300,Denmark,Married/separated,1
+472,"Savoy, Krizma",Female,1936-12-08,2400,Denmark,Married/separated,1
+473,"al-Shaban, Shameem",Male,1934-07-15,2200,Denmark,Widowed,1
+474,"Todd, Alexander",Male,1952-01-25,2300,Denmark,Married/separated,1
+475,"Tran, Rahul",Male,1949-03-04,2300,Poland,Married/separated,2
+476,"Heiderstadt, Rahul",Male,1938-03-07,2400,Denmark,Married/separated,2
+477,"Begay, Patricia",Female,1952-09-01,2400,Denmark,Married/separated,1
+478,"Anderson, Isaac",Male,1947-05-07,2300,Denmark,Divorced,2
+479,"al-Amini, Nawwaara",Female,1946-08-24,2400,Denmark,Married/separated,2
+480,"Becerra Torres, Ana",Female,1941-01-03,2300,Eritrea,Married/separated,2
+481,"White, Antonio",Male,1938-03-19,2300,Denmark,Widowed,1
+482,"Guerrero, Angela",Female,1942-09-02,2400,Denmark,Married/separated,1
+483,"Fields, Oshella",Female,1940-10-09,2400,Denmark,Married/separated,1
+484,"Benavidez, Vanessa",Female,1943-08-12,2200,Denmark,Married/separated,1
+485,"Sanchez, Jasmine",Female,1947-05-08,2400,Denmark,Widowed,2
+486,"Williams, Kenny",Male,1997-06-23,2100,Denmark,Never married,0
+487,"Lopez, Misty",Female,1994-06-17,2200,China,Never married,2
+488,"Matthiesen, Tara",Female,2001-02-02,2100,Ukraine,Never married,0
+489,"Thompson, Noah",Male,1992-07-21,2300,Denmark,Never married,0
+490,"Ostrow, Cecilia",Female,2000-08-28,2300,Denmark,Never married,0
+491,"al-Farooq, Bassil",Male,1998-03-22,2300,Denmark,Never married,0
+492,"Finley-Thomas, Sabastian",Male,1997-11-12,2300,Denmark,Never married,0
+493,"el-Hamady, Manaahil",Female,2001-02-22,2200,Poland,Never married,2
+494,"el-Amini, Rushdi",Male,2000-11-08,2100,Denmark,Never married,2
+495,"el-Farag, Tameema",Female,1996-07-31,2200,Denmark,Never married,0
+496,"Bridge, Zachary",Male,1990-07-16,2200,Denmark,Never married,0
+497,"al-Hana, Shuraih",Male,1994-05-28,2200,Denmark,Never married,2
+498,"Abeyta, Andrew",Male,1994-09-24,2300,Denmark,Never married,2
+499,"Khalidov, Grace",Female,1991-01-09,2200,Denmark,Never married,0
+500,"Parham, Saphire",Female,1989-07-19,2100,Denmark,Never married,0
+501,"el-Momin, Faai Z",Male,1993-06-28,2100,Denmark,Never married,0
+502,"Solongo, Cameron",Male,1989-06-29,2400,China,Never married,0
+503,"Rodriguez, Alexander",Male,1990-11-08,2100,Denmark,Never married,2
+504,"al-Hafeez, Awaatif",Female,1995-05-21,2100,Denmark,Never married,2
+505,"el-Yamin, Shaamil",Male,1998-03-31,2300,China,Never married,0
+506,"Johnson, Angalique",Female,1996-09-09,2300,Denmark,Never married,0
+507,"Herrera, Casandra",Female,1998-09-12,2200,Denmark,Never married,0
+508,"Hoglund, Joseph",Male,1989-05-05,2300,Denmark,Married/separated,0
+509,"Han, Mitchell",Male,1991-04-14,2200,Denmark,Never married,0
+510,"Ruybal, Rajsha",Female,1997-08-10,2200,Denmark,Never married,2
+511,"Marshall, Chandler",Male,2000-03-08,2200,Denmark,Never married,0
+512,"Lim, Brandon",Male,1990-05-07,2200,Denmark,Never married,2
+513,"Baker, Charles",Male,1994-08-17,2200,Denmark,Never married,0
+514,"Lucero, Antonio",Male,1993-06-07,2100,Denmark,Never married,2
+515,"al-Haider, Riyaal",Male,1999-11-24,2300,Denmark,Never married,2
+516,"Matlock, Christina",Female,1993-11-12,2100,Denmark,Never married,0
+517,"Anderson, Justin",Male,1989-08-04,2300,Denmark,Never married,2
+518,"Spoon, Rashiah",Female,1998-05-28,2400,Denmark,Never married,0
+519,"el-Akram, Mubashshir",Male,1990-06-01,2200,Denmark,Married/separated,0
+520,"Gardner, Nicholas",Male,2000-08-18,2100,Denmark,Never married,0
+521,"Doss, Kiearra",Female,1999-07-16,2100,Denmark,Never married,0
+522,"Paintin, Catherine",Female,1995-06-20,2100,Denmark,Never married,0
+523,"al-Kazi, Haaroon",Male,1998-07-29,2100,Denmark,Never married,0
+524,"el-Hashmi, Hanoona",Female,1997-05-06,2300,Denmark,Never married,0
+525,"el-Barakat, Raihaana",Female,1997-01-13,2100,Denmark,Never married,0
+526,"Anderstrom, Blake",Male,1996-08-14,2300,Denmark,Never married,0
+527,"Johnson, Myra",Female,1995-10-16,2100,Denmark,Never married,0
+528,"Wolfert, Chet",Male,1998-09-04,2100,Denmark,Never married,2
+529,"Cacek, Ryan",Male,1992-12-08,2400,Denmark,Never married,0
+530,"Ayers, Taylor",Female,1991-06-01,2100,Denmark,Never married,2
+531,"Maes, Phayd",Male,1996-06-24,2100,Denmark,Never married,0
+532,"Fuentes, Sean",Male,1993-05-02,2100,Denmark,Never married,2
+533,"Banchongchith, Amanda",Female,2000-01-11,2100,Denmark,Never married,2
+534,"Chavez, Lizzeth",Female,1989-05-03,2300,Denmark,Never married,2
+535,"Antoine, Sylvana",Female,1991-07-18,2300,Denmark,Never married,0
+536,"Lobban, Shannon",Female,1989-07-07,2100,Denmark,Never married,0
+537,"Yee, Alex",Male,1991-03-16,2100,Denmark,Married/separated,0
+538,"el-Shaikh, Hakeema",Female,1999-11-23,2200,Denmark,Never married,0
+539,"Woolfolk, Jazmyn",Female,2000-09-12,2100,Denmark,Never married,2
+540,"Douglas, Tyler",Male,1990-03-21,2200,Denmark,Never married,0
+541,"Shea, Ashtyn",Female,1989-12-15,2200,Denmark,Never married,2
+542,"Perkins, Martin",Male,1996-09-06,2200,Denmark,Never married,0
+543,"Salido, Cinthia",Female,1997-10-09,2100,Denmark,Never married,0
+544,"Willoughby, Ashley",Female,1989-09-12,2100,Denmark,Married/separated,0
+545,"Mcnett, Katherine",Female,2000-08-03,2100,Denmark,Never married,0
+546,"el-Amir, Ameer",Male,1994-05-17,2300,Denmark,Never married,0
+547,"Bennett, Tsinnijinnie",Male,1999-09-23,2200,Denmark,Never married,0
+548,"Nixon, David",Male,1994-07-04,2100,Denmark,Never married,2
+549,"Kirschenmann, Andrew",Male,1999-02-22,2200,Denmark,Never married,0
+550,"Carter, Jasmine",Female,1990-02-09,2300,Denmark,Never married,2
+551,"Saeed, Lauren",Female,1989-07-19,2300,Sri Lanka,Never married,0
+552,"Duran, Gregory",Male,1999-06-14,2300,Denmark,Never married,0
+553,"Mendez-Paige, Martia",Female,1992-11-11,2100,Lithuania,Never married,0
+554,"el-Ammar, Sabreen",Female,1999-11-06,2100,Denmark,Never married,0
+555,"Gadd, Bailey",Female,1995-09-18,2100,Denmark,Never married,0
+556,"Payton, Lauren",Female,1992-01-02,2200,Denmark,Married/separated,2
+557,"Lane, Kyla",Female,1998-10-30,2300,Denmark,Never married,0
+558,"Cheatle, Carlos",Male,1992-05-15,2200,Denmark,Never married,0
+559,"al-Huq, Hamad",Male,1993-08-04,2100,Denmark,Never married,0
+560,"Thompson, Deangelo",Male,1994-03-28,2300,Denmark,Never married,2
+561,"Motlong, Timothy",Male,1993-07-13,2200,Denmark,Never married,0
+562,"el-Arshad, Jannat",Female,1992-01-29,2200,Denmark,Never married,2
+563,"Valencia, Julia",Female,1995-02-05,2400,Denmark,Never married,2
+564,"Black, Urian",Male,1995-07-10,2200,Denmark,Never married,2
+565,"Phannadeth, Vi",Female,1989-11-07,2100,Denmark,Never married,0
+566,"al-Nawaz, Naseefa",Female,1995-01-22,2100,Denmark,Never married,0
+567,"Nguyen, Josaphina",Female,1993-08-26,2200,Denmark,Never married,0
+568,"al-Jaffer, Manaahil",Female,1995-12-01,2300,Denmark,Never married,0
+569,"al-Samra, Zulfa",Female,1989-11-07,2300,Denmark,Never married,0
+570,"Gonzalez-Ramirez, Jessica",Female,1990-12-16,2300,Denmark,Never married,0
+571,"Ambriz-Mendez, Andrew",Male,1992-04-01,2200,Denmark,Never married,0
+572,"al-Khalifa, Ramla",Female,2000-10-21,2100,Denmark,Never married,0
+573,"Whitebull-Delgado, Alaina",Female,1991-10-03,2200,Denmark,Never married,2
+574,"el-Atallah, Anas",Male,2000-11-27,2100,Denmark,Never married,0
+575,"Xiong, Jared",Male,1991-08-25,2100,Denmark,Never married,0
+576,"Rodriguez, Juaquin",Male,1994-07-19,2100,Denmark,Never married,2
+577,"Brenner, Elias",Male,1989-04-11,2300,Denmark,Married/separated,0
+578,"Watson, Dylan",Male,1990-07-19,2200,Denmark,Never married,0
+579,"Morgan, Trey",Male,1992-03-13,2300,Denmark,Never married,0
+580,"Song, Austin",Male,1993-08-27,2300,Denmark,Never married,0
+581,"Towns, Adhitya",Male,1996-10-18,2400,Denmark,Never married,0
+582,"Graham, Meaghan",Female,2000-08-11,2300,Denmark,Never married,0
+583,"Rael, Joshua",Male,2000-01-31,2100,Denmark,Never married,0
+584,"Oh, Emily",Female,1995-07-14,2100,Denmark,Never married,2
+585,"Gutierrez, Se-Hee",Female,1991-06-30,2100,Denmark,Never married,0
+586,"Knight, Brent",Male,1997-06-28,2100,Denmark,Never married,0
+587,"Garcia, Erik",Male,1992-05-30,2300,Denmark,Never married,0
+588,"Whipple, Justice",Female,2000-11-17,2300,Denmark,Never married,0
+589,"Barree, Torrance",Male,1994-11-17,2100,Denmark,Never married,0
+590,"Goheen, Dylan",Male,1998-01-27,2200,Denmark,Never married,2
+591,"Won, Yuqiong",Female,1989-06-02,2300,Denmark,Never married,0
+592,"Vu, Chantana",Female,1999-05-30,2200,Denmark,Never married,0
+593,"Babcock, Veronica",Female,2000-04-25,2200,Denmark,Never married,0
+594,"O'Connor, Rylie",Female,1996-06-24,2200,Denmark,Never married,0
+595,"Green, De'Jah",Female,2001-02-12,2100,Denmark,Never married,0
+596,"Johnson, Alphonzo",Male,1998-02-04,2200,Denmark,Never married,0
+597,"Brady, Courtney",Female,1994-11-28,2200,Denmark,Never married,0
+598,"Cho, Kenny",Male,1995-09-18,2100,Denmark,Never married,2
+599,"Spicely, Treyvon",Male,2000-06-06,2100,China,Never married,0
+600,"Leung, Yennhi",Female,1998-06-12,2200,Denmark,Never married,2
+601,"Hughes, Brennan",Male,1996-09-11,2200,Denmark,Never married,2
+602,"Clark, Hannah",Female,1996-04-01,2100,Denmark,Never married,2
+603,"Alvarado, Alejandra",Female,1999-12-11,2300,Denmark,Never married,0
+604,"Billings, Luna",Female,1998-05-26,2300,Denmark,Never married,0
+605,"Patton, Samantha",Female,1989-08-12,2300,Denmark,Never married,0
+606,"Seymour, Cassandra",Female,2001-01-19,2200,Denmark,Never married,0
+607,"Noe, Mahalia",Female,1997-08-15,2300,Denmark,Never married,0
+608,"Varela, Maria",Female,1995-08-09,2200,Denmark,Never married,0
+609,"Ramirez, Heather",Female,1998-09-23,2100,Denmark,Never married,0
+610,"al-Jafri, Thaamir",Male,2000-02-23,2100,Denmark,Never married,2
+611,"Cortez, Jordan",Female,1992-06-06,2100,Denmark,Married/separated,0
+612,"Mullin, Lydia",Female,1994-03-09,2100,Denmark,Never married,2
+613,"Gutierrez, Bianca",Female,1998-01-13,2100,Denmark,Never married,0
+614,"el-Darwish, Nazmiyya",Female,1991-04-16,2300,Denmark,Never married,0
+615,"Vigil, Ariel",Male,1992-11-02,2300,Denmark,Never married,2
+616,"Matrisciano, Sierra",Female,1993-01-03,2100,Denmark,Never married,0
+617,"Saldana, Aldo",Male,1989-07-16,2100,Denmark,Never married,0
+618,"Andolsek, Alec",Male,1992-06-18,2100,Denmark,Never married,0
+619,"Bennett, Jada",Female,2000-04-23,2200,Denmark,Never married,0
+620,"Bengogullari, Akila",Female,1996-02-27,2400,Denmark,Never married,0
+621,"Chadwick, Ryan",Male,1991-12-15,2300,Denmark,Never married,2
+622,"al-Qadir, Saqr",Male,1989-11-08,2300,Denmark,Married/separated,0
+623,"el-Yousif, Rajab",Male,1989-05-05,2100,Denmark,Never married,2
+624,"al-Jamal, Aneesa",Female,1991-03-18,2400,Denmark,Never married,0
+625,"al-Ozer, Maimoona",Female,1998-04-25,2200,Denmark,Never married,2
+626,"Gordon, Jake",Male,1997-01-28,2100,Denmark,Never married,0
+627,"Njenga, Demari",Female,1996-03-31,2100,Denmark,Never married,0
+628,"Oh, Jean-Christophe",Male,1989-12-27,2200,Denmark,Never married,2
+629,"Pierce, Chase",Male,1989-09-01,2300,Poland,Married/separated,0
+630,"Lee, Adiam",Female,1991-07-08,2100,Denmark,Never married,0
+631,"Foley, Aura",Female,1981-08-12,2400,Denmark,Never married,2
+632,"Khan, Mark",Male,1982-05-09,2400,Denmark,Never married,2
+633,"Preston, Tienkieu",Female,1981-03-04,2400,Denmark,Never married,0
+634,"Contreras, Citlali",Female,1979-02-28,2400,Denmark,Never married,2
+635,"Nededog, Josiah",Male,1976-08-21,2400,Denmark,Divorced,0
+636,"Campa, George",Male,1977-01-15,2200,Denmark,Never married,0
+637,"al-Wahba, Umar",Male,1981-06-18,2100,Denmark,Never married,2
+638,"Threlkel, Abel",Male,1978-05-05,2300,Denmark,Never married,0
+639,"Lau, Caitlin",Female,1985-05-17,2400,Denmark,Married/separated,2
+640,"Bell, Timothy",Male,1981-05-25,2100,Denmark,Married/separated,0
+641,"al-Iman, Hamsa",Female,1974-12-05,2200,Denmark,Never married,0
+642,"Whyte, Jeremy",Male,1987-11-18,2300,Denmark,Never married,0
+643,"el-Yousef, Naasif",Male,1977-01-06,2200,Denmark,Married/separated,2
+644,"Chunn, Nhi",Female,1983-09-12,2100,Denmark,Married/separated,0
+645,"Salmon, Annie",Female,1976-06-23,2400,Denmark,Married/separated,0
+646,"Stubblefield, Daniel",Male,1974-05-14,2400,Denmark,Never married,0
+647,"Walker, Ebony",Female,1983-10-13,2400,Denmark,Never married,2
+648,"Coleman, Triana",Female,1979-08-31,2300,Denmark,Never married,0
+649,"Vialpando, Everett",Male,1980-05-14,2200,Denmark,Married/separated,2
+650,"Clark, Larisa",Female,1986-03-01,2300,Lithuania,Never married,2
+651,"Padilla, Jessica",Female,1983-08-11,2300,Denmark,Never married,0
+652,"Clark, Jordan",Male,1974-05-12,2100,Denmark,Never married,2
+653,"Spore, Mikaela",Female,1986-08-09,2200,Denmark,Married/separated,0
+654,"Quick, Heaven",Female,1984-09-03,2400,Denmark,Married/separated,0
+655,"Chang, Phurba",Male,1987-05-11,2100,Brazil,Never married,0
+656,"Devalois, Abigail",Female,1982-10-09,2300,Denmark,Never married,0
+657,"Krien, Roman",Male,1980-12-12,2400,Denmark,Married/separated,0
+658,"Pottberg, Samantha",Female,1976-02-10,2400,Denmark,Married/separated,2
+659,"al-Naqvi, Sahla",Female,1976-03-01,2200,Denmark,Married/separated,2
+660,"Galligan, Janalen",Female,1986-04-24,2200,Denmark,Married/separated,0
+661,"Lee, Shavawn",Female,1986-02-16,2400,Denmark,Never married,0
+662,"Lodl, Todd",Male,1980-11-01,2400,Pakistan,Never married,2
+663,"Dinh, Janet",Female,1985-02-18,2200,Denmark,Married/separated,0
+664,"Green, Shae",Female,1978-12-17,2100,Denmark,Never married,0
+665,"Nguyen, Valerie",Female,1985-12-20,2400,Denmark,Married/separated,2
+666,"Gonzalez, Adriana",Female,1981-10-30,2400,Denmark,Never married,0
+667,"Knowles, Dvaris",Male,1975-10-04,2300,Denmark,Divorced,0
+668,"Dizon, David",Male,1975-07-17,2400,Denmark,Married/separated,2
+669,"Som, Raymond",Male,1986-10-26,2200,Denmark,Never married,0
+670,"el-Abbasi, Mukhtaar",Male,1988-12-11,2100,Denmark,Never married,0
+671,"Salas, Antonnette",Female,1974-03-14,2300,Denmark,Divorced,2
+672,"Buchholz, Desiray",Female,1975-08-04,2300,Denmark,Divorced,0
+673,"Kidwell, Marley",Female,1976-11-02,2300,Denmark,Married/separated,0
+674,"Lovato, Kevin",Male,1975-07-26,2400,Denmark,Never married,0
+675,"el-Khan, Zahra",Female,1986-05-14,2400,Denmark,Never married,0
+676,"Smith, Adjoa",Female,1988-09-29,2200,Romania,Never married,0
+677,"Ramirez, George",Male,1982-06-03,2400,Denmark,Divorced,0
+678,"Bruce, Devon",Male,1988-07-31,2100,Denmark,Never married,0
+679,"Begay, Matea",Female,1986-02-09,2300,Denmark,Married/separated,0
+680,"el-Iman, Thanaa",Female,1985-04-16,2100,Denmark,Married/separated,2
+681,"Ewton, Tuyen Aalexis",Female,1977-10-18,2400,Denmark,Married/separated,2
+682,"Polk, Jazen",Male,1978-12-14,2100,Denmark,Married/separated,2
+683,"Cooner, Charles",Male,1988-04-29,2200,Bosnia and Herzegovina,Never married,0
+684,"Blosser, Daniel",Male,1981-05-15,2200,Denmark,Never married,2
+685,"Cortese, Alissa",Female,1984-07-11,2300,Denmark,Married/separated,0
+686,"Reeves, Taylor",Female,1986-06-01,2300,Denmark,Never married,0
+687,"Sedillo, Dallas",Male,1974-06-03,2200,Spain,Married/separated,2
+688,"Le, Sara",Female,1986-09-11,2100,Denmark,Married/separated,0
+689,"Stalker, Eric",Male,1980-06-30,2100,Denmark,Divorced,2
+690,"Sadorra, Karthik",Male,1975-11-02,2300,Stateless,Never married,0
+691,"Schilling, Jessirae",Female,1988-05-08,2100,Denmark,Never married,0
+692,"King, Brian",Male,1985-08-27,2100,Denmark,Never married,0
+693,"Cotonuts, Christopher",Male,1983-09-15,2400,Denmark,Never married,0
+694,"al-Hashemi, Misbaah",Female,1985-09-20,2200,Lesotho,Married/separated,0
+695,"Palmerino, Nicole",Female,1983-05-11,2200,Denmark,Never married,0
+696,"Salaz, Shyanne",Female,1988-03-16,2400,Denmark,Married/separated,2
+697,"Zellner, Hunter",Male,1978-04-03,2200,Denmark,Married/separated,0
+698,"Smith-Shearrion, Nino",Male,1987-07-08,2100,Denmark,Never married,2
+699,"Mackay, Brianna",Female,1988-03-27,2100,Denmark,Never married,0
+700,"Spoon, Daniel",Male,1975-01-19,2300,Denmark,Divorced,0
+701,"Jordan, Jerraya",Female,1980-08-20,2100,Denmark,Married/separated,0
+702,"Mccoy, Andrew",Male,1987-01-30,2300,Kosovo,Married/separated,0
+703,"Guist, Michael",Male,1974-11-02,2200,Denmark,Divorced,0
+704,"Frazier, Deven",Male,1979-05-29,2100,Denmark,Married/separated,2
+705,"Kinder, Chavion",Female,1974-03-06,2200,Denmark,Never married,0
+706,"Ortiz, Madeline",Female,1987-08-08,2300,Denmark,Married/separated,2
+707,"Watson, Jacob",Male,1975-05-28,2200,Denmark,Married/separated,2
+708,"Bisbee, Alexandra",Female,1987-06-08,2300,Denmark,Married/separated,0
+709,"Kim, Pa Houa",Female,1982-09-04,2300,Denmark,Married/separated,0
+710,"Goodteacher, Ian",Male,1976-05-02,2400,Denmark,Divorced,0
+711,"Gutierrez, Jazmin",Female,1988-03-01,2300,Denmark,Married/separated,0
+712,"el-Ahmad, Wardiyya",Female,1981-08-19,2400,Denmark,Married/separated,0
+713,"al-Nawaz, Rasheeda",Female,1982-05-10,2400,Denmark,Divorced,0
+714,"al-Sami, Aakif",Male,1983-08-09,2300,Denmark,Never married,2
+715,"al-Rad, Haatim",Male,1981-03-26,2300,Denmark,Married/separated,2
+716,"Smith, Alina",Female,1975-09-29,2200,Denmark,Married/separated,2
+717,"Mcclain, Alexandra",Female,1983-08-10,2100,Denmark,Married/separated,0
+718,"Xiong, Sean",Male,1980-12-07,2200,Denmark,Never married,0
+719,"Johnson, Sidney",Male,1975-05-07,2400,Denmark,Divorced,0
+720,"el-Salik, Baasim",Male,1985-05-17,2100,Denmark,Married/separated,2
+721,"Lyde, James",Male,1975-08-29,2100,Denmark,Never married,0
+722,"Williams, Tanaya",Female,1983-07-15,2400,Bosnia and Herzegovina,Never married,0
+723,"Ballard, Antonio",Male,1987-09-21,2100,Denmark,Married/separated,0
+724,"Arnold, Kristen",Female,1978-07-27,2400,Romania,Married/separated,0
+725,"Two Crow, Tanisa",Female,1988-07-27,2300,Denmark,Never married,0
+726,"Rangel, Alexis",Female,1987-04-18,2400,Denmark,Married/separated,0
+727,"Rodriguez, Emily",Female,1983-01-04,2100,Denmark,Married/separated,0
+728,"Johnson, Alisha",Female,1977-03-31,2200,Denmark,Never married,2
+729,"Lovato, Savannah",Female,1986-01-21,2200,Denmark,Married/separated,0
+730,"Mccorkel, Makayla",Female,1976-11-25,2200,Denmark,Divorced,0
+731,"al-Karimi, Raita",Female,1985-01-06,2100,Denmark,Never married,0
+732,"Radspinner, Jennifer",Female,1975-03-29,2300,Latvia,Married/separated,2
+733,"Bacchus, Tahvian",Male,1977-04-09,2400,Denmark,Married/separated,0
+734,"White, Byron",Male,1981-06-11,2300,Denmark,Married/separated,0
+735,"Alderman, Angela",Female,1984-11-08,2300,Denmark,Never married,0
+736,"Kuhlman, Casey",Female,1983-03-09,2400,Denmark,Never married,0
+737,"al-Can, Aanisa",Female,1975-01-14,2300,Vietnam,Divorced,0
+738,"al-Rahman, Raaid",Male,1977-12-25,2400,Denmark,Divorced,0
+739,"Randall, Dylan",Male,1976-01-18,2300,Denmark,Never married,2
+740,"Chheng, Shawn",Male,1981-01-13,2200,Denmark,Married/separated,0
+741,"Mikel, Simone",Female,1974-05-30,2200,Denmark,Married/separated,0
+742,"Kixmiller, Lindsay",Female,1988-12-23,2100,Denmark,Never married,0
+743,"Archer, David",Male,1987-04-21,2400,Denmark,Never married,0
+744,"al-Mian, Inaaya",Female,1974-12-06,2400,Denmark,Married/separated,0
+745,"Pensoneau, Sullivan",Male,1979-03-01,2200,Denmark,Divorced,0
+746,"el-Bilal, Ghazaala",Female,1975-12-27,2100,Stateless,Divorced,0
+747,"Kabotie, Duncan",Male,1983-08-14,2400,Denmark,Married/separated,2
+748,"Reyes, Sandra",Female,1978-03-21,2300,Denmark,Married/separated,2
+749,"Sims, Miles",Male,1976-09-06,2300,Denmark,Married/separated,0
+750,"Dizayee, Ariana",Female,1986-03-10,2300,Denmark,Never married,0
+751,"Eschino, David",Male,1982-09-28,2300,Denmark,Never married,2
+752,"Makaiwi, Richard",Male,1981-01-15,2200,Denmark,Married/separated,0
+753,"el-Hoque, Shabeeba",Female,1987-02-17,2200,Denmark,Never married,0
+754,"Madril, Leroy",Male,1980-08-21,2400,Denmark,Never married,0
+755,"Kazziha, Johnathon",Male,1979-04-07,2300,Denmark,Married/separated,0
+756,"Xiong, Rick",Male,1985-05-31,2400,Denmark,Never married,2
+757,"el-Khalid, Ziyaad",Male,1978-11-01,2300,Denmark,Married/separated,0
+758,"al-Jan, Jumaima",Female,1978-02-01,2400,Jordan,Never married,2
+759,"French, Joshua",Male,1977-09-01,2300,Denmark,Never married,0
+760,"Meyers, Samantha",Female,1976-11-19,2300,Denmark,Married/separated,2
+761,"el-Karim, Saara",Female,1988-02-29,2400,Afghanistan,Never married,0
+762,"Anton, Ryan",Male,1976-04-14,2400,Denmark,Never married,0
+763,"Redhorse, Victoria",Female,1974-07-27,2200,Denmark,Married/separated,0
+764,"George, Caroline",Female,1981-06-30,2200,Denmark,Married/separated,2
+765,"Begay-Watson, Condeladio",Male,1987-07-01,2100,Denmark,Never married,2
+766,"al-Shakoor, Thanaa",Female,1980-09-11,2300,Denmark,Married/separated,2
+767,"al-Yassin, Safwa",Female,1980-10-16,2100,Denmark,Married/separated,0
+768,"Gopalakrishnan, Kara",Female,1983-02-26,2400,Denmark,Married/separated,0
+769,"al-Basha, Hazm",Male,1987-06-09,2100,Denmark,Married/separated,2
+770,"Walker Jr, Amber",Female,1983-08-18,2200,Bosnia and Herzegovina,Never married,0
+771,"Torres, Carlos",Male,1975-06-29,2400,Denmark,Married/separated,0
+772,"Rodriguez, Jerod",Male,1982-09-04,2300,Denmark,Married/separated,0
+773,"Saldivar, Margarita",Female,1987-03-17,2400,Denmark,Married/separated,0
+774,"Johnson, Jeremy",Male,1987-08-23,2300,Denmark,Never married,2
+775,"Hughes, Kayla",Female,1985-03-23,2400,Denmark,Never married,0
+776,"Vaskin, Danielle",Female,1983-05-22,2200,Denmark,Never married,0
+777,"Rios, Lestat",Male,1975-08-09,2400,Denmark,Married/separated,2
+778,"Moua, Rani",Female,1983-02-20,2400,Denmark,Never married,0
+779,"Blackmore, K'Sandra",Female,1985-12-19,2400,Denmark,Married/separated,0
+780,"Pascua, Brandon",Male,1987-07-26,2100,Denmark,Married/separated,0
+781,"Padilla-Scott, Eduardo",Male,1984-11-28,2200,Denmark,Never married,0
+782,"Anderson, Nicholas",Male,1981-06-03,2200,Denmark,Married/separated,2
+783,"Ranjo, Sabrina",Female,1988-02-01,2300,Denmark,Married/separated,2
+784,"al-Nasir, Nawwaara",Female,1985-10-13,2400,Denmark,Married/separated,0
+785,"Thesz, Jacob",Male,1977-03-02,2100,Denmark,Never married,0
+786,"Knoeppchen-Carson, Scott",Male,1982-03-02,2300,Denmark,Married/separated,2
+787,"al-Hashim, Sulama",Female,1979-09-09,2100,Denmark,Divorced,2
+788,"Keto, Melanie",Female,1975-07-18,2100,Eritrea,Married/separated,0
+789,"Ngo, Noella",Female,1986-08-24,2300,Denmark,Married/separated,0
+790,"Stewart, Blake",Male,1977-10-04,2400,Denmark,Divorced,0
+791,"Stauffer, Brenna",Female,1984-05-18,2100,Denmark,Married/separated,0
+792,"Blackman, Savannah",Female,1982-01-28,2100,Netherlands,Never married,0
+793,"Richardson, Talia",Female,1984-02-29,2300,Denmark,Never married,0
+794,"Akindele, Jhoirhaz",Male,1977-05-07,2400,Denmark,Married/separated,0
+795,"Pak, Anna Liza",Female,1981-02-19,2100,Denmark,Married/separated,0
+796,"Valdez Suarez, Jessea",Female,1980-03-04,2100,Denmark,Married/separated,2
+797,"Dessau, Sarah",Female,1979-05-25,2100,Denmark,Married/separated,0
+798,"Baker, Jesse",Male,1985-01-10,2200,Denmark,Married/separated,2
+799,"Downs, Kyle",Male,1988-03-11,2100,Denmark,Married/separated,2
+800,"al-Rizk, Nabeeh",Male,1977-09-09,2200,Denmark,Married/separated,0
+801,"Brazee, Bryan",Male,1986-04-09,2400,Denmark,Married/separated,0
+802,"Varela Munoz, Adriana",Female,1976-08-15,2300,Denmark,Married/separated,0
+803,"al-Malek, Idrees",Male,1974-10-27,2400,Denmark,Never married,2
+804,"Brockmann, Tessa",Female,1987-10-25,2300,Denmark,Never married,0
+805,"Xiong, Dimitri",Male,1975-10-05,2200,Denmark,Married/separated,0
+806,"Killman, Zacheriah",Male,1978-04-19,2300,Denmark,Divorced,0
+807,"al-Ullah, Juwairiya",Female,1988-08-31,2200,Denmark,Never married,2
+808,"Khanal, Ntxuam",Male,1983-03-29,2100,Denmark,Married/separated,0
+809,"al-Munir, Laaiqa",Female,1978-08-18,2300,Denmark,Never married,2
+810,"Thomas, Adam",Male,1981-08-05,2200,Denmark,Never married,0
+811,"Elder, Shelbey",Female,1987-02-01,2200,Denmark,Married/separated,2
+812,"Stevens, Michael",Male,1988-07-26,2100,Denmark,Never married,0
+813,"al-Nazar, Silmi",Male,1982-09-17,2100,Denmark,Never married,0
+814,"Christy, Chris",Male,1981-01-11,2100,Denmark,Married/separated,0
+815,"Saenz, Cory",Male,1988-12-12,2100,Denmark,Never married,0
+816,"Mporampora, Isaiah",Male,1983-11-11,2200,Denmark,Never married,0
+817,"Wong, Conor",Male,1988-08-27,2200,Denmark,Never married,0
+818,"Orr, Vaughn",Male,1980-12-14,2400,Denmark,Married/separated,0
+819,"Little, Donovan",Male,1989-01-30,2400,Denmark,Married/separated,0
+820,"Farley, John",Male,1982-07-05,2200,Denmark,Never married,0
+821,"Cosby, Jamel",Male,1987-01-10,2400,Denmark,Never married,2
+822,"Sandoval, Andrea",Female,1985-12-18,2300,Denmark,Married/separated,0
+823,"Johnson, Meagan",Female,1977-07-17,2400,Denmark,Married/separated,0
+824,"Romero-Rough, William",Male,1982-07-01,2200,Denmark,Married/separated,2
+825,"Taylor, Rachel",Female,1986-08-08,2400,Denmark,Never married,2
+826,"Valles, Rainstorm",Female,1983-05-30,2300,Denmark,Never married,0
+827,"Franco, Jasmyn",Female,1984-06-30,2200,Denmark,Never married,0
+828,"Avitia Caraveo, Maryen",Female,1984-04-10,2200,Denmark,Divorced,2
+829,"Trujillo, Christian",Male,1974-07-04,2200,Denmark,Never married,0
+830,"Joe, Brandon",Male,1978-08-10,2400,Denmark,Divorced,2
+831,"Holloman, Alex",Male,1988-06-03,2400,Denmark,Never married,2
+832,"Stencel, Michael",Male,1988-02-28,2100,Denmark,Never married,0
+833,"Christy, Rahiem",Male,1980-03-26,2100,Denmark,Married/separated,0
+834,"Malacara, Destiny",Female,1981-10-27,2300,Denmark,Never married,2
+835,"Samuels, Destinee",Female,1984-06-11,2400,Denmark,Married/separated,0
+836,"Johnson, Alexis",Female,1979-02-22,2300,Denmark,Married/separated,2
+837,"Nichols, Ali",Male,1984-12-25,2100,Denmark,Married/separated,0
+838,"Sutherburg, Abdul",Male,1982-05-20,2400,Denmark,Divorced,0
+839,"Gonzalez, Chance",Male,1979-08-18,2400,Denmark,Divorced,2
+840,"al-Zaher, Saadiq",Male,1976-08-26,2200,Denmark,Never married,0
+841,"el-Dia, Mahuroos",Male,1988-11-29,2300,Denmark,Married/separated,2
+842,"el-Adel, Saalim",Male,1985-09-10,2400,Denmark,Married/separated,0
+843,"al-Reza, Alawi",Male,1984-03-23,2100,Denmark,Never married,0
+844,"Stone, Caleb",Male,1974-06-13,2100,Denmark,Never married,0
+845,"Geier, Andrew",Male,1988-09-25,2400,Denmark,Never married,0
+846,"Huang, James",Male,1976-05-25,2200,Denmark,Never married,2
+847,"Mix, Cody",Male,1979-11-25,2200,Denmark,Married/separated,0
+848,"Diakite, Elias",Male,1989-01-16,2400,Denmark,Never married,0
+849,"Moua, Monica",Female,1980-10-19,2100,Denmark,Never married,0
+850,"Zollar, Timothy",Male,1974-05-14,2400,Denmark,Married/separated,0
+851,"Wilson, Donovan",Male,1976-06-23,2400,Pakistan,Married/separated,2
+852,"Zhen, Karen",Female,1974-06-21,2300,Denmark,Never married,0
+853,"Vetter, Lucas",Male,1988-06-16,2200,Denmark,Never married,0
+854,"Medrano Guzman, Samantha",Female,1977-03-04,2400,Denmark,Never married,0
+855,"Hill, Talea",Female,1980-07-20,2100,Denmark,Married/separated,2
+856,"el-Husain, Ulyaa",Female,1982-07-27,2400,Denmark,Divorced,0
+857,"Garnier, Morgan",Female,1979-03-08,2300,Denmark,Never married,0
+858,"Said, Ladezhane",Female,1980-05-13,2200,Denmark,Married/separated,0
+859,"Vaughn, Don",Male,1983-08-09,2300,Denmark,Married/separated,0
+860,"Collins, Camille",Female,1985-09-30,2400,Denmark,Married/separated,0
+861,"Phan, Irena",Female,1975-02-08,2200,Sweden,Married/separated,0
+862,"Dimock, Jami",Female,1978-03-03,2200,Denmark,Married/separated,0
+863,"Karsanbhai, Stephanie",Female,1976-08-20,2400,Syria,Married/separated,0
+864,"Balles, Samantha",Female,1976-09-22,2200,Denmark,Never married,0
+865,"al-Wakim, Marjaana",Female,1983-09-03,2100,Bosnia and Herzegovina,Never married,2
+866,"Hendry, Jessica",Female,1977-12-30,2200,Denmark,Married/separated,2
+867,"al-Rashid, Waliyya",Female,1975-03-16,2300,Denmark,Married/separated,0
+868,"al-Bacho, Kulthum",Female,1977-04-23,2100,Denmark,Married/separated,2
+869,"Paswaters, Richard",Male,1979-01-01,2100,Denmark,Married/separated,0
+870,"Deuth, Trey",Male,1976-01-17,2300,Denmark,Divorced,0
+871,"Ruiz, Akelah",Female,1978-12-26,2100,Denmark,Married/separated,0
+872,"al-Begum, Mu'hsina",Female,1978-05-11,2200,Denmark,Never married,0
+873,"Melton, Kiana",Female,1965-07-09,2300,Denmark,Married/separated,0
+874,"Rentas, Aaron",Male,1970-09-18,2400,Denmark,Never married,2
+875,"al-Burki, Saamiqa",Female,1959-02-12,2400,Denmark,Married/separated,2
+876,"Nguyen, Jasmine",Female,1965-12-22,2200,Denmark,Married/separated,2
+877,"Bishop, Alan",Male,1959-09-22,2400,Denmark,Married/separated,0
+878,"Olivares, Jasmine",Female,1969-05-29,2300,Denmark,Married/separated,0
+879,"Kuch, Patrick",Male,1973-09-14,2400,Denmark,Divorced,2
+880,"Quintrall, Kathleen",Female,1969-06-04,2200,Denmark,Married/separated,0
+881,"Sisneros-Lobato, Daniel",Male,1969-05-31,2400,Denmark,Married/separated,0
+882,"Jones, Quanisha",Female,1962-01-21,2200,Denmark,Divorced,0
+883,"Sims, Edwin",Male,1967-07-01,2100,Denmark,Married/separated,0
+884,"Zong-Liscum, Joseph",Male,1970-06-20,2200,Denmark,Divorced,0
+885,"Veloz, Markus",Male,1968-11-03,2200,Denmark,Married/separated,2
+886,"Mack, Obed",Male,1968-03-07,2200,Denmark,Married/separated,2
+887,"Tyburski, Harris",Male,1971-12-24,2300,Denmark,Never married,2
+888,"Bland, Najwa",Female,1959-07-14,2400,Denmark,Married/separated,0
+889,"Yang, Faleoge",Female,1973-04-28,2300,Denmark,Divorced,0
+890,"Price, Crispin",Male,1964-01-15,2400,Denmark,Divorced,0
+891,"Lee, Ryan",Male,1959-02-09,2200,Denmark,Married/separated,2
+892,"Sawyers, Dakota",Female,1965-09-19,2300,Denmark,Divorced,0
+893,"Chapman, Mia",Female,1955-06-20,2300,Poland,Married/separated,0
+894,"Rae, Phillip",Male,1971-05-19,2400,Turkey,Never married,0
+895,"Reza Vega, Jorge",Male,1971-08-18,2100,Denmark,Never married,0
+896,"Morales, Jaime",Male,1956-03-20,2400,Denmark,Divorced,0
+897,"Borbon, Joshua",Male,1971-08-02,2300,Denmark,Married/separated,0
+898,"Kimmel, Rachel",Female,1954-03-08,2100,Denmark,Divorced,0
+899,"Santee, Tashina",Female,1962-06-14,2300,Denmark,Married/separated,2
+900,"Martinez, Chantell",Female,1960-02-07,2400,Denmark,Married/separated,2
+901,"Moua, Megan",Female,1961-02-08,2300,Denmark,Married/separated,2
+902,"Connelley, Aaren-Matthew",Male,1967-03-29,2200,Denmark,Married/separated,0
+903,"Ramirez, Richard",Male,1969-02-19,2200,Denmark,Divorced,0
+904,"Duncan, Claire",Female,1968-07-11,2400,Denmark,Never married,2
+905,"Mcfarland, Jaylen",Male,1956-12-05,2400,Denmark,Married/separated,0
+906,"Ryberg, Ryley",Male,1972-03-11,2300,Denmark,Never married,0
+907,"Schmeda, Valeria",Female,1958-11-17,2200,Denmark,Never married,2
+908,"Niko, Kevin",Male,1956-07-14,2200,Denmark,Married/separated,0
+909,"Moselina, Joshua",Male,1972-08-03,2400,Denmark,Divorced,0
+910,"Gonzales, Allison",Female,1959-11-09,2200,Denmark,Married/separated,0
+911,"Goheen, Jonathan",Male,1962-11-12,2200,Denmark,Married/separated,0
+912,"el-Ammar, Raashid",Male,1960-12-27,2400,Denmark,Divorced,0
+913,"Jimenez, Idalis",Female,1957-02-02,2400,Denmark,Married/separated,2
+914,"el-Kalil, Abdul Kader",Male,1962-08-16,2400,Denmark,Divorced,2
+915,"Kazee, Thalia",Female,1956-12-15,2400,Italy,Never married,0
+916,"Aguon, Adrian",Male,1970-01-09,2300,Denmark,Married/separated,0
+917,"Hernandez, Esmeralda",Female,1965-12-17,2200,Denmark,Married/separated,0
+918,"Seitz, Shania",Female,1958-08-15,2100,Lithuania,Divorced,2
+919,"Simpson, Justin",Male,1966-05-26,2100,Denmark,Never married,0
+920,"Ramsey, Eduardo",Male,1965-07-13,2400,Denmark,Married/separated,2
+921,"Miller, Jacob",Male,1965-06-23,2400,Denmark,Married/separated,0
+922,"Kaur, Joseph",Male,1957-12-15,2300,Denmark,Married/separated,0
+923,"Burgett, Alexander",Male,1969-09-22,2400,Denmark,Divorced,0
+924,"Gossett, Kara",Female,1970-10-15,2200,Denmark,Never married,0
+925,"al-Azizi, Haani",Male,1963-04-05,2400,Denmark,Married/separated,0
+926,"Sharma, Kathleen",Female,1954-08-02,2400,Ireland,Married/separated,0
+927,"al-Salek, Faisal",Male,1962-03-26,2100,China,Divorced,0
+928,"Deleplancque, Erin",Female,1957-04-17,2300,Denmark,Married/separated,0
+929,"Moore, Allen-Dean",Male,1957-03-01,2200,Denmark,Married/separated,0
+930,"Mendicino, Tyler",Male,1964-08-24,2200,Lithuania,Never married,0
+931,"Guerrero, Emilio",Male,1962-08-24,2400,Denmark,Married/separated,0
+932,"Nguyen, Elaine",Female,1967-03-11,2200,Denmark,Married/separated,0
+933,"Chavkin, Jennifer",Female,1972-04-14,2400,Denmark,Married/separated,2
+934,"al-Hallal, Arkaan",Male,1967-05-07,2200,Denmark,Never married,2
+935,"Rains, Ezequiel",Male,1955-02-01,2200,Denmark,Married/separated,0
+936,"Smith, Sara",Female,1965-01-04,2400,Denmark,Never married,0
+937,"Villa, Joshua",Male,1960-03-21,2400,Denmark,Never married,0
+938,"Naseri, Paulette",Female,1960-02-05,2300,Denmark,Divorced,2
+939,"el-Younan, Abdul Haadi",Male,1972-04-10,2400,Denmark,Married/separated,0
+940,"el-Salam, Mawzoona",Female,1970-09-04,2400,Denmark,Never married,0
+941,"Hoover, Briana",Female,1972-04-10,2400,Denmark,Never married,0
+942,"al-Sani, Jareer",Male,1961-04-28,2400,Denmark,Divorced,2
+943,"el-Jafari, Baasim",Male,1959-04-02,2400,Denmark,Married/separated,0
+944,"Jun, Sabrina",Female,1959-06-02,2200,Denmark,Married/separated,0
+945,"el-Matar, Zain",Male,1970-12-27,2300,Denmark,Never married,0
+946,"el-Bangura, Kamaal",Male,1962-08-13,2300,Denmark,Married/separated,2
+947,"Tuytschaevers, Steven",Male,1971-09-23,2300,USA,Married/separated,0
+948,"al-Dallal, Asmaa",Female,1970-05-23,2400,Denmark,Divorced,0
+949,"al-Majeed, Faaid",Male,1954-08-17,2400,Denmark,Married/separated,0
+950,"Hill, Anthony",Male,1968-05-06,2200,Denmark,Never married,2
+951,"al-Can, Hilmiyya",Female,1954-08-09,2400,Denmark,Married/separated,0
+952,"Cabral, Alysia",Female,1970-05-16,2300,Denmark,Married/separated,0
+953,"Keodara, Harshil",Male,1969-07-11,2400,Denmark,Divorced,2
+954,"el-Ashraf, Imraan",Male,1954-11-16,2400,Denmark,Married/separated,0
+955,"Rodriguez Martinez, San Juana",Female,1964-10-26,2200,Denmark,Married/separated,2
+956,"Granger, Mario",Male,1966-05-23,2200,Denmark,Divorced,0
+957,"Kruljac, Victoria",Female,1972-09-02,2200,Denmark,Never married,2
+958,"Lowe, Westin",Male,1971-10-06,2200,Denmark,Married/separated,0
+959,"Garcia, Cierra",Female,1970-07-29,2400,Denmark,Married/separated,2
+960,"Garza, Ashley",Female,1966-01-04,2300,Denmark,Married/separated,0
+961,"Yohannes, Jailyn",Female,1960-03-25,2400,Denmark,Never married,0
+962,"Lau, Lee Ann",Female,1967-08-26,2400,Denmark,Married/separated,0
+963,"Black, Afu",Male,1961-01-20,2400,Denmark,Married/separated,0
+964,"Moon, Anthony",Male,1966-09-03,2200,Denmark,Married/separated,0
+965,"Paris, Kaila",Female,1958-10-07,2400,Denmark,Divorced,0
+966,"al-Salaam, Abdul Maalik",Male,1959-12-14,2200,Denmark,Married/separated,0
+967,"Ramirez, Horacio",Male,1954-07-24,2300,Denmark,Married/separated,0
+968,"Alferos, Mckylaa",Female,1969-01-27,2400,Denmark,Married/separated,0
+969,"Didde, Byung Hoon",Male,1956-04-25,2100,Denmark,Never married,0
+970,"el-Farooqui, Urwa",Female,1970-06-09,2400,Denmark,Married/separated,0
+971,"Jimmerson, Jemar",Male,1967-02-15,2300,Denmark,Never married,0
+972,"el-Hammoud, Rafeeq",Male,1971-02-06,2400,Denmark,Divorced,0
+973,"Orwig, Mcmanus",Male,1958-09-28,2400,Denmark,Divorced,0
+974,"Boisselle, Klayson",Male,1968-06-18,2300,Denmark,Married/separated,0
+975,"Robinson, Christopher",Male,1966-07-16,2200,Denmark,Never married,2
+976,"Whitehead, Maurilio",Male,1965-01-31,2400,Denmark,Married/separated,0
+977,"West, Evangeline",Female,1960-03-15,2400,Denmark,Married/separated,2
+978,"Thompson, Justin",Male,1965-01-03,2200,Syria,Married/separated,0
+979,"Singh, Brooke",Female,1969-05-07,2400,Denmark,Never married,2
+980,"Wells, Jamice",Female,1958-01-05,2400,Denmark,Never married,2
+981,"al-Shafi, Labeeb",Male,1968-09-29,2400,Poland,Married/separated,0
+982,"Robinson, Luis",Male,1963-07-13,2300,Denmark,Married/separated,0
+983,"al-Quadri, Haatim",Male,1962-02-10,2400,Denmark,Married/separated,0
+984,"Sward, Patricia",Female,1958-10-29,2100,Denmark,Divorced,2
+985,"Tchenawou, Ethan",Male,1960-04-06,2200,Denmark,Married/separated,0
+986,"el-Ishmael, Katheer",Male,1966-09-13,2300,Denmark,Married/separated,2
+987,"Moore, Cheyenne",Female,1958-06-21,2400,Denmark,Married/separated,2
+988,"Cunningham, Tamia",Female,1963-08-16,2400,Denmark,Never married,0
+989,"Ong, Christopher",Male,1966-05-26,2400,Denmark,Never married,0
+990,"James, Eric",Male,1973-12-16,2300,Denmark,Divorced,0
+991,"Rice, Aranda",Female,1956-08-30,2400,Denmark,Married/separated,2
+992,"Terry, Julia",Female,1961-07-10,2300,Denmark,Married/separated,0
+993,"el-Azer, Mahmooda",Female,1969-12-10,2300,Denmark,Married/separated,0
+994,"Richardson, Itzel",Female,1960-07-19,2300,Denmark,Married/separated,0
+995,"Gary, Maria Liza",Female,1958-01-26,2200,Denmark,Married/separated,0
+996,"Fisco Jr, Al",Male,1961-08-25,2400,Denmark,Married/separated,2
+997,"Nguyen, Wesley",Male,1970-11-22,2200,Denmark,Married/separated,0
+998,"Phelps, Victoria",Female,1959-06-15,2200,Denmark,Married/separated,0
+999,"Martinez, Amairani",Female,1966-10-21,2400,Denmark,Married/separated,0
+1000,"Brito, Blaze",Male,1967-03-18,2300,Denmark,Married/separated,2
+1001,"San, Seung",Female,1960-09-18,2200,Denmark,Married/separated,0
+1002,"al-Azer, Daifallah",Male,1958-08-09,2200,Denmark,Married/separated,0
+1003,"Stayton, Jeisen",Male,1964-06-13,2400,Denmark,Never married,0
+1004,"Verde, Jacob",Male,1965-10-15,2100,Denmark,Married/separated,0
+1005,"Beurman, Matthew",Male,1970-11-07,2200,Denmark,Never married,2
+1006,"Nguyen, Christopher",Male,1973-06-24,2400,Denmark,Never married,0
+1007,"Wilson, Ed'Lexus",Female,1967-07-22,2400,Denmark,Married/separated,2
+1008,"Cabral, Edgar",Male,1960-06-12,2200,Denmark,Married/separated,0
+1009,"Grover, Mathew",Male,1954-04-22,2300,Denmark,Married/separated,0
+1010,"Corbett, Theador",Male,1957-06-03,2400,Denmark,Married/separated,2
+1011,"Jones, Christopher",Male,1971-08-05,2300,Denmark,Married/separated,0
+1012,"Juarez, Daniela",Female,1963-09-04,2400,Denmark,Married/separated,0
+1013,"Chan, Mark",Male,1964-12-08,2200,Denmark,Married/separated,2
+1014,"Deherrera, Jose",Male,1961-09-03,2400,Denmark,Never married,0
+1015,"Le, Whitney",Female,1956-10-16,2400,Sweden,Married/separated,0
+1016,"Vorwald, Dylan",Male,1957-08-30,2400,Denmark,Married/separated,0
+1017,"Talain, Sarah",Female,1972-08-16,2300,Denmark,Married/separated,0
+1018,"Bruner, Jackson",Male,1960-04-02,2300,Denmark,Never married,2
+1019,"Chau, Olivia",Female,1972-11-19,2200,Denmark,Married/separated,0
+1020,"Miller, Jade",Male,1958-12-10,2300,Denmark,Divorced,0
+1021,"Moselina, Phu",Male,1973-04-09,2300,Denmark,Married/separated,0
+1022,"Rosemond, Louis",Male,1974-02-21,2400,Denmark,Never married,0
+1023,"Lopez Rodriguez, Danae",Female,1969-08-17,2400,Denmark,Divorced,0
+1024,"Gabel, Steven",Male,1956-09-11,2400,Denmark,Married/separated,2
+1025,"al-Kamali, Faraj",Male,1960-08-05,2100,Denmark,Divorced,0
+1026,"Bacich, Alexander",Male,1969-12-10,2300,Denmark,Never married,0
+1027,"Nieblas-Nava, Avina",Female,1964-07-21,2300,Denmark,Married/separated,2
+1028,"Tran, Monghuyen",Female,1963-11-19,2400,Denmark,Married/separated,0
+1029,"Contreras, Martha",Female,1972-08-28,2200,Denmark,Married/separated,0
+1030,"Jones, Alexander",Male,1954-05-05,2400,Lithuania,Widowed,2
+1031,"Macias, Jeanette",Female,1972-02-06,2100,Denmark,Widowed,0
+1032,"Mills, Kyoung Min",Male,1965-08-18,2300,Denmark,Never married,0
+1033,"al-Shakir, Hamdoona",Female,1958-04-28,2300,Denmark,Divorced,0
+1034,"Mc Clelland, Timera",Female,1954-04-07,2400,Denmark,Married/separated,0
+1035,"Schuckman, Orion",Male,1966-09-02,2400,Morocco,Married/separated,0
+1036,"al-Farooqui, Zainab",Female,1971-07-12,2400,Denmark,Married/separated,0
+1037,"Nguyen, Wenli",Female,1956-11-15,2200,Denmark,Married/separated,0
+1038,"al-Ahmed, Haaniya",Female,1968-09-03,2200,Denmark,Married/separated,0
+1039,"Sailas, Manuel",Male,1973-04-03,2300,Denmark,Married/separated,0
+1040,"Davis, Heidi",Female,1967-06-08,2200,Denmark,Married/separated,0
+1041,"Kuebler, Sidney",Female,1967-10-01,2400,Denmark,Married/separated,0
+1042,"Rowe, Nathan",Male,1967-05-01,2400,Denmark,Widowed,0
+1043,"Shanley, Joshua",Male,1964-07-26,2200,Denmark,Married/separated,0
+1044,"Ardito, James",Male,1963-12-16,2400,Denmark,Married/separated,2
+1045,"Olivas-Lujan, Giovanni",Male,1968-01-25,2300,Sweden,Divorced,0
+1046,"Flowers, Julia",Female,1960-01-01,2200,Spain,Married/separated,0
+1047,"Holiday, Amber",Female,1959-08-13,2400,Denmark,Never married,0
+1048,"Cordova, Brianca",Female,1962-10-26,2200,Denmark,Married/separated,0
+1049,"Luks, Iysia",Female,1967-02-21,2200,Denmark,Married/separated,0
+1050,"Edwards, Stephen",Male,1960-10-12,2400,Greece,Married/separated,0
+1051,"Meyers, Andrew",Male,1963-07-31,2400,Denmark,Never married,0
+1052,"Pauls, Emilio",Male,1954-06-08,2400,Denmark,Divorced,0
+1053,"al-Faris, Haarith",Male,1973-12-12,2400,Denmark,Married/separated,2
+1054,"Abbott, Adam",Male,1967-07-24,2200,Denmark,Never married,0
+1055,"Lehi, Kloe",Female,1966-03-15,2200,Syria,Married/separated,0
+1056,"Mclin, Marc",Male,1954-12-06,2400,Denmark,Never married,0
+1057,"Urieta, Gustavo",Male,1970-04-06,2400,Denmark,Never married,0
+1058,"Chichester, Karen",Female,1958-01-30,2200,Denmark,Divorced,0
+1059,"Jenkins, Renae",Female,1959-04-10,2300,Somalia,Never married,0
+1060,"Oleary, Justin",Male,1966-02-15,2400,Denmark,Married/separated,2
+1061,"al-Sami, Saalim",Male,1966-07-21,2300,Denmark,Never married,0
+1062,"Hollowell, Allison",Female,1956-06-01,2400,Denmark,Never married,2
+1063,"Little, Marlana",Female,1965-03-01,2400,Denmark,Married/separated,0
+1064,"Lapaz, Charles",Male,1956-06-04,2200,Denmark,Divorced,0
+1065,"el-Agha, Arwa",Female,1964-04-08,2400,Denmark,Married/separated,0
+1066,"West, Thewodros",Male,1970-02-13,2400,Denmark,Married/separated,2
+1067,"Tran, Jungsoo",Male,1962-11-18,2200,Denmark,Divorced,0
+1068,"Craft, Ladreshalek",Female,1965-04-08,2200,Denmark,Married/separated,2
+1069,"Murad, Judy",Female,1974-01-24,2200,Denmark,Never married,2
+1070,"Colquitt, Eric",Male,1963-03-19,2300,Denmark,Married/separated,0
+1071,"Smith, Tara",Female,1960-10-09,2300,Denmark,Married/separated,0
+1072,"el-Farra, Sultan",Male,1963-01-26,2300,Denmark,Married/separated,0
+1073,"Osmanovic, Amanda",Female,1972-12-11,2400,Denmark,Married/separated,0
+1074,"Bosch, Taylor",Female,1957-04-07,2200,Denmark,Never married,0
+1075,"Mor, Thuong",Female,1964-10-20,2300,Denmark,Married/separated,2
+1076,"Schubert, Gary",Male,1973-04-23,2200,Denmark,Married/separated,2
+1077,"Busby, Waylene",Female,1973-07-25,2300,Denmark,Married/separated,0
+1078,"Asad, Hsiang",Male,1966-05-15,2200,Denmark,Married/separated,0
+1079,"Merryman, Alan",Male,1961-11-02,2100,Denmark,Never married,2
+1080,"Guillory, Marissa",Female,1969-07-26,2400,Denmark,Married/separated,0
+1081,"Hoang, Robert",Male,1969-03-14,2300,Denmark,Divorced,0
+1082,"Hughes, Silas",Male,1963-12-31,2400,Denmark,Married/separated,0
+1083,"Davis, Logan",Male,1967-01-20,2300,Denmark,Married/separated,0
+1084,"al-Abraham, Fareed",Male,1971-12-06,2200,Denmark,Married/separated,2
+1085,"Mark, Yeon",Female,1964-09-12,2300,Denmark,Married/separated,2
+1086,"Jones, Nathan",Male,1959-09-10,2400,Denmark,Married/separated,0
+1087,"Miller, Victor",Male,1957-06-15,2400,Denmark,Married/separated,0
+1088,"Burger, Alisha",Female,1959-03-09,2300,Denmark,Divorced,0
+1089,"Dawson, Hailey",Female,1966-08-07,2300,Denmark,Divorced,0
+1090,"el-Shams, Aaisha",Female,1965-09-03,2200,Denmark,Married/separated,0
+1091,"Guerrero, Anthony",Male,1958-09-28,2200,Iran,Married/separated,0
+1092,"Sloniker, Morgan",Female,1963-01-04,2400,Denmark,Divorced,2
+1093,"Day, Frances",Female,1955-10-24,2400,Denmark,Married/separated,0
+1094,"Wing, Aryan",Female,1972-04-25,2200,Denmark,Married/separated,2
+1095,"Spensieri, Domenic",Male,1955-03-13,2300,Denmark,Married/separated,2
+1096,"Johnson, Abdul-Jaleel",Male,1967-05-13,2400,Denmark,Never married,2
+1097,"Olguin, Makari",Male,1955-08-18,2400,Denmark,Widowed,0
+1098,"Weaver, Kevin",Male,1972-07-25,2400,Russia,Married/separated,2
+1099,"al-Nour, Humaidaan",Male,1969-04-09,2300,Denmark,Married/separated,0
+1100,"Ryan, Mikayla",Female,1962-02-23,2200,Denmark,Divorced,0
+1101,"Prather, Shawn",Male,1959-09-27,2200,Denmark,Never married,0
+1102,"Maldonado, Jenevie",Female,1972-02-06,2200,Denmark,Divorced,0
+1103,"Mcquaid, Marisella",Female,1964-05-27,2400,Denmark,Married/separated,2
+1104,"Padilla, Dale",Male,1966-10-31,2200,Denmark,Never married,0
+1105,"Bruner, Joseph",Male,1956-08-01,2200,Denmark,Never married,0
+1106,"el-Bina, Shamaail",Female,1966-08-01,2400,Denmark,Never married,0
+1107,"Lee, Mia",Female,1963-05-22,2400,Poland,Divorced,2
+1108,"Estrada, Brandy",Female,1956-08-04,2200,Denmark,Divorced,0
+1109,"Santistevan, Jonathan",Male,1957-12-17,2400,Bosnia and Herzegovina,Divorced,0
+1110,"Nguyen, Kea",Female,1963-12-31,2300,Denmark,Divorced,2
+1111,"Osman, Joseph",Male,1967-01-04,2400,Denmark,Married/separated,0
+1112,"Gutierrez, Luis",Male,1961-10-29,2300,Denmark,Never married,0
+1113,"Lufkin, Julie",Female,1955-08-03,2200,Denmark,Never married,0
+1114,"Fang, Conni",Female,1960-11-02,2400,Yugoslavia,Never married,0
+1115,"Olguin, Cassandra",Female,1961-12-14,2100,Denmark,Married/separated,0
+1116,"Ordunez, John",Male,1958-01-24,2200,Denmark,Married/separated,0
+1117,"Truong, Derek",Male,1963-01-13,2400,Denmark,Never married,0
+1118,"Norman, Charles",Male,1967-07-04,2300,Denmark,Married/separated,2
+1119,"Romero, Mathew",Male,1970-05-05,2400,Denmark,Divorced,2
+1120,"Mercado Espinosa, Alondra",Female,1971-02-16,2200,Denmark,Never married,0
+1121,"Gomez-Garza, Sonia",Female,1963-11-11,2400,Denmark,Married/separated,0
+1122,"al-Kader, Zaid",Male,1971-06-12,2200,Switzerland,Never married,0
+1123,"Lasalle, Jazalyn",Female,1969-10-04,2400,Denmark,Married/separated,0
+1124,"Carlos, Caleb",Male,1961-10-25,2400,Italy,Married/separated,0
+1125,"Moses, Chelsea",Female,1962-08-05,2300,Denmark,Divorced,0
+1126,"Batsaihan, Aspen",Female,1968-01-14,2200,Denmark,Divorced,2
+1127,"Adair, Jessica",Female,1963-09-06,2400,Denmark,Married/separated,0
+1128,"Wade, Roman",Male,1969-12-21,2400,Denmark,Never married,0
+1129,"Mascotti, Akila",Female,1972-09-11,2400,Denmark,Never married,2
+1130,"Hunt, Meghann",Female,1969-04-04,2400,Denmark,Divorced,0
+1131,"el-Muhammad, Maazin",Male,1972-08-15,2400,Denmark,Married/separated,0
+1132,"Zeng, Mengyi",Female,1967-12-15,2400,Denmark,Divorced,0
+1133,"Walker, Remington",Male,1954-08-27,2300,Poland,Married/separated,0
+1134,"Kirn, Tyson",Male,1959-05-04,2200,Denmark,Married/separated,0
+1135,"Kaska, Zachary",Male,1963-06-21,2100,Denmark,Married/separated,0
+1136,"al-Maroun, Fawzi",Male,1971-11-14,2300,Germany,Divorced,0
+1137,"Defurio, Chase",Male,1969-11-19,2200,Denmark,Never married,0
+1138,"el-Abbasi, Idrees",Male,1964-04-21,2400,Denmark,Married/separated,2
+1139,"Hernandez, Rose",Female,1971-08-09,2300,Afghanistan,Never married,2
+1140,"Rohlfs, Sarah",Female,1959-03-20,2400,Denmark,Divorced,2
+1141,"Mcafee, Johnathan",Male,1965-07-08,2400,Denmark,Never married,0
+1142,"Harrison, Monique",Female,1966-09-04,2200,Denmark,Married/separated,0
+1143,"al-Huq, Ramza",Female,1970-08-28,2400,Denmark,Never married,2
+1144,"Cheadle, Imani",Female,1961-10-07,2400,Denmark,Married/separated,0
+1145,"Estrada, Jazmin",Female,1971-12-18,2100,Denmark,Divorced,0
+1146,"Ford, Malachi",Male,1972-07-08,2200,Denmark,Never married,0
+1147,"Wallace, Tanner",Male,1969-01-12,2400,Denmark,Married/separated,2
+1148,"Jauch, Chandler",Female,1963-03-10,2400,Denmark,Never married,0
+1149,"Perry, Hunter",Male,1963-07-12,2300,Denmark,Married/separated,0
+1150,"Calhoun, Jemal",Male,1970-09-02,2200,Denmark,Married/separated,2
+1151,"al-Badie, Muaaid",Male,1956-01-17,2400,Denmark,Divorced,2
+1152,"O Hagan, Stephen",Male,1967-10-25,2300,Denmark,Married/separated,0
+1153,"Sharma, Na'Inoa",Male,1956-08-19,2100,Denmark,Married/separated,0
+1154,"Oster, Kianna",Female,1970-12-12,2400,Denmark,Married/separated,0
+1155,"Cardiel, Unity",Female,1964-01-01,2100,Denmark,Married/separated,0
+1156,"Rogers, Timothy",Male,1966-12-12,2400,United Kingdom,Divorced,0
+1157,"el-Mustafa, Lateefa",Female,1970-04-28,2300,Denmark,Divorced,2
+1158,"Daniels, Vinay",Male,1961-01-06,2300,Denmark,Divorced,0
+1159,"Youtman, Taylor",Female,1958-10-26,2300,Denmark,Married/separated,0
+1160,"Goldman, Ishi",Male,1966-10-02,2400,Denmark,Divorced,0
+1161,"Chen, Lisa",Female,1965-10-21,2400,Denmark,Never married,0
+1162,"Taylor Jr, Jeffery",Male,1964-03-10,2200,Denmark,Married/separated,0
+1163,"Martinez, Catia",Female,1964-10-23,2400,Denmark,Divorced,0
+1164,"Whitt, Danny",Male,1963-06-20,2300,Denmark,Married/separated,0
+1165,"Kimble, Leah",Female,1972-10-05,2400,Denmark,Never married,2
+1166,"Chapman, Derek",Male,1969-05-26,2400,Denmark,Married/separated,0
+1167,"Macdonald, Sydney",Female,1957-01-13,2400,Denmark,Married/separated,2
+1168,"el-Jaffer, Haaroon",Male,1956-10-01,2300,Denmark,Married/separated,0
+1169,"Gilbert, Richard",Male,1961-05-10,2400,Denmark,Divorced,2
+1170,"Jones, Jordynne",Female,1961-03-30,2400,Denmark,Divorced,0
+1171,"Sanchez, Isaac",Male,1959-12-20,2400,Denmark,Married/separated,0
+1172,"Kunimune, Tony",Male,1965-03-18,2400,Denmark,Married/separated,0
+1173,"Truong, Eunice",Female,1967-10-05,2400,Denmark,Never married,0
+1174,"Guill, Ariana",Female,1959-12-23,2200,Denmark,Married/separated,0
+1175,"Zahn, Jasmine",Female,1972-12-25,2300,Denmark,Never married,0
+1176,"el-Shahidi, Muntaha",Female,1972-03-09,2100,Denmark,Married/separated,0
+1177,"Hammond, Vanessa",Female,1954-08-16,2300,Denmark,Divorced,0
+1178,"al-Kassem, Sham'a",Female,1957-07-29,2100,Denmark,Married/separated,0
+1179,"el-Kaleel, Haamida",Female,1966-04-14,2300,Denmark,Divorced,0
+1180,"May, Alexis",Female,1972-06-28,2200,Denmark,Divorced,0
+1181,"el-Mahmoud, Numair",Male,1965-07-11,2300,Denmark,Married/separated,0
+1182,"Yussufu, Nile",Male,1973-06-10,2200,Denmark,Married/separated,0
+1183,"el-Jama, Sameeha",Female,1966-10-07,2300,Denmark,Never married,2
+1184,"Towne, Renee",Female,1971-09-16,2400,Denmark,Never married,0
+1185,"Park, Savanna",Female,1960-01-05,2400,Denmark,Married/separated,0
+1186,"Palmier, Marisa",Female,1965-07-18,2400,Denmark,Married/separated,2
+1187,"Hicks, Devin",Male,1971-08-24,2400,Denmark,Married/separated,0
+1188,"Truesdale, Diamond",Female,1963-09-05,2300,Denmark,Married/separated,0
+1189,"Pourier, Shaheila",Female,1963-07-17,2300,Denmark,Married/separated,2
+1190,"Chavez, John",Male,1966-01-22,2400,Denmark,Married/separated,2
+1191,"Zamora, Brandon",Male,1962-03-06,2300,Denmark,Never married,0
+1192,"Zeller, Nicholas",Male,1964-12-04,2300,Denmark,Never married,0
+1193,"el-Rehman, Taiseer",Male,1955-06-16,2200,Denmark,Married/separated,0
+1194,"al-Basa, Jalaal",Male,1960-03-04,2300,Denmark,Married/separated,0
+1195,"Cross, Elijah",Male,1972-09-02,2200,Denmark,Never married,0
+1196,"Sampron, Anissa",Female,1961-02-21,2200,Denmark,Married/separated,2
+1197,"Pham, Kiana",Female,1955-03-21,2400,Denmark,Married/separated,0
+1198,"Rubio, Michaela",Female,1971-03-08,2300,Denmark,Married/separated,0
+1199,"Terrell, Shawn",Male,1967-05-19,2400,Denmark,Married/separated,0
+1200,"Thomas, Patrick",Male,1956-05-03,2400,Denmark,Divorced,2
+1201,"Hoots, William",Male,1957-06-07,2300,Denmark,Never married,2
+1202,"Luevano, Joshua",Male,1961-10-22,2200,Denmark,Divorced,0
+1203,"Campbell, Cody",Male,1973-02-05,2300,Denmark,Married/separated,0
+1204,"Bonilla, Jose",Male,1965-02-08,2200,Denmark,Married/separated,0
+1205,"Robertson, Gabrielle",Female,1972-07-28,2300,Denmark,Divorced,0
+1206,"Goodbear, Rebecca",Female,1957-04-16,2400,Romania,Divorced,0
+1207,"Krien, Sereno",Male,1954-07-02,2200,Denmark,Married/separated,0
+1208,"Lopez, Justine",Female,1968-03-07,2300,Denmark,Divorced,2
+1209,"Garcia, Priscilla",Female,1957-07-22,2300,Denmark,Married/separated,0
+1210,"Matthew, Jyansea",Female,1962-02-28,2300,Denmark,Married/separated,0
+1211,"Mitchell, Silvano",Male,1971-02-15,2300,Armenia,Never married,0
+1212,"Alegria, Anita",Female,1962-06-25,2300,Denmark,Married/separated,0
+1213,"al-Saber, Musfira",Female,1966-01-28,2400,Denmark,Married/separated,0
+1214,"al-Pour, Sabaaha",Female,1967-04-16,2200,Denmark,Divorced,2
+1215,"al-Asmar, Jaleela",Female,1956-10-11,2200,Denmark,Married/separated,2
+1216,"Tacquard, Megan",Female,1965-12-16,2400,Denmark,Divorced,0
+1217,"Dean, Monica",Female,1970-09-16,2400,Denmark,Divorced,2
+1218,"Tran, Jonathan",Male,1963-01-17,2400,Denmark,Married/separated,0
+1219,"Shaw, Preston",Male,1956-03-24,2200,Denmark,Married/separated,0
+1220,"Dreasher, Charles",Male,1965-01-10,2300,Denmark,Married/separated,0
+1221,"Sullivan, Loretta",Female,1973-06-29,2100,Denmark,Married/separated,0
+1222,"Aragon, Steven",Male,1967-04-11,2400,Denmark,Divorced,0
+1223,"Gatlin, Savannah",Female,1957-12-13,2300,Denmark,Never married,0
+1224,"Herrera, Saul",Male,1967-07-19,2300,Denmark,Never married,2
+1225,"Chavez, Frankie",Male,1960-01-03,2300,Denmark,Divorced,2
+1226,"Ojeda, Arely",Female,1967-09-29,2400,Denmark,Married/separated,0
+1227,"Generalao, Seth",Male,1965-12-26,2300,Denmark,Married/separated,0
+1228,"Bell, Hayden",Male,1973-06-08,2400,Denmark,Never married,0
+1229,"Archuleta, Joshua",Male,1956-12-12,2300,"Yugoslavia, Federal Republic",Never married,0
+1230,"Lopez Cardenas, Miranda",Female,1970-05-13,2400,Denmark,Married/separated,2
+1231,"Suarez Luna, Daesha",Female,1963-01-16,2200,Denmark,Married/separated,2
+1232,"Yan, Thu Anh",Female,1956-08-14,2300,Denmark,Married/separated,0
+1233,"Morford, Frank",Male,1973-07-09,2200,Denmark,Married/separated,2
+1234,"Shreffler, Spencer",Male,1970-02-23,2400,Denmark,Married/separated,0
+1235,"White, Anthony",Male,1963-08-27,2200,Denmark,Divorced,0
+1236,"Franklin, Melanie",Female,1973-09-05,2200,Denmark,Never married,0
+1237,"Mccaney, Tyler",Male,1959-09-07,2400,Denmark,Married/separated,0
+1238,"el-Majid, Khawla",Female,1972-07-10,2300,Denmark,Never married,0
+1239,"Bacon-Maldonado, Shamika",Female,1961-03-03,2400,Denmark,Widowed,0
+1240,"Moran, Cassiopeia",Female,1973-04-10,2200,Denmark,Divorced,0
+1241,"Joe, Daniel",Male,1958-06-20,2200,Denmark,Married/separated,2
+1242,"Seeley, Jorge",Male,1969-05-07,2400,Denmark,Married/separated,0
+1243,"Ghosh, Ishan",Male,1971-04-24,2300,Denmark,Married/separated,0
+1244,"Prasad, Mckinley",Male,1973-01-30,2100,Denmark,Divorced,0
+1245,"Parent, Catarina",Female,1957-04-27,2200,Denmark,Married/separated,0
+1246,"Buffone, Robert",Male,1967-09-21,2300,Denmark,Never married,0
+1247,"Nieto, Cristian",Male,1936-01-06,2300,Denmark,Married/separated,0
+1248,"Huffman, Brooke",Female,1944-07-04,2200,Denmark,Widowed,0
+1249,"Allen, Dakota",Female,1950-03-12,2400,Denmark,Married/separated,0
+1250,"Clark, Amanda",Female,1935-08-06,2100,Denmark,Widowed,0
+1251,"Vue, Kevin",Male,1929-04-22,2400,Denmark,Widowed,0
+1252,"Espinosa, Justis",Female,1920-05-05,2400,Denmark,Widowed,0
+1253,"Mattice, Gilbert",Male,1939-11-26,2100,Denmark,Widowed,2
+1254,"Ortiz, Kiona",Female,1978-12-14,2200,Romania,Married/separated,2
+1255,"Dodd, Brandi",Female,1957-11-28,2300,Denmark,Married/separated,2
+1256,"el-Pasha, Rasheeqa",Female,1970-06-17,2300,Denmark,Married/separated,0
+1257,"Sanchez-Garcia, Bernardino",Male,1938-03-09,2300,Denmark,Married/separated,0
+1258,"Shaw, Sydney",Female,1954-04-04,2400,Denmark,Widowed,2
+1259,"Hoover, Angelina",Female,1969-02-25,2400,Denmark,Married/separated,0
+1260,"Silos, Marisa",Female,1954-12-21,2300,Turkey,Married/separated,0
+1261,"Ford, Ceirra",Female,1945-06-01,2300,Norway,Married/separated,0
+1262,"Clark, Martin",Male,1928-04-17,2400,Denmark,Divorced,0
+1263,"Gonzales, Jennifer",Female,1946-01-26,2300,Spain,Married/separated,0
+1264,"Chang, Domenic",Male,1955-06-01,2300,Denmark,Married/separated,0
+1265,"Segovia, Kathy",Female,1969-12-24,2200,Denmark,Never married,2
+1266,"Hite, Allysia",Female,1929-11-14,2400,Denmark,Married/separated,0
+1267,"Renz, Breanna",Female,1941-10-13,2400,Denmark,Divorced,0
+1268,"el-Faris, Bakar",Male,1958-10-16,2400,Denmark,Married/separated,0
+1269,"Mckellips, Royce",Male,1940-01-23,2300,Denmark,Married/separated,2
+1270,"White, Deirdre",Female,1958-02-24,2200,Denmark,Married/separated,0
+1271,"Van Dyke, Sayra",Female,1966-11-12,2200,Denmark,Married/separated,2
+1272,"Torres, Tyler",Male,1962-08-05,2100,Denmark,Married/separated,0
+1273,"Earnest, Ayesha",Female,1966-03-13,2400,Denmark,Divorced,0
+1274,"Lucero, Sonia",Female,1986-10-17,2200,Denmark,Never married,0
+1275,"Strader, Noah",Male,1955-07-15,2400,Denmark,Never married,0
+1276,"Oster, Alisha",Female,1957-04-14,2200,Denmark,Never married,2
+1277,"el-Sattar, Badraan",Male,1962-12-25,2100,Denmark,Married/separated,0
+1278,"Ardito, Thanh-Phong",Male,1932-03-08,2200,Denmark,Married/separated,0
+1279,"al-Sheikh, Afraah",Female,1931-03-13,2200,Denmark,Widowed,2
+1280,"Candia, Emily",Female,1962-05-11,2300,Denmark,Never married,0
+1281,"Houghton, Aubrey",Female,1921-09-15,2100,Denmark,Widowed,0
+1282,"Bayless, Tavien",Male,1960-06-16,2200,Denmark,Divorced,2
+1283,"Pelster, Julia",Female,1945-10-14,2100,Denmark,Married/separated,2
+1284,"San, Rebecca",Female,1947-11-15,2300,Denmark,Married/separated,0
+1285,"Jung, Tobby",Male,1935-04-20,2300,Denmark,Widowed,0
+1286,"Ordonez, Gloria",Female,1941-02-24,2400,Denmark,Married/separated,0
+1287,"Yong, Jacky",Male,1938-04-22,2200,Denmark,Married/separated,0
+1288,"Newson, Jasmine",Female,1950-02-09,2300,Pakistan,Never married,0
+1289,"Sanders-Johnson, Javon",Male,1920-09-22,2400,Germany,Widowed,0
+1290,"Blanton, Michele",Female,1956-04-03,2200,Denmark,Never married,0
+1291,"Ponce, Dominique",Female,1918-08-05,2300,Denmark,Never married,2
+1292,"al-Lodi, Kanaan",Male,1939-03-09,2200,Denmark,Divorced,2
+1293,"Martin, Kari",Female,1945-06-01,2200,Denmark,Married/separated,0
+1294,"Maltos, Ethan",Male,1959-08-22,2200,Denmark,Married/separated,2
+1295,"Anaya, Justin",Male,1919-06-18,2200,Turkey,Widowed,2
+1296,"Davidson, Patrick",Male,1957-06-18,2400,Denmark,Married/separated,0
+1297,"Valdez, Josue",Male,1934-04-04,2300,Denmark,Widowed,0
+1298,"Loftis, Johnny",Male,1959-10-31,2200,Denmark,Never married,0
+1299,"Sorenson, Sarah",Female,1968-08-01,2300,Denmark,Married/separated,0
+1300,"Brizzie, Elizabeth",Female,1936-01-28,2400,Denmark,Married/separated,0
+1301,"Alger, Prettyboy",Male,1949-12-09,2200,Denmark,Divorced,0
+1302,"Taylor, Ashleigh",Female,1963-04-01,2300,Denmark,Married/separated,2
+1303,"Roubideaux, Nicholas",Male,1962-09-26,2400,Denmark,Divorced,2
+1304,"Hubersberger, Mariah",Female,1977-08-17,2200,Denmark,Divorced,0
+1305,"Saucedo, Kennia",Female,1919-08-27,2300,Denmark,Widowed,0
+1306,"Dagher, Cole",Male,1941-03-21,2400,Denmark,Divorced,0
+1307,"Weasel Bear, Michael",Male,1956-11-25,2200,Denmark,Married/separated,0
+1308,"Amore, Joshua",Male,1923-03-13,2200,Denmark,Widowed,0
+1309,"Woznicki, Joann",Female,1961-06-30,2400,Denmark,Married/separated,0
+1310,"Vang, Jeffrey",Male,1944-01-24,2400,Denmark,Married/separated,0
+1311,"Landis, Brandon",Male,1935-07-30,2400,Denmark,Married/separated,2
+1312,"Lopez, Devin",Male,1946-02-22,2400,Denmark,Married/separated,2
+1313,"Smith, Haley",Female,1949-05-08,2200,Poland,Married/separated,0
+1314,"Combest, Dustin",Male,1974-11-13,2400,Denmark,Never married,0
+1315,"Sober, Corie",Male,1960-07-16,2300,Denmark,Married/separated,0
+1316,"Kim, Zachary",Male,1955-06-05,2200,Denmark,Married/separated,0
+1317,"Mascarenhas, Jae",Male,1945-12-28,2400,Denmark,Married/separated,0
+1318,"Harris, Samuel",Male,1939-10-13,2300,Denmark,Widowed,0
+1319,"el-Assaf, Naaif",Male,1946-03-28,2200,Denmark,Married/separated,0
+1320,"Pena, Cristian",Male,1943-03-28,2300,Denmark,Married/separated,2
+1321,"Pena, Cheyenne",Female,1958-05-17,2400,Denmark,Never married,0
+1322,"Pereira, Billy",Male,1946-12-15,2400,Denmark,Divorced,0
+1323,"Garcia, Risa",Female,1957-10-01,2400,Netherlands,Married/separated,0
+1324,"Maestas, Paul",Male,1940-04-25,2400,Romania,Married/separated,0
+1325,"Brooks, Auza",Female,1936-07-08,2400,Denmark,Divorced,2
+1326,"Bigthumb, Luisa",Female,1954-12-04,2400,Denmark,Divorced,0
+1327,"al-Abdou, Rajaa",Male,1963-01-10,2200,Denmark,Married/separated,0
+1328,"al-Momin, Mushtaaqa",Female,1935-05-05,2200,Denmark,Married/separated,2
+1329,"Balogh, Rhemedio",Male,1937-12-28,2300,Denmark,Married/separated,2
+1330,"Pozek, Kaitlyn",Female,1958-04-25,2400,Denmark,Married/separated,2
+1331,"el-Mohammad, Jaadallah",Male,1947-10-31,2300,Denmark,Divorced,0
+1332,"Baker, Sara",Female,1920-05-15,2400,Turkey,Widowed,0
+1333,"Muya, Deiondre",Male,1959-01-21,2400,Denmark,Never married,2
+1334,"Hickman, Alexander",Male,1943-09-10,2200,Denmark,Married/separated,0
+1335,"Rodriguez, Grecia",Female,1956-11-17,2200,Denmark,Married/separated,0
+1336,"Scholes, Alyssa",Female,1955-07-26,2400,Philippines,Never married,0
+1337,"Sommer, Amber",Female,1948-12-29,2400,Denmark,Married/separated,0
+1338,"Bramble, Matthew",Male,1973-09-09,2400,Denmark,Never married,0
+1339,"Hope Crichlow, Tonio",Male,1959-02-02,2300,Germany,Married/separated,0
+1340,"Harewood-Millington, Semhal",Female,1947-05-04,2300,Iceland,Widowed,0
+1341,"Barnes, Simon",Male,1973-07-09,2200,Denmark,Divorced,2
+1342,"Neal, Shawntay",Female,1957-03-30,2200,Denmark,Divorced,0
+1343,"Watts, Ashley",Female,1946-06-02,2400,Denmark,Married/separated,0
+1344,"Corona Fuentes, Yesenia",Female,1943-10-08,2300,Denmark,Married/separated,2
+1345,"al-Malek, Rumaana",Female,1986-10-08,2300,Denmark,Never married,0
+1346,"Vo, Tmorchi",Male,1954-03-09,2300,Denmark,Married/separated,2
+1347,"Hernandez, Tania",Female,1973-06-17,2400,Denmark,Never married,0
+1348,"Martinez, Desiree",Female,1941-09-01,2200,Denmark,Married/separated,0
+1349,"Smith, Cailinanne",Female,1958-12-10,2300,Denmark,Never married,0
+1350,"Aya, Shelly",Female,1967-12-08,2300,Thailand,Married/separated,2
+1351,"Johnson, Carmela",Female,1957-03-24,2200,Denmark,Divorced,0
+1352,"el-Ghani, Asghar",Male,1942-09-06,2200,Denmark,Married/separated,0
+1353,"Wehner, Kyle",Male,1960-08-07,2300,Denmark,Never married,0
+1354,"Pahlavan, Hyun Seok",Male,1921-03-30,2300,Denmark,Widowed,0
+1355,"Dabeet, Chasity",Female,1947-04-08,2300,Denmark,Married/separated,0
+1356,"Richards, Connal",Male,1948-06-03,2400,Denmark,Divorced,2
+1357,"el-Ghazal, Aarif",Male,1970-09-05,2200,Denmark,Married/separated,2
+1358,"Tzeng, My Duyen",Female,1942-04-26,2100,Denmark,Divorced,2
+1359,"Liam, Kelsey",Female,1947-07-13,2400,Denmark,Married/separated,0
+1360,"Lewis, Simran",Female,1953-11-20,2400,Denmark,Divorced,0
+1361,"el-Shareef, Jumaana",Female,1953-07-18,2100,Denmark,Divorced,0
+1362,"Villegas, Jesus",Male,1953-10-04,2400,Denmark,Married/separated,0
+1363,"Vang, Emelie",Female,1967-08-16,2400,Denmark,Divorced,2
+1364,"Sanchez, Mariah",Female,1938-05-06,2400,Denmark,Widowed,0
+1365,"el-Ishak, Muneefa",Female,1924-08-08,2200,Denmark,Never married,0
+1366,"Wilkerson, Allison",Female,1930-09-22,2200,Denmark,Widowed,0
+1367,"Chee, Stephanie",Female,1962-06-18,2200,Denmark,Divorced,0
+1368,"Jugert, Marcos",Male,1953-08-27,2400,Denmark,Married/separated,0
+1369,"Sayhouse, Alfred",Male,1940-02-07,2400,Denmark,Married/separated,0
+1370,"el-Shad, Raihaana",Female,1956-10-19,2400,Denmark,Married/separated,0
+1371,"Guzman, Kayla",Female,1951-09-04,2200,Denmark,Divorced,0
+1372,"Lee, Tergel",Female,1950-03-11,2400,Germany,Married/separated,0
+1373,"Araujo-Vazquez, Ruben",Male,1969-01-08,2400,Denmark,Married/separated,0
+1374,"Sengdara, Nishika",Female,1950-10-28,2300,Denmark,Married/separated,2
+1375,"Fox, Prisca",Female,1941-08-01,2300,Denmark,Widowed,0
+1376,"Ho, Kyle",Male,1937-09-06,2100,Denmark,Married/separated,0
+1377,"Berg, James",Male,1947-07-22,2300,Denmark,Divorced,0
+1378,"Hegna, Rosalie",Female,1964-01-31,2300,Denmark,Never married,0
+1379,"Ellington, Raliya",Female,1943-03-15,2400,Denmark,Married/separated,2
+1380,"Caughey, Patrick",Male,1960-02-19,2300,Denmark,Married/separated,0
+1381,"Che, Zachary",Male,1959-04-06,2200,Denmark,Married/separated,0
+1382,"al-Darwish, Shaheer",Male,1947-06-11,2300,Denmark,Married/separated,2
+1383,"al-Saad, Waseem",Male,1970-03-10,2400,Denmark,Never married,0
+1384,"Johnson, Adam",Male,1956-02-06,2200,Denmark,Divorced,2
+1385,"Brott, Clayton",Male,1936-06-11,2400,Denmark,Married/separated,0
+1386,"Thao, Alysia",Female,1949-04-30,2200,Denmark,Never married,2
+1387,"Perry, Tokiya",Male,1983-01-04,2100,Denmark,Married/separated,0
+1388,"Rubalcaba, Mayra",Female,1947-01-10,2300,Denmark,Married/separated,2
+1389,"al-Ghani, Qaaida",Female,1943-12-02,2400,Denmark,Widowed,0
+1390,"el-Waheed, Laaiqa",Female,1967-06-09,2200,Denmark,Divorced,2
+1391,"Rivera, Ralph Patrick",Male,1973-01-20,2400,Denmark,Married/separated,0
+1392,"Martin, Brianna",Female,1974-03-09,2200,Denmark,Married/separated,2
+1393,"Ruybal, Rito",Male,1958-03-30,2400,Denmark,Married/separated,0
+1394,"Camacho, Joey",Male,1945-12-22,2400,Denmark,Widowed,2
+1395,"White, Deisha",Female,1948-12-28,2400,Denmark,Married/separated,0
+1396,"Baker, Travis",Male,1975-01-06,2200,Denmark,Married/separated,0
+1397,"Oskarsson, Jelicha",Female,1936-08-11,2300,Lithuania,Never married,0
+1398,"Vu, Carl Levi",Male,1960-09-21,2200,Denmark,Married/separated,2
+1399,"Vo, Lauren",Female,1955-08-14,2200,Denmark,Married/separated,0
+1400,"Little, Daniel",Male,1948-04-01,2400,Denmark,Divorced,2
+1401,"al-Moradi, Nizaam",Male,1932-12-27,2400,Denmark,Married/separated,0
+1402,"Moselina, Kevin",Male,1945-04-22,2400,Denmark,Married/separated,0
+1403,"al-Turay, Shamaail",Female,1952-03-20,2200,Denmark,Married/separated,2
+1404,"Hauptli, Jared",Male,1922-09-06,2400,Denmark,Widowed,0
+1405,"Benally, Kaylie",Female,1966-09-17,2200,Denmark,Divorced,0
+1406,"Herman, Caitlin",Female,1918-09-07,2400,Denmark,Widowed,0
+1407,"Evangelista Jr, Lacey",Female,1964-02-10,2300,Denmark,Married/separated,0
+1408,"Juel, Tyler",Male,1942-05-06,2200,Denmark,Married/separated,0
+1409,"el-Hamid, Afnaan",Female,1962-02-18,2400,Denmark,Married/separated,0
+1410,"Bruce, Leo",Male,1942-02-19,2400,Denmark,Married/separated,2
+1411,"Bustos-Campos, Jasmine",Female,1953-11-25,2200,Denmark,Widowed,0
+1412,"Moya, Isaiah",Male,1943-05-16,2200,Denmark,Married/separated,0
+1413,"Allen, Maggie Rose",Female,1935-09-14,2400,Denmark,Married/separated,2
+1414,"Zaman, Nicolette",Female,1940-11-22,2200,Denmark,Married/separated,2
+1415,"Carbajal Clark, Elijah",Male,1938-04-29,2400,Denmark,Married/separated,0
+1416,"Huelsman, Andrew",Male,1936-12-06,2400,Denmark,Married/separated,0
+1417,"Xiong, Christopher",Male,1952-02-06,2200,Denmark,Never married,0
+1418,"Hunter, Aleksander",Male,1941-07-26,2300,Denmark,Married/separated,0
+1419,"Pakpahan, Kelly",Female,1953-12-24,2100,Denmark,Divorced,0
+1420,"Nguyen, Chloe",Female,1934-09-10,2200,Denmark,Widowed,0
+1421,"Mayfield, Abel",Male,1951-06-18,2200,Denmark,Married/separated,2
+1422,"Cave, Jarrett",Male,1956-10-11,2400,Denmark,Married/separated,0
+1423,"House, Jeremiah",Male,1955-11-06,2400,Denmark,Never married,2
+1424,"Martinez, Rachael",Female,1939-10-27,2200,Denmark,Married/separated,0
+1425,"Whitney, Ruben",Male,1940-01-29,2400,Iceland,Divorced,2
+1426,"al-Dawood, Nawaal",Female,1960-04-18,2400,Denmark,Married/separated,2
+1427,"Martinez Flood, James",Male,1957-07-14,2400,Denmark,Married/separated,0
+1428,"el-Matar, Tuhfa",Female,1965-02-06,2300,Denmark,Married/separated,0
+1429,"al-Sharif, Saleel",Male,1948-09-22,2400,Denmark,Widowed,2
+1430,"Green, Ashanta",Female,1959-01-22,2200,Denmark,Never married,2
+1431,"Shirley, Kaitlin",Female,1927-12-03,2400,Denmark,Married/separated,0
+1432,"Radford, Monique",Female,1947-07-27,2400,Denmark,Never married,0
+1433,"King, Sophia",Female,1977-08-23,2200,Denmark,Married/separated,0
+1434,"Hudson, Brianna",Female,1937-06-09,2300,Denmark,Never married,0
+1435,"Gutierrez, Brandon",Male,1918-10-13,2400,Denmark,Widowed,2
+1436,"Unruh, Richard",Male,1950-05-27,2400,Denmark,Married/separated,0
+1437,"Garcia, Selena",Female,1957-10-15,2400,Denmark,Married/separated,0
+1438,"Carlos, David",Male,1984-10-05,2300,Denmark,Married/separated,0
+1439,"Gabel, Jamie",Female,1940-12-15,2400,Denmark,Divorced,2
+1440,"Maranto, Chelsea",Female,1945-03-17,2300,Denmark,Divorced,0
+1441,"Turner, Riley",Male,1946-06-04,2300,Denmark,Divorced,2
+1442,"Hunt, Quinn",Female,1930-08-18,2400,Denmark,Married/separated,0
+1443,"Paik, Nhuquynh",Female,1945-07-24,2200,Denmark,Divorced,2
+1444,"al-Huq, Jafar",Male,1927-09-30,2200,Denmark,Widowed,2
+1445,"Wright, Ashley",Female,1958-04-28,2300,Denmark,Married/separated,0
+1446,"el-Rauf, Taaj",Male,1947-06-21,2400,Denmark,Married/separated,0
+1447,"el-Halaby, Ariyya",Female,1970-02-19,2400,Denmark,Married/separated,0
+1448,"Pesek, Christen",Female,1954-10-05,2300,Denmark,Married/separated,2
+1449,"Cooter, Kelly",Female,1951-10-15,2200,Denmark,Widowed,0
+1450,"Nguyen, Gow Xhoua",Female,1948-11-09,2400,Denmark,Married/separated,0
+1451,"Ro, Thao",Female,1934-01-27,2300,Denmark,Widowed,0
+1452,"al-Nouri, Fawz",Male,1943-08-26,2300,Denmark,Married/separated,0
+1453,"Medina, Riley",Female,1939-01-18,2400,Denmark,Married/separated,0
+1454,"Abeyta, Kristy",Female,1944-08-25,2400,Denmark,Married/separated,0
+1455,"el-Emami, Muzammil",Male,1941-05-23,2200,Denmark,Married/separated,0
+1456,"Richmond, Miranda",Female,1957-09-26,2400,Denmark,Divorced,0
+1457,"Harmon, Brittany",Female,1923-07-01,2400,Lithuania,Widowed,2
+1458,"Williams, Angela",Female,1948-03-26,2200,Denmark,Married/separated,2
+1459,"Mcgee, Miya",Female,1955-12-01,2200,Denmark,Never married,0
+1460,"Petersian, Taneil",Female,1929-04-29,2100,Denmark,Married/separated,0
+1461,"Stock, Sarah",Female,1942-12-04,2400,Denmark,Married/separated,2
+1462,"Jefferson, Savannah",Female,1967-05-04,2300,Denmark,Never married,0
+1463,"Wright, Ariel",Female,1918-06-16,2300,Denmark,Widowed,0
+1464,"Whiteskunk, Darrell",Male,1952-06-08,2100,Denmark,Married/separated,0
+1465,"John, Andrew",Male,1946-03-27,2100,Denmark,Married/separated,0
+1466,"el-Fares, Mahfoodha",Female,1980-05-16,2100,Denmark,Never married,0
+1467,"el-Afzal, Tayyiba",Female,1946-01-21,2300,Denmark,Married/separated,0
+1468,"Dumon, Enkhtsogt",Male,1922-11-27,2300,Denmark,Divorced,0
+1469,"Lindsey, Sara",Female,1970-04-30,2300,Denmark,Married/separated,2
+1470,"Hoskins, Cora",Female,1954-07-23,2200,Denmark,Widowed,0
+1471,"Hansen, Kenneth",Male,1948-12-21,2400,Denmark,Never married,0
+1472,"Klinger, Kelsey",Female,1935-03-08,2300,Denmark,Widowed,0
+1473,"al-Wahab, Nawf",Male,1975-11-18,2400,Denmark,Married/separated,2
+1474,"Hernandez, Mario",Male,1936-06-07,2300,Denmark,Married/separated,0
+1475,"Quiel, Darian",Female,1934-04-07,2400,Denmark,Married/separated,0
+1476,"Marion, Madeline",Female,1938-06-05,2200,Denmark,Widowed,0
+1477,"Gardner, Brian",Male,1948-05-29,2400,Denmark,Married/separated,0
+1478,"al-Samaan, Nabeela",Female,1932-11-03,2300,Denmark,Widowed,0
+1479,"Thomas, Elijah",Male,1922-10-15,2400,Lithuania,Widowed,2
+1480,"Brown, Ariel",Female,1952-05-14,2400,Denmark,Married/separated,2
+1481,"Larsen, Juan",Male,1942-07-09,2400,Denmark,Widowed,0
+1482,"al-Sinai, Taamira",Female,1953-03-04,2400,Denmark,Married/separated,0
+1483,"Lopez, Gustavo",Male,1956-04-23,2400,Denmark,Married/separated,0
+1484,"Herron Jr, Chantal",Female,1949-05-16,2300,Pakistan,Married/separated,0
+1485,"Le, Maisee",Female,1953-12-13,2300,Denmark,Never married,0
+1486,"Raymond, Kevin",Male,1955-04-11,2400,Denmark,Married/separated,2
+1487,"el-Zamani, Shaahira",Female,1970-08-20,2200,Denmark,Married/separated,2
+1488,"Perkins, Bailee",Female,1945-04-07,2100,Denmark,Married/separated,2
+1489,"Anderson, Abdullah",Male,1936-12-17,2200,Denmark,Widowed,0
+1490,"Stadtherr, Cody",Male,1955-09-27,2200,Denmark,Divorced,0
+1491,"Bukowski, Mary",Female,1944-05-05,2200,Denmark,Divorced,0
+1492,"Ballard, Elberta",Female,1962-02-10,2200,Denmark,Married/separated,0
+1493,"Than, Amber",Female,1931-11-19,2100,Denmark,Married/separated,0
+1494,"Williams, Wesley",Male,1956-06-29,2400,Denmark,Married/separated,0
+1495,"Deboer, Maysea",Female,1951-05-12,2300,Denmark,Married/separated,0
+1496,"Canterbury, Daniel",Male,1945-09-25,2200,Denmark,Widowed,0
+1497,"Elliott, Ashley",Female,1963-09-22,2200,Denmark,Divorced,0
+1498,"Wallace, Arealous",Male,1942-10-23,2400,Denmark,Divorced,2
+1499,"Owen, Brooke",Female,1935-07-23,2300,Denmark,Widowed,0
+1500,"Gay, Senayit",Female,1950-09-11,2300,Denmark,Married/separated,0
+1501,"Varney, Raymond",Male,1968-03-31,2200,Denmark,Married/separated,0
+1502,"el-Amiri, Adeeba",Female,1947-08-15,2200,Denmark,Never married,2
+1503,"Alcazar Ochoa, Jeanne",Female,1962-02-11,2400,Denmark,Divorced,2
+1504,"Nielsen, Lynzey",Female,1923-07-11,2400,Denmark,Widowed,2
+1505,"Valles-Gonzales, Yair",Male,1958-12-01,2100,Denmark,Married/separated,0
+1506,"Reynolds, Timothy",Male,1961-02-04,2400,Denmark,Never married,2
+1507,"Donner, Brittany",Female,1919-01-09,2300,Denmark,Widowed,0
+1508,"Sarwana, Selena",Female,1940-07-18,2400,Denmark,Widowed,0
+1509,"al-Mina, Saalim",Male,1932-12-27,2300,Denmark,Married/separated,0
+1510,"Stapleton, Samantha",Female,1935-02-06,2400,Denmark,Married/separated,0
+1511,"Khabir, David",Male,1956-03-31,2300,Denmark,Married/separated,0
+1512,"Richardson, Allison",Female,1952-01-09,2400,Denmark,Married/separated,2
+1513,"Davis, Keith",Male,1929-01-27,2400,Denmark,Widowed,0
+1514,"Lange, Archibald",Male,1947-08-04,2200,Denmark,Divorced,0
