@@ -44,8 +44,38 @@ private_data$age_group <- ifelse((private_data$age>70 & private_data$age<=80) , 
 private_data$age_group <- ifelse((private_data$age>80 & private_data$age<=90) , '80-90',private_data$age_group)
 private_data$age_group <- ifelse((private_data$age>90) , '>90',private_data$age_group)
 
-# create sdcObject
+#EU-Non, Eu
 
+private_data$eu_citizen <- ifelse((private_data$citizenship == 'Austria' |
+                           private_data$citizenship == 'Belgium' |
+                           private_data$citizenship == 'Bulgaria' |
+                           private_data$citizenship == 'Croatia' |
+                           private_data$citizenship == 'Cyprus' |
+                           private_data$citizenship == 'Czechia' |
+                           private_data$citizenship == 'Denmark' |
+                           private_data$citizenship == 'Estonia' |
+                           private_data$citizenship == 'Finland' |
+                           private_data$citizenship == 'France' |
+                           private_data$citizenship == 'Germany' |
+                           private_data$citizenship == 'Greece' |
+                           private_data$citizenship == 'Hungary'|
+                           private_data$citizenship == 'Ireland' |
+                           private_data$citizenship == 'Italy' |
+                           private_data$citizenship == 'Latvia' |
+                           private_data$citizenship == 'Lithuania' | 
+                           private_data$citizenship == 'Luxembourg' |
+                           private_data$citizenship == 'Malta' |
+                           private_data$citizenship == 'Netherlands' | 
+                           private_data$citizenship == 'Poland' |
+                           private_data$citizenship == 'Portugal' |
+                           private_data$citizenship == 'Romania' |
+                           private_data$citizenship == 'Slovakia' |
+                           private_data$citizenship == 'Slovenia' |
+                           private_data$citizenship == 'Spain' |
+                           private_data$citizenship == 'Sweden'), 'EU','Non-EU')
+
+
+# create sdcObject
 private_sdc <- createSdcObj(private_data, keyVars = c("name", "sex", 
                                                       "evote", "citizenship",
                                                       "zip", "marital_status",
