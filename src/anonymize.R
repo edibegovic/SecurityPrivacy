@@ -29,10 +29,9 @@ hist(private_data$age) ## normally distributed around 40-45
 
 # create sdcObject
 
-private_sdc <- createSdcObj(private_data, keyVars = c("sex", 
-                                                      "evote", "citizenship",
-                                                      "zip", "marital_status"
-                                                      "education", "age"), 
+private_sdc <- createSdcObj(private_data, keyVars = c("sex", "evote", "citizenship",
+                                                      "zip",
+                                                      "age"), 
                             sensibleVar = "party")
 
 # check some naive stuff
@@ -40,13 +39,36 @@ private_sdc <- createSdcObj(private_data, keyVars = c("sex",
 private_sdc
 
 # ----------------------------------------------------------------------
-#   
+#  fields: sex, evote, citizenship, zip, marital_status, education, age 
 #   
 #   Infos on 2/3-Anonymity:
 #   
 #   Number of observations violating
 # - 2-anonymity: 196 (98.000%)
 # - 3-anonymity: 200 (100.000%)
+# - 5-anonymity: 200 (100.000%)
+# 
+# ----------------------------------------------------------------------
+# ----------------------------------------------------------------------
+#   
+# no education
+#   
+#   Infos on 2/3-Anonymity:
+#   
+#   Number of observations violating
+# - 2-anonymity: 182 (91.000%)
+# - 3-anonymity: 200 (100.000%)
+# - 5-anonymity: 200 (100.000%)
+# 
+# ----------------------------------------------------------------------
+# ----------------------------------------------------------------------
+# no education, no marital status   
+#   
+#   Infos on 2/3-Anonymity:
+#   
+#   Number of observations violating
+# - 2-anonymity: 159 (79.500%)
+# - 3-anonymity: 193 (96.500%)
 # - 5-anonymity: 200 (100.000%)
 # 
 # ----------------------------------------------------------------------
@@ -64,6 +86,7 @@ private_sdc
 
 # ----------------------------------------------------------------------
 #   
+#  fields: sex, evote, citizenship, zip, marital_status, education, age 
 #   
 #   Infos on 2/3-Anonymity:
 #   
@@ -73,7 +96,28 @@ private_sdc
 # - 5-anonymity: 200 (100.000%) | in original data: 200 (100.000%)
 # 
 # ----------------------------------------------------------------------
-
+# ----------------------------------------------------------------------
+#  no education
+#   
+#   Infos on 2/3-Anonymity:
+#   
+#   Number of observations violating
+# - 2-anonymity: 55 (27.500%) | in original data: 182 (91.000%)
+# - 3-anonymity: 115 (57.500%) | in original data: 200 (100.000%)
+# - 5-anonymity: 160 (80.000%) | in original data: 200 (100.000%)
+# 
+# ----------------------------------------------------------------------
+# ----------------------------------------------------------------------
+#   
+#   
+#   Infos on 2/3-Anonymity:
+#   
+#   Number of observations violating
+# - 2-anonymity: 28 (14.000%) | in original data: 159 (79.500%)
+# - 3-anonymity: 52 (26.000%) | in original data: 193 (96.500%)
+# - 5-anonymity: 117 (58.500%) | in original data: 200 (100.000%)
+# 
+# ----------------------------------------------------------------------
 # citizenship to Denmark and other
 countries <- unique(private_data$citizenship)
 denmark_idx <- which("Denmark" %in% countries)
@@ -87,6 +131,31 @@ private_sdc <- groupAndRename(private_sdc, var = c("citizenship"),
 
 private_sdc@manipKeyVars$citizenship
 
+private_sdc
+
+# ----------------------------------------------------------------------
+#  no education
+#   
+#   Infos on 2/3-Anonymity:
+#   
+#   Number of observations violating
+# - 2-anonymity: 55 (27.500%) | in original data: 182 (91.000%)
+# - 3-anonymity: 115 (57.500%) | in original data: 200 (100.000%)
+# - 5-anonymity: 160 (80.000%) | in original data: 200 (100.000%)
+# 
+# ----------------------------------------------------------------------
+# ----------------------------------------------------------------------
+# no education and no marital_status  
+#   
+#   Infos on 2/3-Anonymity:
+#   
+#   Number of observations violating
+# - 2-anonymity: 26 (13.000%) | in original data: 159 (79.500%)
+# - 3-anonymity: 52 (26.000%) | in original data: 193 (96.500%)
+# - 5-anonymity: 117 (58.500%) | in original data: 200 (100.000%)
+# 
+# ----------------------------------------------------------------------
+#   
 # remap education too
 
 private_sdc <- groupAndRename(private_sdc, var = c("education"), 
@@ -101,3 +170,56 @@ private_sdc@manipKeyVars$education
 private_sdc@risk$global
 
 private_sdc
+
+# ----------------------------------------------------------------------
+#   
+#  fields: sex, evote, citizenship, zip, marital_status, education, age 
+#   
+#   Infos on 2/3-Anonymity:
+#   
+#   Number of observations violating
+# - 2-anonymity: 115 (57.500%) | in original data: 196 (98.000%)
+# - 3-anonymity: 173 (86.500%) | in original data: 200 (100.000%)
+# - 5-anonymity: 195 (97.500%) | in original data: 200 (100.000%)
+# 
+# ----------------------------------------------------------------------
+
+# best way: no education, no marital_status -> encode citizenship plus age
+
+# run anonymization
+
+sum(private_sdc@risk$individual[,2] < 2)
+private_sdc <- ldiversity(obj = private_sdc, ldiv_index = c("party"), l_recurs_c = 2, missing = NA)
+private_sdc@risk$ldiversity
+
+private_sdc@manipKeyVars # sex, evote, citizenship, zip, age
+
+private_sdc <- kAnon(private_sdc, k = 2)
+
+# ----------------------------------------------------------------------
+#   
+#   
+#   Infos on 2/3-Anonymity:
+#   
+#   Number of observations violating
+# - 2-anonymity: 0 (0.000%) | in original data: 159 (79.500%)
+# - 3-anonymity: 8 (4.000%) | in original data: 193 (96.500%)
+# - 5-anonymity: 82 (41.000%) | in original data: 200 (100.000%)
+# 
+# ----------------------------------------------------------------------
+#   
+#   
+#   Local suppression:
+#   
+#   KeyVar | Suppressions (#) | Suppressions (%)
+#     sex |               0 |            0.000
+#     evote |             0 |            0.000
+#     citizenship |       1 |            0.500
+#     zip |               4 |            2.000
+#     age |              21 |           10.500
+#     ----------------------------------------------------------------------
+
+private_sdc@manipKeyVars
+
+# save the data
+dataAnon <- extractManipData(private_sdc, ignoreKeyVars = F)
