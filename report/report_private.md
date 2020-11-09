@@ -56,11 +56,13 @@ This question is answered in the same way for the original and anonymized data. 
 
 The sample, private_dataB.xlsx, is read and separated into two data frames, one containing e-voters and another containing in person voters.
 
-The votes for each party, Green and Red, are then summed for each voting location. A Chi-squared test is then performed on the summed values from the sample and the totals from the population, public_data_resultsB.xlsx.
+The votes for each party, Green and Red, are then summed for each voting location. A Chi-squared test is then performed on the summed values from the sample and the totals from the population, "public_data_resultsB.xlsx".
 
 ###### B)
 
+This question is answered in the same way for the original and anonymized data. Using "private_dataB.xlsx" we separate this into two data frames, one containing e-voters and another containing in person voters. The parties in the data frame are then converted in integer representations. 
 
+A P-Value is then performed on these values.
 
 
 
