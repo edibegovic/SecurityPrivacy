@@ -6,19 +6,19 @@
 
 ### Introduction
 
-We use the sdcMicro web interface to analyse the relationships between the different variables to determine how much they influence each other. As we have no knowledge about the the full population, we cannot say anything about population frequency and therefore we'll be approaching the anonymization in a more conservative way.
+We use the sdcMicro web interface to analyse the relationships between the different variables to determine how much they influence each other. 
 
-We register all variables availeble in the public register as quasi-identifiers, such that *party* (voted for) is considered the only sensible variable. 
+We register all variables available in the public register as quasi-identifiers, such that *party* (voted for) is considered the only sensible variable. 
 
 
 
 ### Methodology
 
-We start out by removing any direct identifiers; this just includes the names, which also carry no utility for the analysis. Fo
+We start out by removing any direct identifiers; this just includes the names, which also carry no utility for the analysis.
 
 ##### Recoding
 
-Apart from *DOB* (*date for birth*), all other key variables are categorical but contain many different values and thus increases uniqueness. We therefore split them into more corse groups, where we don't deem a high reduction in utility. Likewise, age is grouped into four ranges. 
+Apart from *DOB* (*date for birth*), all other key variables are categorical but contain many different values and thus increases uniqueness. We therefore split them into more coarse groups, where we don't deem a high reduction in utility. Likewise, age is grouped into four ranges. 
 
 | Variable              | Grouping                                                     | k2-anonymity violation |
 | :-------------------- | ------------------------------------------------------------ | ---------------------- |
@@ -26,7 +26,7 @@ Apart from *DOB* (*date for birth*), all other key variables are categorical but
 | DOB (*date of birth*) | Young (<31)<br />Getting there (31-45)<br />Middle (46-65)<br />Old (>65) | 183 · 92%              |
 | Citizenship           | Danish<br />Other                                            | 183 · 92%              |
 
-As *educational background* is not considered publicly avalible, we decided to include it without any modification. This information is however - as with everything else - still susceptible for recognition by the end user. 
+As *educational background* is not considered publicly available, we decided to include it without any modification. This information is however - as with everything else - still susceptible for recognition by the end user. 
 
 ##### Suppression
 
@@ -38,11 +38,11 @@ After recoding, we let sdcMicro apply local suppression to achieve 2k-anonymity.
 | Zip         | 4                          | 2%    |
 | Citizenship | 1                          | 0.5%  |
 
-After supression we achive full 2k-annonymity as well as only having 8 individuals (4%) violate k3-annonymity.
+After suppression we achieve 2k-anonymity as well as only having 8 individuals (4%) violate k3-anonymity.
 
 ##### Perturbation
 
-After suppression we have a very low percentage of voters violating 3k-anonymity and none violating 2k-anonimity, therefore we decided not to apply any perturbation to the data to keep more utility. We believe that This has to be specified very clearly to the end-user of the data, as any other analysis based on the data would be incorrect. 
+After suppression we have a very low percentage of voters violating 3k-anonymity and none violating 2k-anonymity, therefore we decided not to apply any perturbation to the data to keep more utility. We believe that this has to be specified very clearly to the end-user of the data, as any other analysis based on the data would be incorrect. 
 
 ### 
 
@@ -54,9 +54,9 @@ To asses the utility of the modified data, we checked the 95% confidence interva
 
 ### Uses for Analysis
 
-For the analytical purposes of the data, we'd argue that, apart from voting type and choice (*evote* and *party*, respectivly), age in itself would suffice as argumentation for the scew in how electronic and papor ballots were cast.
+For the analytical purposes of the data, we'd argue that, apart from voting type and choice (*evote* and *party*, respectively), age in itself would suffice as argumentation for the skew in how electronic and paper ballots were cast.
 
-In respect to the analytical questions provided, we would attack them the same way with the annoonymised as with the non-annoonymised. 
+In respect to the analytical questions provided, we would attack them the same way with the anonymised as with the non-anonymised. 
 
 The difference in political preference **(A)** from the survey and election results can be compared by inspecting the method of voting (*evote*) and choice (*party*). One can 
 
