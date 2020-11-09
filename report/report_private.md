@@ -6,27 +6,27 @@
 
 ### Introduction
 
-We use the sdcMicro web interface to analyse the relationships between the different variables to determine how much they influence each other. As we have no knowledge about the the full population, we cannot say anything about population frequency and therefore we'll be approaching the anonymization in a more conservative way.
+We use the sdcMicro web interface to analyse the relationships between the different variables to determine how much they influence each other. 
 
-We register all variables availeble in the public register as quasi-identifiers, such that *party* (voted for) is considered the only sensible variable. 
+We register all variables available in the public register as quasi-identifiers, such that *party* (voted for) is considered the only sensible variable. 
 
 
 
 ### Methodology
 
-We start out by removing any direct identifiers; this just includes the names, which also carry no utility for the analysis. Fo
+We start out by removing any direct identifiers; this just includes the names, which also carry no utility for the analysis.
 
 ##### Recoding
 
-Apart from *DOB* (*date for birth*), all other key variables are categorical but contain many different values and thus increases uniqueness. We therefore split them into more corse groups, where we don't deem a high reduction in utility. Likewise, age is grouped into four ranges. 
+Apart from *DOB* (*date for birth*), all other key variables are categorical but contain many different values and thus increases uniqueness. We therefore split them into more coarse groups, where we don't deem a high reduction in utility. Likewise, age is grouped into four ranges. 
 
-| Variable              | Grouping                                                     | k2-anonymity violation |
-| :-------------------- | ------------------------------------------------------------ | ---------------------- |
-| Original              | -                                                            | 198 · 98%              |
-| DOB (*date of birth*) | Young (<31)<br />Getting there (31-45)<br />Middle (46-65)<br />Old (>65) | 183 · 92%              |
-| Citizenship           | Danish<br />Other                                            | 183 · 92%              |
+| Variable              | Grouping                                         | k2-anonymity violation |
+| :-------------------- | ------------------------------------------------ | ---------------------- |
+| Original              | -                                                | 198 · 98%              |
+| DOB (*date of birth*) | 1 (<31)<br />2 (31-45)<br />3(46-65)<br />4(>65) | 183 · 92%              |
+| Citizenship           | Danish<br />Other                                | 183 · 92%              |
 
-As *educational background* is not considered publicly avalible, we decided to include it without any modification. This information is however - as with everything else - still susceptible for recognition by the end user. 
+As *educational background* is not considered publicly available, we decided to include it without any modification. This information is however - as with everything else - still susceptible for recognition by the end user. 
 
 ##### Suppression
 
@@ -38,7 +38,7 @@ After recoding, we let sdcMicro apply local suppression to achieve 2k-anonymity.
 | Zip         | 4                          | 2%    |
 | Citizenship | 1                          | 0.5%  |
 
-After supression we achive full 2k-annonymity as well as only having 8 individuals (4%) violate k3-annonymity.
+After suppression we achieve 2k-anonymity as well as only having 8 individuals (4%) violate k3-anonymity.
 
 ##### Perturbation
 
