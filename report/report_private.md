@@ -14,15 +14,15 @@ We register all variables availeble in the public register as quasi-identifiers,
 
 ### Methodology
 
-'We start out by removing any direct identifiers; this just includes the names, which also carry no utility for the analysis.
+We start out by removing any direct identifiers; this just includes the names, which also carry no utility for the analysis. Fo
 
 ##### Recoding
 
-Apart from *DOB* (*date for birth*), all other key variables are categorical, but contain many different values and thus increases uniqueness. We therefore split them into more corse groups, where we don't deem a high reduction in utility. Likewise, age is grouped into four ranges. 
+Apart from *DOB* (*date for birth*), all other key variables are categorical but contain many different values and thus increases uniqueness. We therefore split them into more corse groups, where we don't deem a high reduction in utility. Likewise, age is grouped into four ranges. 
 
 | Variable              | Grouping                                                     | k2-anonymity violation |
 | :-------------------- | ------------------------------------------------------------ | ---------------------- |
-| Original              | -                                                            | 199 · 100%             |
+| Original              | -                                                            | 198 · 98%              |
 | DOB (*date of birth*) | Young (<31)<br />Getting there (31-45)<br />Middle (46-65)<br />Old (>65) | 183 · 92%              |
 | Citizenship           | Danish<br />Other                                            | 183 · 92%              |
 
@@ -32,21 +32,19 @@ As *educational background* is not considered publicly avalible, we decided to i
 
 After recoding, we let sdcMicro apply local suppression to achieve 2k-anonymity. We do not specify any importance vector, as very few suppressions are needed.
 
-| Variable    | Number of supressed values | ∆%    |
+| Variable    | Number of supressed values | %     |
 | :---------- | -------------------------- | ----- |
 | Age         | 21                         | 10.5% |
 | Zip         | 4                          | 2%    |
 | Citizenship | 1                          | 0.5%  |
 
-After supression we achive 2k-annonymity as well as only having 4% of individuals violate k3-annonymity.
+After supression we achive full 2k-annonymity as well as only having 8 individuals (4%) violate k3-annonymity.
 
 ##### Perturbation
 
 After suppression we have a very low percentage of voters violating 3k-anonymity and none violating 2k-anonimity, therefore we decided not to apply any perturbation to the data to keep more utility. We believe that This has to be specified very clearly to the end-user of the data, as any other analysis based on the data would be incorrect. 
 
-### Auxiliary Data
-
-
+### 
 
 ### Assessing Utility
 
@@ -55,6 +53,12 @@ To asses the utility of the modified data, we checked the 95% confidence interva
 
 
 ### Uses for Analysis
+
+For the analytical purposes of the data, we'd argue that, apart from voting type and choice (*evote* and *party*, respectivly), age in itself would suffice as argumentation for the scew in how electronic and papor ballots were cast.
+
+In respect to the analytical questions provided, we would attack them the same way with the annoonymised as with the non-annoonymised. 
+
+The difference in political preference **(A)** from the survey and election results can be compared by inspecting the method of voting (*evote*) and choice (*party*). One can 
 
 ###### A)	
 
@@ -71,4 +75,8 @@ This question is answered in the same way for the original and anonymized data. 
 ###### C)
 
 The demographic factors used are "sex","zip","citizenship","marital_status" and "party" for the original dataset and xx xx x xx xx for the anonymized dataset.  For each dataset we follow the same steps as in B, separate them into two data frames, one containing e-voters and another containing in person voters. These two data fames are then further split along demographic lines.  Using "private_dataB.xlsx" or "" we separate this into two data frames, one containing e-voters and another containing in person voters. The parties in the data frame are then converted into integer representations. 
+
+
+
+### Auxiliary Data
 
