@@ -1,5 +1,6 @@
 from scipy.stats import chisquare, ttest_ind
 import pandas as pd
+import matplotlib as pyplot
 
 #  In other words, it tells you if your sample data represents the data you would expect 
 #  to find in the actual population. 
@@ -57,18 +58,36 @@ chisquare([private_zero/private_sum, private_one/private_sum], f_exp=[zero/publi
 
 #Evote - Non-Anon
 
-private_data = pd.read_excel("C:/Users/hogni/Documents/GitHub/SecurityPrivacy/data/private_dataB.xlsx")
+private_data = pd.read_excel("C:/Users/hogni/Documents/GitHub/SecurityPrivacy/data/original_excel_files/private_dataB.xlsx")
 
 tStat, pValue = 0, 0
 
 vote = private_data[private_data["evote"] != 2]
-vote["Int_party"] = vote["party"].apply(lambda x: int("1") if x == "Red" else int("2"))
-
+#vote["Int_party"] = vote["party"].apply(lambda x: int("1") if x == "Red" else int("2"))
+vote
 inperson = vote[vote["evote"] == 0]
 e_vote = vote[vote["evote"] == 1]
 
-tStat, pValue = ttest_ind(inperson["Int_party"], e_vote["Int_party"])
-print("P-Value:{0} T-Statistic:{1}".format(pValue,tStat))
+inperson_1 = len(inperson[inperson["party"] == "Red"])
+inperson_2 = len(inperson[inperson["party"] == "Green"])
+inperson_sum = inperson_1 + inperson_2
+
+inperson_sum
+
+evote_1 = len(e_vote[e_vote["party"] == "Red"])
+evote_2 = len(e_vote[e_vote["party"] == "Green"])
+evote_sum = evote_1 + evote_2
+
+evote_sum
+
+total_sum = inperson_sum + evote_sum
+
+print(f"Inperson ratio: Red {(inperson_1/inperson_sum) * 100} Green {(inperson_2/inperson_sum) * 100} \nEvote ratio: Red {(evote_1/evote_sum) * 100} Green {(evote_2/evote_sum) * 100} ")
+
+# print(f"E-vote: Red {(inperson_1/total_sum)*100} Green {(inperson_2/total_sum)*100} \nInperson: Red {(evote_1/total_sum)*100} Green {(evote_2/total_sum)*100}")
+
+# tStat, pValue = ttest_ind(inperson["Int_party"], e_vote["Int_party"])
+# print("P-Value:{0} T-Statistic:{1}".format(pValue,tStat))
 
 #Evote - Anon
 
