@@ -66,13 +66,9 @@ The votes for each party, Green and Red, are then summed for each voting locatio
 
 ###### B)
 
-This question is answered in the same way for the original and anonymized data. Using "private_dataB.xlsx" or "" we separate this into two data frames, one containing e-voters and another containing in person voters. The sum of votes for the Red and the Green party in each data frame are calculated. We now have the ration of Red and Green party votes for each voting method. The rations of in person and e-votes are then compared.
-
-
+This question is answered in the same way for the original and anonymized data. Using "private_dataB.xlsx" or "" we separate this into two data frames, one containing e-voters and another containing in person voters. The sum of votes for the Red and the Green party in each data frame are calculated. We can now calculate the ratio of Red and Green party votes for each voting method. The ratio of in person and e-votes are then compared. If either method leans more than 10% either side of the other then we consider it a significant difference.
 
 ###### C)
 
-The demographic factors used are "sex","age","zip","citizenship","marital_status" and "party".  The demographic factors are stored as tuples a long with the frequency of that tuple in the data frame. This question is answered in the same way for the original and anonymized data. Using "private_dataB.xlsx" or "" we separate this into two data frames, one containing e-voters and another containing in person voters. The parties in the data frame are then converted into integer representations. 
-
-A P-Value is then performed on these values.
+The demographic factors used are "sex","zip","citizenship","marital_status" and "party" for the original dataset and xx xx x xx xx for the anonymized dataset.  For each dataset we follow the same steps as in B, separate them into two data frames, one containing e-voters and another containing in person voters. These two data fames are then further split along demographic lines.  Using "private_dataB.xlsx" or "" we separate this into two data frames, one containing e-voters and another containing in person voters. The parties in the data frame are then converted into integer representations. 
 
