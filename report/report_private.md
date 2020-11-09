@@ -60,15 +60,19 @@ To asses the utility of the modified data, we checked the 95% confidence interva
 
 This question is answered in the same way for the original and anonymized data. As we have not used any perturbative anonymization methods and neither voting locations nor any the party variable was suppressed, we can therefore perform a Chi-squared test on votes for each party by voting type. 
 
-The original and the anonymized data is processed in the same way. The dataframe is separated into two data frames, one containing e-voters and another containing in person voters.
+The data frame, "" or "", is separated into two data frames, one containing e-voters and another containing in person voters.
 
 The votes for each party, Green and Red, are then summed for each voting location. A Chi-squared test is then performed on the summed values from the sample and the totals from the population, "public_data_resultsB.xlsx".
 
 ###### B)
 
-This question is answered in the same way for the original and anonymized data. Using "private_dataB.xlsx" or "" we separate this into two data frames, one containing e-voters and another containing in person voters. The parties in the data frame are then converted into integer representations. 
+This question is answered in the same way for the original and anonymized data. Using "private_dataB.xlsx" or "" we separate this into two data frames, one containing e-voters and another containing in person voters. The sum of votes for the Red and the Green party in each data frame are calculated. We now have the ration of Red and Green party votes for each voting method. The rations of in person and e-votes are then compared.
 
-A P-Value is then performed on these values.
+
 
 ###### C)
+
+The demographic factors used are "sex","age","zip","citizenship","marital_status" and "party".  The demographic factors are stored as tuples a long with the frequency of that tuple in the data frame. This question is answered in the same way for the original and anonymized data. Using "private_dataB.xlsx" or "" we separate this into two data frames, one containing e-voters and another containing in person voters. The parties in the data frame are then converted into integer representations. 
+
+A P-Value is then performed on these values.
 
