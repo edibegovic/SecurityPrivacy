@@ -42,7 +42,7 @@ After supression we achive 2k-annonymity as well as only having 4% of individual
 
 ##### Perturbation
 
-Given the analytical purposes for the data, we determine that we don't need to preserve any relationships between the demographical variables. This has to be specified very clearly to the end-user of the data, as any other analysis based on the data would be incorrect. 
+After suppression we have a very low percentage of voters violating 3k-anonymity and none violating 2k-anonimity, therefore we decided not to apply any perturbation to the data to keep more utility. We believe that This has to be specified very clearly to the end-user of the data, as any other analysis based on the data would be incorrect. 
 
 ### Auxiliary Data
 
@@ -58,11 +58,11 @@ To asses the utility of the modified data, we checked the 95% confidence interva
 
 ###### A)	
 
-This question is answered in the same way for the original and anonymized data. As we do not anonymize the voting location nor the party that was voted for. We can therefore perform a Chi-squared test on votes for each party by location. 
+This question is answered in the same way for the original and anonymized data. As we have not used any perturbative anonymization methods and neither voting locations nor any the party variable was suppressed, we can therefore perform a Chi-squared test on votes for each party by voting type. 
 
 The original and the anonymized data is processed in the same way. The dataframe is separated into two data frames, one containing e-voters and another containing in person voters.
 
-The votes for each party, *green* and *red*, are then summed for each voting location. A Chi-squared test is then performed on the summed values from the sample and the totals from the population, "public_data_resultsB.xlsx".
+The votes for each party, Green and Red, are then summed for each voting location. A Chi-squared test is then performed on the summed values from the sample and the totals from the population, "public_data_resultsB.xlsx".
 
 ###### B)
 
