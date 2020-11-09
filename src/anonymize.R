@@ -223,3 +223,4 @@ private_sdc@manipKeyVars
 
 # save the data
 dataAnon <- extractManipData(private_sdc, ignoreKeyVars = F)
+write.csv(dataAnon[c('party', 'sex', 'evote', 'zip', 'age', 'citizenship')], 'kanon2.csv')
