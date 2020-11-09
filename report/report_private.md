@@ -42,7 +42,7 @@ After suppression we achieve 2k-anonymity as well as only having 8 individuals (
 
 ##### Perturbation
 
-After suppression we have a very low percentage of individuals violating 3k-anonymity and none violating 2k-anonymity, therefore we decided not to apply any perturbation to the data to keep more utility. We believe that This has to be specified very clearly to the end-user of the data, as any other analysis based on the data would be incorrect. 
+After suppression we have a very low percentage of individuals violating 3k-anonymity and none violating 2k-anonimity, therefore we decided not to apply any perturbation to the data to keep more utility. We believe that This has to be specified very clearly to the end-user of the data, as any other analysis based on the data would be incorrect. 
 
 ### 
 
@@ -54,9 +54,9 @@ To asses the utility of the modified data, we check the 95% confidence intervals
 
 ### Uses for Analysis
 
-For the analytical purposes of the data, we'd argue that, apart from voting type and choice (*evote* and *party*, respectively), age in itself would suffice as argumentation for the skew in how electronic and paper ballots were cast. However, all of the demographical variables are correlated to various degrees and thus we decided to keep them all.
+For the analytical purposes of the data, we'd argue that, apart from voting type and choice (*evote* and *party*, respectivly), age in itself would suffice as argumentation for the scew in how electronic and papor ballots were cast. However, all of the demographical variables are correlated to various degress and thus we decided to keep them all.
 
-In respect to the analytical questions provided, we would attack them the same way with the anonymised data as with the non-anonymised. 
+In respect to the analytical questions provided, we would attack them the same way with the annoonymised data as with the non-annoonymised. 
 
 The difference in political preference from the survey and election results **(A)** can be compared by inspecting the method of voting (*evote*) and choice (*party*). One can
 
