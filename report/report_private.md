@@ -20,11 +20,11 @@ We start out by removing any direct identifiers; this just includes the names, w
 
 Apart from *DOB* (*date for birth*), all other key variables are categorical but contain many different values and thus increases uniqueness. We therefore split them into more coarse groups, where we don't deem a high reduction in utility. Likewise, age is grouped into four ranges. 
 
-| Variable              | Grouping                                                     | k2-anonymity violation |
-| :-------------------- | ------------------------------------------------------------ | ---------------------- |
-| Original              | -                                                            | 198 · 98%              |
-| DOB (*date of birth*) | Young (<31)<br />Getting there (31-45)<br />Middle (46-65)<br />Old (>65) | 183 · 92%              |
-| Citizenship           | Danish<br />Other                                            | 183 · 92%              |
+| Variable              | Grouping                                         | k2-anonymity violation |
+| :-------------------- | ------------------------------------------------ | ---------------------- |
+| Original              | -                                                | 198 · 98%              |
+| DOB (*date of birth*) | 1 (<31)<br />2 (31-45)<br />3(46-65)<br />4(>65) | 183 · 92%              |
+| Citizenship           | Danish<br />Other                                | 183 · 92%              |
 
 As *educational background* is not considered publicly available, we decided to include it without any modification. This information is however - as with everything else - still susceptible for recognition by the end user. 
 
