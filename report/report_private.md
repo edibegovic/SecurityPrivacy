@@ -54,17 +54,15 @@ To asses the utility of the modified data, we checked the 90% confidence interva
 
 This question is answered in the same way for the original and anonymized data. As we do not anonymize the voting location nor the party that was voted for. We can therefore perform a Chi-squared test on votes for each party by location. 
 
-The sample, private_dataB.xlsx, is read and separated into two data frames, one containing e-voters and another containing in person voters.
+The sample, "private_dataB.xlsx" or "", is read and separated into two data frames, one containing e-voters and another containing in person voters.
 
 The votes for each party, Green and Red, are then summed for each voting location. A Chi-squared test is then performed on the summed values from the sample and the totals from the population, "public_data_resultsB.xlsx".
 
 ###### B)
 
-This question is answered in the same way for the original and anonymized data. Using "private_dataB.xlsx" we separate this into two data frames, one containing e-voters and another containing in person voters. The parties in the data frame are then converted in integer representations. 
+This question is answered in the same way for the original and anonymized data. Using "private_dataB.xlsx" or "" we separate this into two data frames, one containing e-voters and another containing in person voters. The parties in the data frame are then converted into integer representations. 
 
 A P-Value is then performed on these values.
-
-
 
 ###### C)
 
