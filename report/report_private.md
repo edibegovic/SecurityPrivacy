@@ -8,8 +8,6 @@
 
 We use the sdcMicro web interface to analyse the relationships between the different variables to determine how much they influence each other. As we have no knowledge about the the full population, we cannot say anything about population frequency and therefore we'll be approaching the anonymization in a more conservative way. 
 
-
-
 ### Methodology
 
 We start out by removing any direct identifiers; this just includes the names, which also carry no utility for the analysis. We assign all other 
@@ -38,7 +36,7 @@ After recoding, we let sdcMicro apply local suppression to achieve 2k-anonymity.
 
 ##### Perturbation
 
-Given the analytical purposes for the data, we determine that we don't need to preserve any relationships between the demographical variables. This has to be specified very clearly to the end-user of the data, as any other analysis based on the data would be incorrect. 
+After suppression we have a very low percentage of voters violating 3k-anonymity and none violating 2k-anonimity, therefore we decided not to apply any perturbation to the data to keep more utility. We believe that This has to be specified very clearly to the end-user of the data, as any other analysis based on the data would be incorrect. 
 
 
 
@@ -52,11 +50,11 @@ To asses the utility of the modified data, we checked the 90% confidence interva
 
 ###### A)	
 
-This question is answered in the same way for the original and anonymized data. As we do not anonymize the voting location nor the party that was voted for. We can therefore perform a Chi-squared test on votes for each party by location. 
+This question is answered in the same way for the original and anonymized data. As we have not used any perturbative anonymization methods and neither voting locations nor any the party variable was suppressed, we can therefore perform a Chi-squared test on votes for each party by voting type. 
 
 The sample, "private_dataB.xlsx" or "", is read and separated into two data frames, one containing e-voters and another containing in person voters.
 
-The votes for each party, Green and Red, are then summed for each voting location. A Chi-squared test is then performed on the summed values from the sample and the totals from the population, "public_data_resultsB.xlsx".
+The votes for each party, Green and Red, are then summed for each voting type. A Chi-squared test is then performed on the summed values from the sample and the totals from the population, "public_data_resultsB.xlsx". 
 
 ###### B)
 
