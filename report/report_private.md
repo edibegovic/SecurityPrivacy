@@ -14,19 +14,19 @@ We register all variables available in the public register as quasi-identifiers,
 
 ### Methodology
 
-We start out by removing any direct identifiers; this just includes the names, which also carry no utility for the analysis.
+We start out by removing any direct identifiers; this just includes the names, which also carry no utility for the analysis. To measure risk, we mainly use k-annonymity as a baseline. We also incorporate weights for the quasi-identifiers from the public register and evaluate the global identification risk.
 
 ##### Recoding
 
-Apart from *DOB* (*date for birth*), all other key variables are categorical but contain many different values and thus increases uniqueness. We therefore split them into more coarse groups, where we don't deem a high reduction in utility. 
+Apart from *DOB* (*date for birth*), all other key variables are categorical but contain many different values and thus increases uniqueness. We therefore split them into more coarse groups, where we don't see a high reduction in utility. 
 
 The age (max_age) is created by subtracting the birth-year from 2020. The solution is not the most elegant, but it is essentially the same as using the birth-year for the further grouping as criteria. To go on age is grouped into four ranges. 
 
 | Variable              | Grouping                                         | k2-anonymity violation |
 | :-------------------- | ------------------------------------------------ | ---------------------- |
 | Original              | -                                                | 198 · 98%              |
-| DOB (*date of birth*) | 1 (<31)<br />2 (31-45)<br />3(46-65)<br />4(>65) | 183 · 92%              |
-| Citizenship           | Danish<br />Other                                | 183 · 92%              |
+| DOB (*date of birth*) | 1 (<31)<br />2 (31-45)<br />3(46-65)<br />4(>65) | 55 · 27.5%             |
+| Citizenship           | Danish<br />Other                                | 55 · 27.5%             |
 
 As *educational background* is not considered publicly available, we decided to include it without any modification. This information is however - as with everything else - still susceptible for recognition by the end user. Nevertheless, our decision was based on the notion, that it adds one more demographic variable to the dataset, therefor increasing its utility.
 
@@ -44,7 +44,7 @@ After suppression we achieve 2k-anonymity as well as only having 8 individuals (
 
 ##### Perturbation
 
-After suppression we have a very low percentage of individuals violating 3k-anonymity and none violating 2k-anonymity, therefore we decided not to apply any perturbation to the data to keep more utility. We believe that it is still hard to unequivocally identify voters with the help of our anonymized data. This has to be specified very clearly to the end-user of the data, as any other analysis based on the data would be incorrect. 
+After suppression we have a very low percentage of individuals violating 3k-anonymity and none violating 2k-anonymity, therefore we decided not to apply any perturbation to the data to keep more utility. We believe that it is still hard to unequivocally identify voters with the help of our anonymized data. Had any perturbation been performed, this further had to be clearly explained to the end-user of the data, as relationships between variables wouldn't be kept. 
 
 ### Assessing Utility
 
@@ -52,7 +52,7 @@ To asses the utility of the modified data, we check the 95% confidence intervals
 
 ### Uses for Analysis
 
-For the analytical purposes of the data, we'd argue that, apart from voting type and choice (*evote* and *party*, respectively), age in itself would suffice as argumentation for the skew in how electronic and paper ballots were cast. However, all of the demographical variables are correlated to various degrees thus we decided to keep them all.
+For the analytical purposes of the data, we'd argue that, apart from voting type and choice (*evote* and *party*, respectively), age in itself would suffice as argumentation for the skew in how electronic and paper ballots were cast. However, all of the demographic variables are correlated to various degrees thus we decided to keep them all.
 
 In respect to the analytical questions provided, we would attack them the same way with the anonymized data as with the non-anonymized. 
 
