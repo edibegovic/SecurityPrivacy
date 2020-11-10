@@ -12,7 +12,7 @@ We register all variables available in the public register as quasi-identifiers,
 
 ### Methodology
 
-We start out by removing any direct identifiers; this just includes the names, which also carry no utility for the analysis. To measure risk, we mainly use k-anonymity as a baseline. We also incorporate weights for the quasi-identifiers from the public register and evaluate the global identification risk.
+We start out by removing any direct identifiers; this just includes the names and marital status, which also carry no utility for the analysis. To measure risk, we mainly use k-anonymity as a baseline. We also incorporate weights for the quasi-identifiers from the public register and evaluate the global identification risk.
 
 ##### Recoding
 
