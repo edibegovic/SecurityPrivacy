@@ -6,27 +6,27 @@
 
 ### Introduction
 
-We use the sdcMicro web interface to examine the dataset and analyse the relationships between the different variables to determine how much they influence each other. 
+We use the sdcMicro web interface to examine the dataset and analyze the relationships between the different variables to determine how much they influence each other. 
 
-We register all variables available in the public register as quasi-identifiers, such that *party* (voted for) is considered the only sensible variable. 
+We register all variables available in the public register as quasi-identifiers, such that *party* (voted for) is considered the only sensitive variable.
 
 ### Methodology
 
-We start out by removing any direct identifiers; this just includes the names, which also carry no utility for the analysis. To measure risk, we mainly use k-anonymity as a baseline. We also incorporate weights for the quasi-identifiers from the public register and evaluate the global identification risk.
+We start out by removing any direct identifiers; this being the names, which further carry no utility for the analysis. To measure risk, we mainly use k-anonymity as a baseline. We also incorporate weights for the quasi-identifiers from the public register and evaluate the global identification risk.
 
 ##### Recoding
 
-Apart from *DOB* (*date for birth*), all other key variables are categorical but contain many different values and thus increases uniqueness. We therefore split them into more coarse groups, where we don't see a high reduction in utility. 
+Apart from *DOB* (*date for birth*), all other key variables are categorical but contain many different values and thus increases uniqueness. We therefore split them into more coarse groups where we don't see a high reduction in utility. 
 
- *Age* is defined by subtracting the birth-year from 2020 and further group them into four ranges. The solution is not the most elegant, but it is essentially the same as using the birth-year for the further grouping as criteria.
+ *Age* is defined by subtracting the birth-year from 2020 and further grouping them into four intervals. The solution is not the most elegant, but it is essentially the same as using the birth-year grouping criteria.
 
-| Variable              | Grouping                                           | k2-anonymity violation |
-| :-------------------- | -------------------------------------------------- | ---------------------- |
-| Original              | -                                                  | 198 · 98%              |
-| DOB (*date of birth*) | 1 (<31)<br />2 (31-45)<br />3 (46-65)<br />4 (>65) | 55 · 27.5%             |
-| Citizenship           | Danish<br />Other                                  | 55 · 27.5%             |
+| Variable                                    | Grouping                                           | k2-anonymity violation |
+| :------------------------------------------ | -------------------------------------------------- | ---------------------- |
+| Original                                    | -                                                  | 198 · 98%              |
+| DOB (*date of birth*)<br />Renamed: **age** | 1 (<31)<br />2 (31-45)<br />3 (46-65)<br />4 (>65) | 55 · 27.5%             |
+| Citizenship                                 | Danish<br />Other                                  | 55 · 27.5%             |
 
-*Citizenship* is also recoded, grouping all non-Danish citizenships as they only make up 7.5% of records. While there is no immediate change in k-anonymity, it will reduce the number of suppressions needed in the following step, minimizing loss of utility.
+*Citizenship* is also recoded, grouping all non-Danish citizenships as they only make up 7.5% of records. While there is no immediate change in k-anonymity, it will reduce the number of suppressions needed in the following step, minimizing loss in utility.
 
 As *educational background* is not considered publicly available, we decided to include it without any modification. This information is however - as with everything else - still susceptible for recognition by the end user. Our decision was based on the notion that it adds one more demographic variable to the dataset, therefore increasing its utility.
 
@@ -40,18 +40,18 @@ After recoding, we let sdcMicro apply local suppression to achieve 2k-anonymity.
 | Zip         | 4                          | 2%    |
 | Citizenship | 1                          | 0.5%  |
 
-After suppression we achieve 2k-anonymity as well as only having 8 individuals (4%) violate 3k-anonymity. Marital status was removed as it had little contribution to the analysis, given how it correlates with age and increases disclosure risk.
+After suppression we achieve full 2k-anonymity as well as only having 8 individuals (4%) violate 3k-anonymity. Marital status was removed as it had little contribution to the analysis, given how it correlates with age and increases disclosure risk.
 
 
 ##### Perturbation
 
-After suppression we have a very low percentage of individuals violating 3k-anonymity and none violating 2k-anonymity, therefore we decided not to apply any perturbation to the data to keep more utility. We believe that it is still hard to unequivocally identify voters with the help of our anonymized data. Had any perturbation been performed, this further had to be clearly stated to the end-user of the data, as relationships between variables wouldn't be kept. 
+After suppression we have a very low percentage of individuals violating 3k-anonymity and none violating 2k-anonymity, therefore we decided not to apply any perturbation to the data to keep more utility. We believe that it is still hard to unequivocally identify voters with the help of our anonymized data. Had any perturbation been performed, this would further have to be clearly stated to the end-user of the data, as relationships between variables wouldn't be kept. 
 
 
 
 <img src="risk_dist.png" alt="Screenshot 2020-11-10 at 10.15.13" style="zoom:40%;" />
 
-After the above steps, no record has a reidentification risk above 0.33, with more than 90% less than 0.1. Though the risk is heavily reduced, many keys share the same value for the sensible variable (that is, voted for the same party). In fact, 78 records violate 2-diversity for *party*. This can be hard to mitigate, as people of the same demographics also tend to vote the same.
+After the above steps, no record has a reidentification risk above 0.33, with more than 90% being less than 0.1. Though the risk is heavily reduced, many keys share the same value for the sensitive variable (they voted for the same party). In fact, 78 records violate 2-diversity for *party*. This can be hard to mitigate, as people of the same demographics also tend to vote the same.
 
 
 ### Assessing Utility
@@ -67,15 +67,15 @@ With respect to the analytical questions provided, we would approach them the sa
 
 ###### A)	
 
-The votes for each party, Green and Red, are summed for each voting method. A statistical test, like the Chi-squared test, can then be performed on the summed values from the sample and the totals from the election results.
+The votes for each party, Green and Red, are summed for each voting method. A statistical test, like the Chi-squared test, can then be performed on the summed values from the survey and the totals from the election results.
 
 ###### B)
 
-The votes for each party, Green and Red, are summed for each voting method in the survey data. A statistical method, like the T-test, can then be applied or a more naïve approach can be taken by just comparing the ratio of in person and e-votes and setting a significant difference standard.
+The votes for each party, Green and Red, are summed for each voting method in the survey data. A statistical method, like the T-test, can then be applied or a more naïve approach can be taken by just comparing the ratio of in person and e-votes.
 
 ###### C)
 
-The demographic variables used are *sex*, *zip*, *citizenship*, *education* and *party* for the survey dataset. We follow the same steps as in **B**, but further subdivide the voting proportions by demographic variables. A statistical method, like the T-test, can then be applied on the demographic variables against the population proportions or a more naïve approach can be taken by just comparing the ratio of in person and e-votes for the demographic factors and setting a significant difference standard.
+The demographic variables used are *sex*, *zip*, *citizenship* and *education* for the survey dataset. We follow the same steps as in **B**, but further subdivide the voting proportions by demographic variables. A statistical method, like the T-test, can then be applied on the demographic variables against the population proportions (from survey) or a more naïve approach can be taken by simply comparing the ratio of physical and e-votes for the demographic factors against the survey proportions.
 
 
 
