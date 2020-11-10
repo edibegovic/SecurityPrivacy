@@ -12,7 +12,7 @@ We register all variables available in the public register as quasi-identifiers,
 
 ### Methodology
 
-We start out by removing any direct identifiers; this just includes the names and marital status, which also carry no utility for the analysis. To measure risk, we mainly use k-anonymity as a baseline. We also incorporate weights for the quasi-identifiers from the public register and evaluate the global identification risk.
+We start out by removing any direct identifiers; this just includes the names, which also carry no utility for the analysis. To measure risk, we mainly use k-anonymity as a baseline. We also incorporate weights for the quasi-identifiers from the public register and evaluate the global identification risk.
 
 ##### Recoding
 
@@ -40,7 +40,7 @@ After recoding, we let sdcMicro apply local suppression to achieve 2k-anonymity.
 | Zip         | 4                          | 2%    |
 | Citizenship | 1                          | 0.5%  |
 
-After suppression we achieve 2k-anonymity as well as only having 8 individuals (4%) violate 3k-anonymity.
+After suppression we achieve 2k-anonymity as well as only having 8 individuals (4%) violate 3k-anonymity. Marital status was removed as it was not in the public data and we felt that we did not want to release any data that could in the future become available and compromise our anonymization.
 
 ##### Perturbation
 
