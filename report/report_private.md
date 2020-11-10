@@ -62,7 +62,7 @@ As we have not used any perturbative anonymization methods and neither voting lo
 
 "private_dataB.xlsx" or "anonymized_data.csv", is separated into two data frames, one containing e-vote and another containing in person voters.
 
-The votes for each party, Green and Red, are then summed for each voting location. A Chi-squared test is then performed on the summed values from the sample and the totals from the population, "public_data_resultsB.xlsx".
+The votes for each party, Green and Red, are then summed for each voting location. A statistical method, like the Chi-squared test, can then be performed on the summed values from the sample and the totals from the population, "public_data_resultsB.xlsx".
 
 ###### B)
 
