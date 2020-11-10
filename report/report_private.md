@@ -48,7 +48,7 @@ After suppression we have a very low percentage of individuals violating 3k-anon
 
 
 
-<img src="/Users/edibegovic/Dropbox/My Mac (MacBook-Pro)/Desktop/Screenshot 2020-11-10 at 10.15.13.png" alt="Screenshot 2020-11-10 at 10.15.13" style="zoom:40%;" />
+<img src="risk_dist.png" alt="Screenshot 2020-11-10 at 10.15.13" style="zoom:40%;" />
 
 After the above steps, no record has a reidentification risk above 0.33, with more than 90% less than 0.1. Though the risk is heavaly reduced, many keys share the same value for the sensible variable (that is, voted for the same party). In fact, 78 records violate 2-diversity for *party*. This can be hard to mitigate, as people of the same demographics tend to vote the same.
 
