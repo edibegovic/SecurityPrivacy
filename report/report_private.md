@@ -6,7 +6,7 @@
 
 ### Introduction
 
-We use the sdcMicro web interface to examine the dataset and analyze the relationships between the different variables to determine how much they influence each other. 
+We use the sdcMicro web interface to examine the dataset and analyse the relationships between the different variables to determine how much they influence each other. 
 
 We register all variables available in the public register as quasi-identifiers, such that *party* (voted for) is considered the only sensible variable. 
 
@@ -14,7 +14,7 @@ We register all variables available in the public register as quasi-identifiers,
 
 ### Methodology
 
-We start out by removing any direct identifiers; this just includes the names, which also carry no utility for the analysis. To measure risk, we mainly use k-annonymity as a baseline. We also incorporate weights for the quasi-identifiers from the public register and evaluate the global identification risk.
+We start out by removing any direct identifiers; this just includes the names, which also carry no utility for the analysis. To measure risk, we mainly use k-anonymity as a baseline. We also incorporate weights for the quasi-identifiers from the public register and evaluate the global identification risk.
 
 ##### Recoding
 
@@ -40,7 +40,7 @@ After recoding, we let sdcMicro apply local suppression to achieve 2k-anonymity.
 | Zip         | 4                          | 2%    |
 | Citizenship | 1                          | 0.5%  |
 
-After suppression we achieve 2k-anonymity as well as only having 8 individuals (4%) violate k3-anonymity.
+After suppression we achieve 2k-anonymity as well as only having 8 individuals (4%) violate 3k-anonymity.
 
 ##### Perturbation
 
