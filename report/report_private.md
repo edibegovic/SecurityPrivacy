@@ -54,21 +54,19 @@ To asses the utility of the modified data, we check the 95% confidence intervals
 
 For the analytical purposes of the data, we'd argue that, apart from voting type and choice (*evote* and *party*, respectively), age in itself would suffice as argumentation for the skew in how electronic and paper ballots were cast. However, all of the demographic variables are correlated to various degrees thus we decided to keep them all.
 
-In respect to the analytical questions provided, we would attack them the same way with the anonymized data as with the non-anonymized. 
-
-The difference in political preference from the survey and election results **(A)** can be compared by inspecting the method of voting (*evote*) and choice (*party*). One can
+In respect to the analytical questions provided, we would approach them the same way with the anonymized data as with the non-anonymized. 
 
 ###### A)	
 
-This question is answered in the same way for the original and anonymized data. As we have not used any perturbative anonymization methods and neither voting locations nor any the party variable was suppressed, we can therefore perform a Chi-squared test on votes for each party by voting type. 
+As we have not used any perturbative anonymization methods and neither voting locations nor any the party variable was suppressed, we can therefore perform a Chi-squared test on votes for each party by voting type. 
 
-The data frame, "" or "", is separated into two data frames, one containing e-voters and another containing in person voters.
+"private_dataB.xlsx" or "anonymized_data.csv", is separated into two data frames, one containing e-voters and another containing in person voters.
 
 The votes for each party, Green and Red, are then summed for each voting location. A Chi-squared test is then performed on the summed values from the sample and the totals from the population, "public_data_resultsB.xlsx".
 
 ###### B)
 
-This question is answered in the same way for the original and anonymized data. Using "private_dataB.xlsx" or "" we separate this into two data frames, one containing e-voters and another containing in person voters. The sum of votes for the Red and the Green party in each data frame are calculated. We can now calculate the ratio of Red and Green party votes for each voting method. The ratio of in person and e-votes are then compared. If either method leans more than 10% either side of the other then we consider it a significant difference.
+Using "private_dataB.xlsx" or "anonymized_data.csv" we separate this into two data frames, one containing e-voters and another containing in person voters. The sum of votes for the Red and the Green party in each data frame are calculated. We can now calculate the ratio of Red and Green party votes for each voting method. The ratio of in person and e-votes are then compared. If either method leans more than 10% either side of the other then we consider it a significant difference.
 
 ###### C)
 
