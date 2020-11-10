@@ -49,12 +49,8 @@ After suppression we have a very low percentage of individuals violating 3k-anon
 
 ### Assessing Utility
 
-<<<<<<< HEAD
-To assess the utility of the modified data, we check the 95% confidence intervals on the proportions of red/green votes for each categorical value. This way we can be certain the the 
-=======
 To asses the utility of the modified data, we check the 95% confidence intervals on the proportions of red/green votes for each categorical value.
 
->>>>>>> 62932b29ec8109d9adeeb2fefd19849d6dbc057b
 
 ### Uses for Analysis
 
