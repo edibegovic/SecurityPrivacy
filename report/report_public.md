@@ -25,3 +25,4 @@
 | ------- | ---- | ------------------------------------------------------------ | -------- | ------------------ | --------- | ---------------------------------- | -------------- | ----- |
 | Removed | -    | 1 (<31)<br />2 (31-45)<br />3(46-65)<br />4(>65) <br />, 21 values supressed |          | 4 values supressed | -         | Danish or Other, 1 value supressed | Removed        | -     |
 
+Age was calculated by taking the birth year minus 2020.
