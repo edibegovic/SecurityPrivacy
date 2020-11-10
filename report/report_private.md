@@ -63,19 +63,19 @@ To asses the utility of the modified data, we check the 95% confidence intervals
 
 For the analytical purposes of the data, we'd argue that, apart from voting type and choice (*evote* and *party*, respectively), age in itself would suffice as argumentation for the skew in how electronic and paper ballots were cast. Keeping *age groups* as the only demographic variable would significantly reduce the identification risk. However, all of the demographic variables are correlated to various degrees and thus we decided to keep most of them. 
 
-With respect to the analytical questions provided, we would approach them the same way with the anonymized data as with the non-anonymized. 
+With respect to the analytical questions provided, we would approach them the same way with the anonymized data as with the non-anonymized. Below we cover the analytical purposes of the data as mentioned in the project description.
 
 ###### A)	
 
-The votes for each party, Green and Red, are then summed for each voting location. A statistical test, like the Chi-squared test, can then be performed on the summed values from the sample and the totals from the population, "public_data_resultsB.xlsx".
+The votes for each party, Green and Red, are summed for each voting method. A statistical test, like the Chi-squared test, can then be performed on the summed values from the sample and the totals from the election results.
 
 ###### B)
 
-Using "private_dataB.xlsx" or "anonymized_data.csv" we separate this into two data frames, one containing *evote* and another containing in person voters. The sum of votes for the Red and the Green party in each data frame are calculated. A statistical method, like the T-test, can then be applied or a more naïve approach can be taken by just comparing the ratio of in person and e-votes and setting a significant difference standard.
+The votes for each party, Green and Red, are summed for each voting method in the survey data. A statistical method, like the T-test, can then be applied or a more naïve approach can be taken by just comparing the ratio of in person and e-votes and setting a significant difference standard.
 
 ###### C)
 
-The demographic factors used are "sex","zip","citizenship","marital_status" and "party" for the original dataset , "private_dataB.xlsx", and the anonymized dataset, "anonymized_data.csv" .  For each dataset we follow the same steps as in B, separate them into two data frames, one containing e-voters and another containing in person voters. These two data fames are then further split along demographic lines.  Using "private_dataB.xlsx" or "anonymized_data.csv" we separate this into two data frames, one containing e-voters and another containing in person voters. These two data frames can be further subdivided into the demographic factors to be assessed. A statistical method, like the T-test, can then be applied or a more naïve approach can be taken by just comparing the ratio of in person and e-votes and setting a significant difference standard.
+The demographic variables used are *sex*, *zip*, *citizenship*, *education* and *party* for the survey dataset. We follow the same steps as in **B**, but further subdivide the voting proportions by demographic variables. A statistical method, like the T-test, can then be applied on the demographic variables against the population proportions or a more naïve approach can be taken by just comparing the ratio of in person and e-votes for the demographic factors and setting a significant difference standard.
 
 
 
