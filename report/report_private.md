@@ -26,7 +26,7 @@ We recode the *DOB* as age (thus assuming the survey was conducted in 2020) and 
 | DOB (*date of birth*) | 1 (<31)<br />2 (31-45)<br />3 (46-65)<br />4 (>65) | 55 · 27.5%             |
 | Citizenship           | Danish<br />Other                                  | 55 · 27.5%             |
 
-*Citizenship* is also recoded, grouping all non-danish citizenships as they only make up 7.5% of records. While there is no imidiete change in k-annonymity, it will reduce the number of supressins needed in the folling step, minimizen loss of utility.
+*Citizenship* is also recoded, grouping all non-Danish citizenships as they only make up 7.5% of records. While there is no immediate change in k-anonymity, it will reduce the number of suppressions needed in the following step, minimizing loss of utility.
 
 As *educational background* is not considered publicly available, we decided to include it without any modification. This information is however - as with everything else - still susceptible for recognition by the end user. Our decision was based on the notion that it adds one more demographic variable to the dataset, therefore increasing its utility.
 
