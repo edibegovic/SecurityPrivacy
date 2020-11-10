@@ -47,6 +47,12 @@ After suppression we achieve 2k-anonymity as well as only having 8 individuals (
 After suppression we have a very low percentage of individuals violating 3k-anonymity and none violating 2k-anonymity, therefore we decided not to apply any perturbation to the data to keep more utility. We believe that it is still hard to unequivocally identify voters with the help of our anonymized data. Had any perturbation been performed, this further had to be clearly stated to the end-user of the data, as relationships between variables wouldn't be kept. 
 
 
+
+<img src="/Users/edibegovic/Dropbox/My Mac (MacBook-Pro)/Desktop/Screenshot 2020-11-10 at 10.15.13.png" alt="Screenshot 2020-11-10 at 10.15.13" style="zoom:40%;" />
+
+After the above steps, no record has a reidentification risk above 0.33, with more than 90% less than 0.1. Though the risk is heavaly reduced, many keys share the same value for the sensible variable (that is, voted for the same party). In fact, 78 records violate 2-diversity for *party*. This can be hard to mitigate, as people of the same demographics tend to vote the same.
+
+
 ### Assessing Utility
 
 To asses the utility of the modified data, we check the 95% confidence intervals on the proportions of red/green votes for each categorical value.
@@ -54,7 +60,7 @@ To asses the utility of the modified data, we check the 95% confidence intervals
 
 ### Uses for Analysis
 
-For the analytical purposes of the data, we'd argue that, apart from voting type and choice (*evote* and *party*, respectively), age in itself would suffice as argumentation for the skew in how electronic and paper ballots were cast. Keeping *age groups* as the only demographic variable would significantly reduce the identification risk. However, all of the demographic variables are correlated to various degrees thus we decided to keep them all. 
+For the analytical purposes of the data, we'd argue that, apart from voting type and choice (*evote* and *party*, respectively), age in itself would suffice as argumentation for the skew in how electronic and paper ballots were cast. Keeping *age groups* as the only demographic variable would significantly reduce the identification risk. However, all of the demographic variables are correlated to various degrees and thus we decided to keep them all. 
 
 In respect to the analytical questions provided, we would approach them the same way with the anonymized data as with the non-anonymized. 
 
@@ -83,3 +89,4 @@ As auxiliary data we decided to shed some light on the citizenship of non-Danish
 #### Further measures to hide
 
 We could use perturbative methods to hide users more as well, applying PRAM would increase the uncertainty regarding the values.
+
