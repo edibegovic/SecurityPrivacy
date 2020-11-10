@@ -40,7 +40,8 @@ After recoding, we let sdcMicro apply local suppression to achieve 2k-anonymity.
 | Zip         | 4                          | 2%    |
 | Citizenship | 1                          | 0.5%  |
 
-After suppression we achieve 2k-anonymity as well as only having 8 individuals (4%) violate 3k-anonymity. Marital status was removed as it was not in the public data and we felt that we did not want to release any data that could in the future become available and compromise our anonymization.
+After suppression we achieve 2k-anonymity as well as only having 8 individuals (4%) violate 3k-anonymity. Marital status was removed as it had little contribution to the analysis, given how it correlates with age and increases discloure risk.
+ 
 
 ##### Perturbation
 
