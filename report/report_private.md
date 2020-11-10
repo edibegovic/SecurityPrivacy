@@ -10,8 +10,6 @@ We use the sdcMicro web interface to examine the dataset and analyse the relatio
 
 We register all variables available in the public register as quasi-identifiers, such that *party* (voted for) is considered the only sensible variable. 
 
-
-
 ### Methodology
 
 We start out by removing any direct identifiers; this just includes the names, which also carry no utility for the analysis. To measure risk, we mainly use k-anonymity as a baseline. We also incorporate weights for the quasi-identifiers from the public register and evaluate the global identification risk.
@@ -20,15 +18,17 @@ We start out by removing any direct identifiers; this just includes the names, w
 
 Apart from *DOB* (*date for birth*), all other key variables are categorical but contain many different values and thus increases uniqueness. We therefore split them into more coarse groups, where we don't see a high reduction in utility. 
 
-The age (max_age) is created by subtracting the birth-year from 2020. The solution is not the most elegant, but it is essentially the same as using the birth-year for the further grouping as criteria. To go on age is grouped into four ranges. 
+We recode the *DOB* as age (thus assuming the survey was conducted in 2020) and further group them by four ranges. The solution is not the most elegant, but it is essentially the same as using the birth-year for the further grouping as criteria.
 
-| Variable              | Grouping                                         | k2-anonymity violation |
-| :-------------------- | ------------------------------------------------ | ---------------------- |
-| Original              | -                                                | 198 · 98%              |
-| DOB (*date of birth*) | 1 (<31)<br />2 (31-45)<br />3(46-65)<br />4(>65) | 55 · 27.5%             |
-| Citizenship           | Danish<br />Other                                | 55 · 27.5%             |
+| Variable              | Grouping                                           | k2-anonymity violation |
+| :-------------------- | -------------------------------------------------- | ---------------------- |
+| Original              | -                                                  | 198 · 98%              |
+| DOB (*date of birth*) | 1 (<31)<br />2 (31-45)<br />3 (46-65)<br />4 (>65) | 55 · 27.5%             |
+| Citizenship           | Danish<br />Other                                  | 55 · 27.5%             |
 
-As *educational background* is not considered publicly available, we decided to include it without any modification. This information is however - as with everything else - still susceptible for recognition by the end user. Nevertheless, our decision was based on the notion, that it adds one more demographic variable to the dataset, therefor increasing its utility.
+*Citizenship* is also recoded, grouping all non-Danish citizenships as they only make up 7.5% of records. While there is no immediate change in k-anonymity, it will reduce the number of suppressions needed in the following step, minimizing loss of utility.
+
+As *educational background* is not considered publicly available, we decided to include it without any modification. This information is however - as with everything else - still susceptible for recognition by the end user. Our decision was based on the notion that it adds one more demographic variable to the dataset, therefore increasing its utility.
 
 ##### Suppression
 
@@ -44,15 +44,21 @@ After suppression we achieve 2k-anonymity as well as only having 8 individuals (
 
 ##### Perturbation
 
-After suppression we have a very low percentage of individuals violating 3k-anonymity and none violating 2k-anonymity, therefore we decided not to apply any perturbation to the data to keep more utility. We believe that it is still hard to unequivocally identify voters with the help of our anonymized data. Had any perturbation been performed, this further had to be clearly explained to the end-user of the data, as relationships between variables wouldn't be kept. 
+After suppression we have a very low percentage of individuals violating 3k-anonymity and none violating 2k-anonymity, therefore we decided not to apply any perturbation to the data to keep more utility. We believe that it is still hard to unequivocally identify voters with the help of our anonymized data. Had any perturbation been performed, this further had to be clearly stated to the end-user of the data, as relationships between variables wouldn't be kept. 
+
 
 ### Assessing Utility
 
+<<<<<<< HEAD
 To assess the utility of the modified data, we check the 95% confidence intervals on the proportions of red/green votes for each categorical value. This way we can be certain the the 
+=======
+To asses the utility of the modified data, we check the 95% confidence intervals on the proportions of red/green votes for each categorical value.
+
+>>>>>>> 62932b29ec8109d9adeeb2fefd19849d6dbc057b
 
 ### Uses for Analysis
 
-For the analytical purposes of the data, we'd argue that, apart from voting type and choice (*evote* and *party*, respectively), age in itself would suffice as argumentation for the skew in how electronic and paper ballots were cast. However, all of the demographic variables are correlated to various degrees thus we decided to keep them all.
+For the analytical purposes of the data, we'd argue that, apart from voting type and choice (*evote* and *party*, respectively), age in itself would suffice as argumentation for the skew in how electronic and paper ballots were cast. Keeping *age groups* as the only demographic variable would significantly reduce the identification risk. However, all of the demographic variables are correlated to various degrees thus we decided to keep them all. 
 
 In respect to the analytical questions provided, we would approach them the same way with the anonymized data as with the non-anonymized. 
 
@@ -60,17 +66,17 @@ In respect to the analytical questions provided, we would approach them the same
 
 As we have not used any perturbative anonymization methods and neither voting locations nor any the party variable was suppressed, we can therefore perform a Chi-squared test on votes for each party by voting type. 
 
-"private_dataB.xlsx" or "anonymized_data.csv", is separated into two data frames, one containing e-voters and another containing in person voters.
+"private_dataB.xlsx" or "anonymized_data.csv", is separated into two data frames, one containing e-vote and another containing in person voters.
 
-The votes for each party, Green and Red, are then summed for each voting location. A Chi-squared test is then performed on the summed values from the sample and the totals from the population, "public_data_resultsB.xlsx".
+The votes for each party, Green and Red, are then summed for each voting location. A statistical method, like the Chi-squared test, can then be performed on the summed values from the sample and the totals from the population, "public_data_resultsB.xlsx".
 
 ###### B)
 
-Using "private_dataB.xlsx" or "anonymized_data.csv" we separate this into two data frames, one containing e-voters and another containing in person voters. The sum of votes for the Red and the Green party in each data frame are calculated. We can now calculate the ratio of Red and Green party votes for each voting method. The ratio of in person and e-votes are then compared. If either method leans more than 10% either side of the other then we consider it a significant difference.
+Using "private_dataB.xlsx" or "anonymized_data.csv" we separate this into two data frames, one containing *evote* and another containing in person voters. The sum of votes for the Red and the Green party in each data frame are calculated. A statistical method, like the T-test, can then be applied or a more naïve approach can be taken by just comparing the ratio of in person and e-votes and setting a significant difference standard.
 
 ###### C)
 
-The demographic factors used are "sex","zip","citizenship","marital_status" and "party" for the original dataset and xx xx x xx xx for the anonymized dataset.  For each dataset we follow the same steps as in B, separate them into two data frames, one containing e-voters and another containing in person voters. These two data fames are then further split along demographic lines.  Using "private_dataB.xlsx" or "" we separate this into two data frames, one containing e-voters and another containing in person voters. The parties in the data frame are then converted into integer representations. 
+The demographic factors used are "sex","zip","citizenship","marital_status" and "party" for the original dataset , "private_dataB.xlsx", and the anonymized dataset, "anonymized_data.csv" .  For each dataset we follow the same steps as in B, separate them into two data frames, one containing e-voters and another containing in person voters. These two data fames are then further split along demographic lines.  Using "private_dataB.xlsx" or "anonymized_data.csv" we separate this into two data frames, one containing e-voters and another containing in person voters. These two data frames can be further subdivided into the demographic factors to be assessed. A statistical method, like the T-test, can then be applied or a more naïve approach can be taken by just comparing the ratio of in person and e-votes and setting a significant difference standard.
 
 
 
