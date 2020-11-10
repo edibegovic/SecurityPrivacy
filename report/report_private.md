@@ -48,7 +48,7 @@ After suppression we have a very low percentage of individuals violating 3k-anon
 
 ### Assessing Utility
 
-To asses the utility of the modified data, we check the 95% confidence intervals on the proportions of red/green votes for each categorical value. This way we can be certain the the 
+To assess the utility of the modified data, we check the 95% confidence intervals on the proportions of red/green votes for each categorical value. This way we can be certain the the 
 
 ### Uses for Analysis
 
@@ -76,3 +76,8 @@ The demographic factors used are "sex","zip","citizenship","marital_status" and 
 
 ### Auxiliary Data
 
+As auxiliary data we decided to shed some light on the citizenship of non-Danish voters. Previously we have encoded their citizenship as "Other", in the auxiliary data we created a table of their exact citizenship matched with their age (calculated the disclosed way) and their education level. The file contains 15 lines, and an equipped adversary should be able to be certain about the vote as 8 of them. The name of the voters to discover can be found in the attached file.
+
+#### Further measures to hide
+
+We could use perturbative methods to hide users more as well, applying PRAM would increase the uncertainty regarding the values.
