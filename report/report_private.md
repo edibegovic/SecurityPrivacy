@@ -18,7 +18,7 @@ We start out by removing any direct identifiers; this just includes the names, w
 
 Apart from *DOB* (*date for birth*), all other key variables are categorical but contain many different values and thus increases uniqueness. We therefore split them into more coarse groups, where we don't see a high reduction in utility. 
 
-We recode the *DOB* as age (thus assuming the survey was conducted in 2020) and further group them by four ranges. The solution is not the most elegant, but it is essentially the same as using the birth-year for the further grouping as criteria.
+ *Age* is defined by subtracting the birth-year from 2020 and further group them into four ranges. The solution is not the most elegant, but it is essentially the same as using the birth-year for the further grouping as criteria.
 
 | Variable              | Grouping                                           | k2-anonymity violation |
 | :-------------------- | -------------------------------------------------- | ---------------------- |
@@ -51,7 +51,7 @@ After suppression we have a very low percentage of individuals violating 3k-anon
 
 <img src="risk_dist.png" alt="Screenshot 2020-11-10 at 10.15.13" style="zoom:40%;" />
 
-After the above steps, no record has a reidentification risk above 0.33, with more than 90% less than 0.1. Though the risk is heavily reduced, many keys share the same value for the sensible variable (that is, voted for the same party). In fact, 78 records violate 2-diversity for *party*. This can be hard to mitigate, as people of the same demographics tend to vote the same.
+After the above steps, no record has a reidentification risk above 0.33, with more than 90% less than 0.1. Though the risk is heavily reduced, many keys share the same value for the sensible variable (that is, voted for the same party). In fact, 78 records violate 2-diversity for *party*. This can be hard to mitigate, as people of the same demographics also tend to vote the same.
 
 
 ### Assessing Utility
@@ -61,17 +61,13 @@ To asses the utility of the modified data, we check the 95% confidence intervals
 
 ### Uses for Analysis
 
-For the analytical purposes of the data, we'd argue that, apart from voting type and choice (*evote* and *party*, respectively), age in itself would suffice as argumentation for the skew in how electronic and paper ballots were cast. Keeping *age groups* as the only demographic variable would significantly reduce the identification risk. However, all of the demographic variables are correlated to various degrees and thus we decided to keep them all. 
+For the analytical purposes of the data, we'd argue that, apart from voting type and choice (*evote* and *party*, respectively), age in itself would suffice as argumentation for the skew in how electronic and paper ballots were cast. Keeping *age groups* as the only demographic variable would significantly reduce the identification risk. However, all of the demographic variables are correlated to various degrees and thus we decided to keep most of them. 
 
-In respect to the analytical questions provided, we would approach them the same way with the anonymized data as with the non-anonymized. 
+With respect to the analytical questions provided, we would approach them the same way with the anonymized data as with the non-anonymized. 
 
 ###### A)	
 
-As we have not used any perturbative anonymization methods and neither voting locations nor any the party variable was suppressed, we can therefore perform a Chi-squared test on votes for each party by voting type. 
-
-"private_dataB.xlsx" or "anonymized_data.csv", is separated into two data frames, one containing e-vote and another containing in person voters.
-
-The votes for each party, Green and Red, are then summed for each voting location. A statistical method, like the Chi-squared test, can then be performed on the summed values from the sample and the totals from the population, "public_data_resultsB.xlsx".
+The votes for each party, Green and Red, are then summed for each voting location. A statistical test, like the Chi-squared test, can then be performed on the summed values from the sample and the totals from the population, "public_data_resultsB.xlsx".
 
 ###### B)
 
