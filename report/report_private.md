@@ -81,7 +81,7 @@ The demographic variables used are *sex*, *zip*, *citizenship*, *education* and 
 
 ### Auxiliary Data
 
-As auxiliary data we decided to shed some light on the citizenship of non-Danish voters. Previously we have encoded their citizenship as "Other", in the auxiliary data we created a table of their exact citizenship matched with their age (calculated the disclosed way) and their education level. The file contains 15 lines, and an equipped adversary should be able to be certain about the vote as 8 of them. The name of the voters to discover can be found in the attached file.
+As auxiliary data we decided to shed some light on the citizenship of non-Danish voters. Previously we have encoded their citizenship as "Other", in the auxiliary data we created a table of their exact citizenship matched with their age (calculated the disclosed way) and their education level. The file contains 15 lines, and an equipped adversary should be able to be certain about the vote as 8 of them. The name of the voters to discover can be found in the attached file ***people_to_identify.txt***.
 
 #### Further measures to hide
 
